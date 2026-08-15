@@ -253,7 +253,7 @@ def build_docx(paths: dict[str, Path]) -> Path:
     subhead(doc, "Sample")
     body(
         doc,
-        "After requiring a lag and five finishers, 40 team-seasons from 15 schools were in the fit sample (2021–2024). Twelve scoring teams were in 2025 (Figure 1). Last year’s first- and fifth-runner times were highly correlated.",
+        "After requiring a lag and five finishers, 40 team-seasons from 15 schools were in the fit sample (2021–2024). Twelve scoring teams were in 2025 (Figure 1). Last year’s first- and fifth-runner z-scores were highly correlated (r = 0.84).",
     )
     add_figure(
         doc,
@@ -264,7 +264,7 @@ def build_docx(paths: dict[str, Path]) -> Path:
     subhead(doc, "Primary Model Comparison")
     body(
         doc,
-        "Table 2 shows the nested models. School size and type alone explained about half of the variance in next year’s team place. Adding last year’s first-runner z improved the fit. Adding last year’s fifth-runner z improved it more and had the lowest AIC. A slower fifth runner was linked to a worse team place; the 95% confidence interval did not include zero. When both z-scores were in the same model, the fifth-runner term stayed related to place and the first-runner term did not. Pack gap by itself was weaker than either z-score model. Team-score models ranked the same way (Figure 2 and Figure 3).",
+        "Table 2 shows the nested OLS fits. Controls explained 46.5% of the variance in team place (adjusted R² = 0.42). Adding first-runner z raised R² to 0.62 (ΔAIC = 8.1 versus the fifth-runner model). Adding fifth-runner z raised R² to 0.69 and had the lowest AIC. The fifth-runner coefficient was 3.86 places per SD slower (cluster 95% CI 2.28 to 5.43; wild cluster bootstrap 95% CI 2.44 to 5.34). Pack gap alone only reached R² = 0.53 (ΔAIC = 16.7). In the joint model, fifth-runner z was still related to place (3.13, 95% CI 1.39 to 4.88) and first-runner z was not (1.43, 95% CI −0.59 to 3.46). Leave-one-school-out RMSE for the fifth-runner model was 2.80 places (Figure 2 and Figure 3). Team-score models ranked the same way. Fifth-runner z had the lowest AIC.",
     )
     add_table(
         doc,
@@ -294,7 +294,7 @@ def build_docx(paths: dict[str, Path]) -> Path:
     subhead(doc, "Holdout and Sensitivity")
     body(
         doc,
-        "On the 12 scoring teams in 2025, the fifth-runner model ranked schools close to the official order (Figure 4). The typical place error was not smaller than a model that used only school size and type. Pack gap had the smallest numeric error but a weaker ranking than fifth-runner z (Table 3).",
+        "On 12 scoring teams in 2025, the fifth-runner model had RMSE = 3.51 and Spearman ρ = 0.87 (Figure 4). The controls model had RMSE = 3.08 and ρ = 0.68. Pack gap had the lowest holdout RMSE (2.53) but a lower rank correlation (ρ = 0.76) than fifth-runner z (Table 3). The fifth-runner model ranked the teams closer to the official order, but the typical place error was not better than enrollment and sector except for pack gap.",
     )
     add_table(
         doc,
@@ -317,22 +317,22 @@ def build_docx(paths: dict[str, Path]) -> Path:
     )
     body(
         doc,
-        "Leaving out one school at a time did not change the sign of the fifth-runner coefficient. Leaving out one season at a time, 2024 had the largest error. A permutation test supported the fifth-runner model R². Swapping first- and fifth-runner z within teams did not show a clear gap, which matches how closely those two times move together. WCAC membership was not significant.",
+        "Leave-one-school-out fifth-runner coefficients ranged from 3.25 to 4.61 (mean 3.84). Leave-one-season-out RMSE was 2.02 (2021), 1.29 (2022), 2.23 (2023), and 3.72 (2024). A permutation test of fifth-runner z gave p = 0.005 for the observed R². Swapping first- and fifth-runner z within teams gave p = 0.29 for the in-sample R² gap, which matches the high correlation (r = 0.84). The WCAC coefficient was not significant (95% CI −1.85 to 0.81).",
     )
     body(
         doc,
-        "For the boys sample, last year’s fifth runner added more information about next year’s team place than last year’s first runner. Fit quality, the joint model, and 2025 rank order pointed that way. Numeric place error on the holdout year did not. In a small championship field, the order can look better even when the typical error is still a few places. One possible reason, which this study does not prove, is that each of the first five places counts the same, so the fifth scorer may show whether a school can still fill a scoring five the next year.|1| Clustered standard errors with 15 schools are also a limited check.|8| 2025 is only one holdout year.",
+        "For the boys sample, last year’s fifth runner added more information about next year’s team place than last year’s first runner. R², AIC, the joint model, and holdout rank correlation all pointed that way. Holdout RMSE did not. In a 12-team race, the order can look better even when the typical error is still a few places. One possible reason, which this study does not prove, is that each of the first five places counts the same, so the fifth scorer may show whether a school can still fill a scoring five the next year.|1| Fifteen schools is a small number of clusters for clustered standard errors.|8| 2025 is only one holdout year.",
     )
     subhead(doc, "Limitations")
     body(
         doc,
-        "This is one district and one course. Forty team-seasons and 15 schools is a small sample. Enrollment does not change by year. Teams that did not finish five runners drop out of the lag sample. Invitationals were not scored. OLS on place is an approximation. The results are associations, not cause and effect. The same lag setup on girls varsity files did not rank fifth runner above first runner, but that sample is too small to treat as a second study. Watching the likely fifth scorer may help a boys forecast more than watching only the fastest runner, but 2025 place error was not better than school size and type alone.",
+        "This is one district and one course. Forty team-seasons and 15 schools is a small sample. Enrollment does not change by year. Teams that did not finish five runners drop out of the lag sample. Invitationals were not scored. OLS on place is an approximation. The results are associations, not cause and effect. The same lag setup on girls varsity files (18 team-seasons, no 2025 holdout) did not rank fifth runner above first runner, but that sample is too small to treat as a second study. For boys in this sample, watching the likely fifth scorer may help a forecast more than watching only the fastest runner, but 2025 RMSE was better for pack gap and for controls than for the fifth-runner-only model.",
     )
 
     heading(doc, "Conclusion")
     body(
         doc,
-        "In this DCSAA boys sample, last year’s fifth runner predicted next year’s team place better in the fit years than last year’s first runner, including when both were in the same model. A frozen fifth-runner model ranked the 2025 teams close to the official order, but typical place error did not beat a model based only on school size and type. More districts would be needed before using pack depth as a general forecasting tool.",
+        "In this DCSAA boys sample, last year’s fifth-runner z-score predicted next year’s team place better in-sample than last year’s first-runner z-score. Leave-one-school-out RMSE was 2.80 places. A frozen fifth-runner model ranked the 2025 teams with Spearman ρ = 0.87. RMSE was about 3.5 places and did not beat the controls model. Pack gap had the lowest holdout RMSE. More districts would be needed before using pack depth as a general forecasting tool.",
     )
 
     heading(doc, "AI Acknowledgement")
