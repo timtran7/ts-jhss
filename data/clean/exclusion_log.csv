@@ -1,0 +1,10 @@
+rule,detail
+time_window,Finish times outside 14–45 min dropped as incomplete or not 5 km
+race_type,"Junior varsity, Varsity B, and middle school events excluded"
+scoring_squad,Star/depth from the seven fastest recorded varsity times per school; extra finishers in mixed dumps ignored
+no_invitationals,Invitational SOS not ingested; WCAC is only a coarse proxy
+five_finishers,Regression requires five finishers so a fifth-runner z-score exists
+lag,Estimation/holdout require a prior parsed championship for the same school
+2021_lag,2021 uses 2019 as the prior championship because 2020 is omitted
+unmapped_schools,Names not in data/schools.csv dropped; see unmapped_schools.json
+ties,Posted team place used when available; reconstructed ranks break remaining ties by score then school name

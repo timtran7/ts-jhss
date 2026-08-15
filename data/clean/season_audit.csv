@@ -1,0 +1,11 @@
+season,source_file,individual_finishers_parsed,schools_in_panel,scoring_teams_ge5,estimation_rows,holdout_rows,notes
+2016,dcsaa_2016.txt,0,0,0,0,0,Individual times present without school names; excluded
+2017,dcsaa_2017.txt,0,0,0,0,0,Archived file is junior varsity; varsity not parsed
+2018,dcsaa_2018.txt,0,0,0,0,0,Archived file is junior varsity; varsity not parsed
+2019,dcsaa_2019.txt,73,11,7,0,0,
+2020,,0,0,0,0,0,Omitted; no championship
+2021,dcsaa_2021.txt,71,11,8,6,0,
+2022,dcsaa_2022.txt,85,12,12,8,0,
+2023,dcsaa_2023.txt,93,14,14,11,0,
+2024,dcsaa_2024.txt,404,19,19,15,0,
+2025,dcsaa_2025.txt,103,14,14,0,12,

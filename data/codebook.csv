@@ -1,0 +1,21 @@
+field,table,definition,source
+season,team_seasons,Fall championship year (2022–2025),derived
+school,team_seasons,School name as standardized in the crosswalk,hand crosswalk
+school_id,team_seasons,Stable ID after name cleaning,hand
+public_private,team_seasons,public | private | charter,NCES CCD / PSS / OSSE
+enrollment_9_12,team_seasons,High school membership grades 9–12,NCES ELSI or PSS
+state_place,team_seasons,DCSAA varsity boys team place,championship team scores
+state_score,team_seasons,DCSAA varsity boys team score (sum of top 5 places),championship team scores
+scored_team,team_seasons,1 if at least five finishers,championship
+meet_id,meets,MileSplit or timer meet id,MileSplit / M&D Timing
+meet_date,meets,Meet date,meet page
+championship,meets,Y if DCSAA championship,DCSAA bulletin
+distance_m,races,Race distance in meters (expect 5000 for varsity),results
+gender,races,Always M for this paper,lock
+role,features,Runner rank on team that day (1–7),derived
+time_sec,races,Finish time in seconds,results
+z_within_meet,features,Time z-score within that varsity race,derived
+star,features,Median pre-state #1 within-meet z,derived
+depth,features,Median pre-state #5 within-meet z,derived
+pack_gap,features,Median pre-state (#5 z − #1 z),derived
+sos,features,Mean pre-state invitational field quality,derived

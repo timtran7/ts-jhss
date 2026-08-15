@@ -1,0 +1,86 @@
+| Place | Athlete | Grade | School | Time |
+| 1 | Pierre Attiogbe | 12 | St. Albans School | 15:52.3 |
+| 2 | Sebi Hume | 10 | St. Albans School | 16:43.9 |
+| 3 | Matthew Podratsky | 10 | Gonzaga College High School | 16:49.2 |
+| 4 | William Strong | 10 | St. Albans School | 16:50.9 |
+| 5 | Lucas Rohde | 11 | Gonzaga College High School | 16:52.6 |
+| 6 | Paul Robinson | 11 | St. John's College High School | 17:05.0 |
+| 7 | Luke Cohen | 12 | Georgetown Day School | 17:25.9 |
+| 8 | Liam Thomson | 12 | Gonzaga College High School | 17:36.9 |
+| 9 | Ethan Wolin | 12 | Georgetown Day School | 17:37.0 |
+| 10 | Laszlo Wolfe | 10 | St. Albans School | 17:43.4 |
+| 11 | Finley Tobin | 11 | St. John's College High School | 17:51.1 |
+| 12 | Easy Weissman | 11 | Sidwell Friends School | 17:56.7 |
+| 13 | John Rhee | 12 | St. Albans School | 18:01.5 |
+| 14 | Jack Thomas | 12 | St. Albans School | 18:03.4 |
+| 15 | Daniel Whitley | 12 | Jackson-Reed High School | 18:10.1 |
+| 16 | Karil Arnold | 9 | St. John's College High School | 18:10.6 |
+| 17 | John McMurray | 10 | Sidwell Friends School | 18:15.3 |
+| 18 | William Buckley | 10 | Gonzaga College High School | 18:16.4 |
+| 19 | Marc Luchtefeld | 12 | St. John's College High School | 18:26.4 |
+| 20 | John Hirko | 10 | Gonzaga College High School | 18:29.7 |
+| 21 | Liam Quinn | 10 | St. Albans School | 18:35.4 |
+| 22 | Ollie Alfonso-Frank | 11 | Georgetown Day School | 18:41.0 |
+| 23 | Arjun Pathiyal | 12 | Georgetown Day School | 18:42.2 |
+| 24 | Tim Barloon | 12 | Gonzaga College High School | 18:51.4 |
+| 25 | Mac Penniman | 10 | Georgetown Day School | 18:55.1 |
+| 26 | Navin Desai | 11 | Georgetown Day School | 18:57.8 |
+| 27 | Nate Bazemore | 12 | Georgetown Day School | 18:58.1 |
+| 28 | Michael Razavi | 12 | Sidwell Friends School | 19:01.9 |
+| 29 | Tyler Kenney | 12 | Jackson-Reed High School | 19:05.4 |
+| 30 | Mark Suardi | 9 | Jackson-Reed High School | 19:08.0 |
+| 31 | Elie Fisher | 9 | Sidwell Friends School | 19:09.7 |
+| 32 | Anthony Sarro | 9 | Gonzaga College High School | 19:23.1 |
+| 33 | James Barnacle | 12 | St. John's College High School | 19:33.2 |
+| 34 | Charles Lunde | 10 | Edmund Burke School | 19:36.1 |
+| 35 | Marcelles Crockett | 10 | Phelps Career High School | 19:41.3 |
+| 36 | Sajan Shah | 11 | Sidwell Friends School | 19:46.6 |
+| 37 | Asher Milberg | 12 | Maret School | 19:46.9 |
+| 38 | Samuel Schick | 11 | Maret School | 19:54.2 |
+| 39 | Charles Cleveland | 10 | The Field School | 19:57.6 |
+| 40 | John Pinkerton | 11 | Maret School | 20:02.9 |
+| 41 | Kenji Ishi | 12 | Sidwell Friends School | 20:07.3 |
+| 42 | John WIDOR | 9 | Maret School | 20:18.2 |
+| 43 | Joshua Bonner | 12 | Jackson-Reed High School | 20:19.8 |
+| 44 | August Taylor | 11 | Jackson-Reed High School | 20:21.0 |
+| 45 | Aidan Delaney | 11 | DC International School | 20:26.1 |
+| 46 | Reese Kaercher | 11 | McKinley Tech High School | 20:35.7 |
+| 47 | Cillian Lyster | 9 | Washington Latin Public Charter | 20:37.8 |
+| 48 | Ian Singleton | 12 | Edmund Burke School | 20:38.9 |
+| 49 | Matt Kaczor | 11 | St. John's College High School | 20:41.7 |
+| 50 | Adam Oppenheimer | 12 | Edmund Burke School | 20:55.2 |
+| 51 | Evan Lucas | 11 | The Field School | 21:00.4 |
+| 52 | Leo Farina | 12 | Maret School | 21:03.3 |
+| 53 | Andrew Ash | 12 | Jackson-Reed High School | 21:04.3 |
+| 54 | Eli Williams | 10 | DC International School | 21:07.1 |
+| 55 | Michael Tichy | 10 | Washington Latin Public Charter | 21:10.2 |
+| 56 | Xavier Jackson | 11 | Phelps Career High School | 21:13.9 |
+| 57 | Alonzo Miles | 10 | KIPP DC: College Prep | 21:21.0 |
+| 58 | Alexander Harris | 12 | DC International School | 21:30.2 |
+| 59 | Jordan Lawrence | 11 | DC International School | 21:30.6 |
+| 60 | Cassius Fiorill | 9 | Edmund Burke School | 21:45.7 |
+| 61 | Caedmon Peterson | 11 | DC International School | 21:50.2 |
+| 62 | Jack Pearson | 10 | Washington Latin Public Charter | 21:50.7 |
+| 63 | Owen Franklin | 11 | Edmund Burke School | 22:11.1 |
+| 64 | Charles Pomper | 12 | Maret School | 22:11.9 |
+| 65 | Zachary Robertson | 7 | DC International School | 22:16.7 |
+| 66 | Dhani Young | 12 | KIPP DC: College Prep | 22:20.2 |
+| 67 | Keith Harris | 10 | KIPP DC: College Prep | 22:20.6 |
+| 68 | Josh Googglick | 12 | The Field School | 22:22.3 |
+| 69 | Jack Jezior | 9 | Edmund Burke School | 22:31.9 |
+| 70 | William Batkin | 10 | Washington Latin Public Charter | 22:35.5 |
+| 71 | Sean Robinson | 12 | The Field School | 22:51.6 |
+| 72 | Michael Terrell | 10 | McKinley Tech High School | 23:15.3 |
+| 73 | Mehki Watts | 12 | Phelps Career High School | 23:17.1 |
+| 74 | Charles West | 11 | Phelps Career High School | 23:27.8 |
+| 75 | Jackson Trinca | 9 | Washington Latin Public Charter | 23:34.7 |
+| 76 | Noah Goldstein | 11 | DC International School | 23:54.3 |
+| 77 | Giovanni Gaines | 11 | Paul Public Charter School | 23:59.0 |
+| 78 | Jasper Hughes | 11 | Maret School | 24:00.3 |
+| 79 | Jayden Harrod-Daniels | 10 | T Roosevelt Senior High School | 24:06.5 |
+| 80 | Mason Ewers | 10 | KIPP DC: College Prep | 24:29.7 |
+| 81 | Jerry Dunlap | 11 | KIPP DC: College Prep | 24:32.6 |
+| 82 | Zion Fields | 10 | KIPP DC: College Prep | 24:58.3 |
+| 83 | Markell Yarborough | 11 | KIPP DC: College Prep | 25:23.6 |
+| 84 | Zach Geyer | 10 | The Field School | 25:23.8 |
+| 85 | Milo Harris | 9 | Washington Latin Public Charter | 25:59.6 |

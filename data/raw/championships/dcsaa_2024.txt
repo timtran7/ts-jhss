@@ -1,0 +1,592 @@
+DCSAA Cross Country Championships 2024 - HS (Raw)
+
+Loading
+
+```
+Mens 5,000 Meters Varsity Team Scores
+=========================================================
+  Pl Team                                          Points
+=========================================================
+  1  St Albans                                         25 
+  2  Gonzaga College                                   64 
+  3  St John's College                                 67 
+  4  Georgetown Day                                   108 
+  5  Jackson-Reed                                     133 
+  6  Sidwell Friends                                  214 
+  7  Washington Latin PCS                             234 
+  8  Maret                                            245 
+  9  BASIS DC                                         249 
+ 10  DC International                                 254 
+ 11  McKinley Technology                              266 
+ 12  Field                                            302 
+ 13  Bell Multicultural                               400 
+
+
+Mens 5,000 Meters Varsity Results
+====================================================================================
+  Pl Athlete                   Yr Team                                          Time
+====================================================================================
+   1 Karil Arnold              11 St John's College                         15:16.27 
+   2 William Strong            12 St Albans                                 15:23.43 
+   3 Sebi Hume                 12 St Albans                                 15:24.15 
+   4 Anthony Sarro             11 Gonzaga College                           15:51.36 
+   5 Liam Quinn                12 St Albans                                 16:06.43 
+   6 Laszlo Wolfe              12 St Albans                                 16:10.30 
+   7 Arjun Bhat                10 Jackson-Reed                              16:11.63 
+   8 Caleb Rock                11 St John's College                         16:18.13 
+   9 Rafi Hume                 10 St Albans                                 16:21.48 
+  10 Andrew Bennett            11 Georgetown Day                            16:28.55 
+  11 William Buckley           12 Gonzaga College                           16:30.29 
+  12 Kai Rock                  11 Gonzaga College                           16:31.02 
+  13 Quinn Langan              11 St John's College                         16:34.96 
+  14 Oliver Wolin              11 Georgetown Day                            16:36.11 
+  15 Thomas Power              10 St Albans                                 16:48.05 
+  16 Charlie Palmore           11 St Albans                                 16:56.63 
+  17 Cillian Lyster            11 Washington Latin PCS                      16:58.76 
+  18 Declan Musselman          10 Gonzaga College                           17:08.03 
+  19 Teddy Fritz               11 Gonzaga College                           17:08.36 
+  20 Indiana Owings             9 St John's College                         17:09.83 
+  21 Mark Suardi               11 Jackson-Reed                              17:12.78 
+  22 Jennings Davis            10 Gonzaga College                           17:14.55 
+  23 Gavin Solomon              9 Georgetown Day                            17:17.59 
+  24 Ramon Martinez            12 DC International                          17:21.06 
+  25 Noah Shea                 11 St John's College                         17:22.93 
+  26 Cameron Mickle            12 St John's College                         17:28.09 
+  27 Harrison Bertsch          12 Jackson-Reed                              17:43.16 
+  28 Ian Catanzano             11 Gonzaga College                           17:44.17 
+  29 Noah Kolker               11 Georgetown Day                            17:46.64 
+  30 Teigan Hellman            10 Sidwell Friends                           17:47.38 
+  31 Parker Medlin             11 Sidwell Friends                           17:47.81 
+  32 James Fitzgibbons         10 Georgetown Day                            17:55.44 
+  33 Fikreab Haileselassie     12 McKinley Technology                       17:56.38 
+  34 Andrew Leopold            11 Georgetown Day                            17:57.86 
+  35 John Widor                11 Maret                                     17:59.17 
+  36 Ryan Fochler              11 BASIS DC                                  18:06.18 
+  37 Conrad Day                10 Jackson-Reed                              18:06.53 
+  38 Jack Laws                  9 Field                                     18:10.06 
+  39 Henry Macauley            11 Maret                                     18:15.14 
+  40 Michael Tichy             12 Washington Latin PCS                      18:16.57 
+  41 Justin Shaya              11 Jackson-Reed                              18:17.05 
+  42 Christopher Dunlop        11 DC International                          18:19.99 
+  43 Santiago Gonzalez-Winth   11 BASIS DC                                  18:24.74 
+  44 Charlie Smith             10 Field                                     18:25.28 
+  45 Alvaro Orlove Rodriguez   12 Jackson-Reed                              18:25.52 
+  46 Brandon Elliot            11 BASIS DC                                  18:26.04 
+  47 Aidan Schick              10 Maret                                     18:31.06 
+  48 Saadiq McCauley           10 McKinley Technology                       18:37.82 
+  49 Leo Johnson-Goldfrank     11 Georgetown Day                            18:40.94 
+  50 Alonzo Miles              12 KIPP DC College Prep                      18:41.72 
+  51 Robby Matsui              12 Sidwell Friends                           18:48.26 
+  52 Harold Wyatt              10 Sidwell Friends                           18:48.69 
+  53 Rowan Dobranski           10 Sidwell Friends                           18:51.12 
+  54 Rafae Niazi                9 Sidwell Friends                           18:52.88 
+  55 Daniel Marelli            12 Sidwell Friends                           18:57.90 
+  56 Josiah Chapman            11 McKinley Technology                       19:11.06 
+  57 Jack Jezior               11 Edmund Burke                              19:14.94 
+  58 Maccabi Epstein           12 Washington Latin PCS                      19:18.59 
+  59 Nehemaih McGee            11 DC International                          19:25.06 
+  60 Herman Buckman            12 KIPP DC College Prep                      19:35.70 
+  61 Wilson McPhatter          11 McKinley Technology                       19:35.73 
+  62 Diarrah Fletcher          12 Archbishop Carroll (DC)                   19:42.46 
+  63 William Batkin            12 Washington Latin PCS                      19:43.83 
+  64 Dean Rubin                10 BASIS DC                                  19:44.91 
+  65 Bram Schestopol            9 Maret                                     19:56.19 
+  66 Milo Harris               11 Washington Latin PCS                      19:57.64 
+  67 Benjamin Beeson           11 Maret                                     20:02.02 
+  68 Stephen Orzechowski        9 BASIS DC                                  20:02.95 
+  69 Bobby Lyons               11 DC International                          20:03.72 
+  70 Zachary Robertson          9 DC International                          20:22.22 
+  71 Josh Goodglick            12 Field                                     20:26.74 
+  72 Jack Pearson              12 Washington Latin PCS                      20:28.08 
+  73 Nicholas Premysler        11 BASIS DC                                  20:40.73 
+  74 Isaac Weissman            10 Edmund Burke                              21:03.53 
+  75 Isaac Harder              10 Maret                                     21:03.86 
+  76 Erik Perdomo              12 Bell Multicultural                        21:11.52 
+  77 Jayson Ingram              9 McKinley Technology                       21:18.68 
+  78 Felix Pezalla-Werth       10 Edmund Burke                              21:18.83 
+  79 Camden Branch             12 Archbishop Carroll (DC)                   21:28.73 
+  80 Manny Capellan             9 DC International                          21:36.86 
+  81 Colonius Gwaltney         11 KIPP DC College Prep                      21:47.14 
+  82 Patrick Kirshbaum         10 Maret                                     22:01.13 
+  83 Ibrahim Buriah            12 Roosevelt (DC)                            22:04.13 
+  84 Luke Shih                 10 DC International                          22:05.60 
+  85 Wade Romhilt              10 Field                                     22:16.38 
+  86 Elijah Riggs              10 Field                                     22:25.78 
+  87 Ethan Kozolchyk            9 BASIS DC                                  22:43.22 
+  88 Chatman Nichols           10 Washington Latin PCS                      22:49.78 
+  89 William Buck               9 St. Jerome Institute                      22:52.83 
+  90 Theodore Cofield          10 KIPP DC College Prep                      22:57.80 
+  91 Simeon Ellis              12 Bell Multicultural                        23:36.79 
+  92 Jonah Levine               9 Field                                     25:24.11 
+  93 Kiduse Alemsah            11 Bell Multicultural                        25:41.47 
+  94 Daniel Cruz-Rodezno       12 Bell Multicultural                        27:25.94 
+  95 Mazin Brake               10 Bell Multicultural                        27:38.33 
+  96 Robert Carroll            10 Friendship Tech Prep                      30:18.58 
+  97 Donell Gray III           11 Friendship Tech Prep                      34:17.43 
+  98 Zachery Harper            10 Friendship Tech Prep                      36:59.36 
+
+
+Womens 5,000 Meters Varsity Team Scores
+=========================================================
+  Pl Team                                          Points
+=========================================================
+  1  Georgetown Visitation Prep                        36 
+  2  National Cathedral for Girls                      66 
+  3  St John's College                                 72 
+  4  Georgetown Day                                   115 
+  5  Sidwell Friends                                  133 
+  6  BASIS DC                                         139 
+  7  Maret                                            179 
+  8  Jackson-Reed                                     186 
+  9  McKinley Technology                              221 
+ 10  DC International                                 288 
+
+
+Womens 5,000 Meters Varsity Results
+====================================================================================
+  Pl Athlete                   Yr Team                                          Time
+====================================================================================
+   1 Vivian Kelly              12 Georgetown Visitation Prep                18:01.26 
+   2 Abigail Anstett           10 Georgetown Visitation Prep                18:02.03 
+   3 Shira Wenthe              10 Georgetown Day                            18:19.99 
+   4 Whitney Bruch             11 National Cathedral for Girls              18:52.68 
+   5 Hannah O'Neill            11 St John's College                         19:00.64 
+   6 Emilia Natalucci           9 St John's College                         19:03.39 
+   7 Callie Wallace            12 Maret                                     19:07.19 
+   8 Cecilia Wright            11 National Cathedral for Girls              19:09.58 
+   9 Lily Carr                 12 Jackson-Reed                              19:44.83 
+  10 Helena Kelly               9 Georgetown Visitation Prep                19:47.07 
+  11 Luca Brennan               9 Georgetown Visitation Prep                19:47.34 
+  12 Nora Gormsen               9 Georgetown Visitation Prep                19:48.86 
+  13 Alana Templeman           10 Sidwell Friends                           19:55.28 
+  14 Lily Laroski               9 National Cathedral for Girls              19:57.04 
+  15 Carla Flabbi-Fruttero     11 BASIS DC                                  19:59.74 
+  16 Madeline Stevenson        11 BASIS DC                                  19:59.93 
+  17 Caroline Lee              12 National Cathedral for Girls              20:14.23 
+  18 Sabrina Brennan            9 Georgetown Visitation Prep                20:14.62 
+  19 Hailey Caldwell           11 St John's College                         20:19.74 
+  20 Natasha Mosley            12 St John's College                         20:21.41 
+  21 Alexandra Ezrow            9 Georgetown Day                            20:21.47 
+  22 Sasha Darlan              12 St John's College                         20:25.87 
+  23 Margot Benelli            12 National Cathedral for Girls              20:28.77 
+  24 Solveig Wartchow          11 McKinley Technology                       20:32.35 
+  25 Isabel Limao              12 Sidwell Friends                           20:37.33 
+  26 Colleen Whitty            12 St John's College                         20:39.55 
+  27 Marta Flabbi-Fruttero      9 BASIS DC                                  20:42.20 
+  28 Naomi Borek               12 Georgetown Day                            20:53.30 
+  29 Campbell Dwight           12 Sidwell Friends                           20:56.12 
+  30 Sadie Boyle               12 Georgetown Day                            21:00.07 
+  31 Maeve McMurray            10 Sidwell Friends                           21:01.22 
+  32 Avery Mascott             11 National Cathedral for Girls              21:14.38 
+  33 Zoe Wolin                  9 Georgetown Day                            21:18.34 
+  34 Anya Vogel                10 Maret                                     21:25.26 
+  35 Jasmine Singh             12 Sidwell Friends                           21:33.06 
+  36 Madelyn Zeller            10 Washington Latin PCS                      21:34.49 
+  37 Claire Farina             12 Maret                                     21:45.58 
+  38 Charlotte Glendinning     11 Georgetown Day                            21:47.45 
+  39 Hannah Schneider          10 National Cathedral for Girls              21:58.54 
+  40 Anya Finkelstein          11 Georgetown Day                            21:59.30 
+  41 Magdalena Reminga         12 St. Jerome Institute                      22:00.60 
+  42 Katherine Izenberg         9 BASIS DC                                  22:43.66 
+  43 Cecelia Morvis             9 BASIS DC                                  22:52.28 
+  44 Lillian Leber             12 Jackson-Reed                              22:59.56 
+  45 Caroline Downs            11 Jackson-Reed                              23:22.72 
+  46 Tykara Mcclain            10 McKinley Technology                       23:41.22 
+  47 Nora Goldwasser           10 Jackson-Reed                              23:46.22 
+  48 Sophie Minkiewicz         11 Georgetown Visitation Prep                23:55.34 
+  49 Susanna Orr               12 Jackson-Reed                              23:59.84 
+  50 Lyla Kramer               10 Washington Latin PCS                      24:13.80 
+  51 Elsa Harper               10 Edmund Burke                              24:23.98 
+  52 Madison Turner            10 McKinley Technology                       24:24.69 
+  53 Bri Alvarez Silva          9 Maret                                     24:26.66 
+  54 Kailani Hartwell          12 KIPP DC College Prep                      24:46.06 
+  55 Logan Arthur              10 McKinley Technology                       24:52.12 
+  56 Lydia Park                12 Washington Latin PCS                      24:58.80 
+  57 Addisyn Lemus             11 DC International                          25:01.34 
+  58 Leyu Fikru                 9 Edmund Burke                              25:06.78 
+  59 Renate Weber              10 BASIS DC                                  25:18.49 
+  60 Emilie Allen              10 Maret                                     25:27.77 
+  61 Anna Puryear              10 Maret                                     25:29.70 
+  62 Lillian Goldstein         12 Field                                     25:35.03 
+  63 Hazel Jeffords-Molvak     12 McKinley Technology                       25:46.84 
+  64 Sarah Smith                9 DC International                          25:54.10 
+  65 Eliza Gulley              12 Edmund Burke                              26:07.37 
+  66 Ines Reminga               9 St. Jerome Institute                      26:15.29 
+  67 Rae Marzilli              12 Sidwell Friends                           26:27.84 
+  68 Maya Vogt                 11 DC International                          26:50.11 
+  69 Violet Lockwood           11 BASIS DC                                  27:35.86 
+  70 Natalie Lobel             10 Maret                                     27:39.14 
+  71 Laren Johnson              9 DC International                          28:17.21 
+  72 Anyah Salvi                9 DC International                          29:45.07 
+
+
+Mens 5,000 Meters Varsity B Team Scores
+=========================================================
+  Pl Team                                          Points
+=========================================================
+  1  Gonzaga College                                   31 
+  2  St John's College                                 48 
+  3  St Albans                                         54 
+  4  Georgetown Day                                    87 
+  5  Jackson-Reed                                     153 
+
+
+Mens 5,000 Meters Varsity B Results
+====================================================================================
+  Pl Athlete                   Yr Team                                          Time
+====================================================================================
+   1 John Hirko                12 Gonzaga College                           17:22.70 
+   2 Kyle Bretting             11 St John's College                         17:33.80 
+   3 Eben Tyre                 12 St John's College                         17:38.92 
+   4 Tyler Harry               12 Gonzaga College                           17:42.14 
+   5 Keenan Frisby             12 St John's College                         17:45.48 
+   6 Wesley Barentzen          11 Gonzaga College                           17:46.18 
+   7 William Cantrell          11 St Albans                                 17:57.13 
+   8 Peter Allen               12 Gonzaga College                           18:02.01 
+   9 Sammy Miller              12 St Albans                                 18:06.22 
+  10 Humphrey Wolfe            11 St Albans                                 18:07.16 
+  11 Henry Barnett             11 St Albans                                 18:11.54 
+  12 Luke Hillebrenner         11 Gonzaga College                           18:16.67 
+  13 Wyatt Grace               12 Georgetown Day                            18:21.41 
+  14 Nathan Ireri              12 Georgetown Day                            18:26.91 
+  15 Bodi De                   11 Georgetown Day                            18:27.33 
+  16 Ahadu Seyoum              12 St John's College                         18:33.46 
+  17 Adnan Gunja               11 St Albans                                 18:35.80 
+  18 Willem Cohn               11 St Albans                                 18:35.89 
+  19 Larry Mosoti              11 St Albans                                 18:39.29 
+  20 Declan Ewald              12 Gonzaga College                           18:40.04 
+  21 Shanwai Lin               12 Georgetown Day                            18:41.88 
+  22 James Denney              12 St Albans                                 18:51.40 
+  23 Elias Weetjens            12 St John's College                         18:55.73 
+  24 Jude Buchanan             11 St John's College                         18:57.08 
+  25 Simon Loftus              12 Georgetown Day                            18:59.21 
+  26 Oliver Dashwood           11 Washington International                  19:04.36 
+  27 Mateo Levey               12 Washington International                  19:05.60 
+  28 Ben Place                 11 St John's College                         19:07.34 
+  29 Hayden Burnside           11 Gonzaga College                           19:11.02 
+  30 Paul Liles                11 Gonzaga College                           19:11.22 
+  31 Alex Acosta               12 St Albans                                 19:16.35 
+  32 Tommy Morgenfeld          12 St John's College                         19:27.68 
+  33 Tyler Nguyen              11 Sidwell Friends                           19:31.37 
+  34 Lincoln Eyer              11 St Albans                                 19:37.49 
+  35 Alex Mathai               11 St Albans                                 19:41.95 
+  36 Bryan Guerra              12 Jackson-Reed                              19:50.33 
+  37 William Panner            11 Sidwell Friends                           19:52.41 
+  38 Tomas Bruschi Ferreira    12 Georgetown Day                            19:56.23 
+  39 Cyrus Powell              12 School Without Walls (DC)                 19:57.24 
+  40 Jerry O'Connell           11 St Albans                                 20:01.33 
+  41 Matthew Karrels           12 St Albans                                 20:02.02 
+  42 Grant Davis               11 St Albans                                 20:03.32 
+  43 Andrew Gorman             11 Sidwell Friends                           20:15.80 
+  44 Henry Fragale             11 Georgetown Day                            20:27.32 
+  45 Finn Kramer               12 Gonzaga College                           20:36.82 
+  46 Yonas Harris              11 Jackson-Reed                              20:43.76 
+  47 Irby Thomson              11 Gonzaga College                           20:48.75 
+  48 Matthew Stern             12 Georgetown Day                            20:56.18 
+  49 Thomas Duckenfield        12 St Albans                                 21:03.21 
+  50 Nico Abbate               11 Georgetown Day                            21:03.23 
+  51 Parker Mew                10 Jackson-Reed                              21:22.73 
+  52 Skylar Luebbert           11 Jackson-Reed                              21:31.39 
+  53 Jacob Gagosian            12 Jackson-Reed                              21:44.83 
+  54 Jackson Trinca            11 Washington Latin PCS                      21:49.08 
+  55 Will Prisco               12 Gonzaga College                           21:49.67 
+  56 Christopher Beavers       11 St John's College                         21:52.38 
+  57 Lucas Flaherty            12 Maret                                     22:02.09 
+  58 Maurice Shanks            11 Jackson-Reed                              22:32.23 
+  59 Ilias Janus               11 St Albans                                 22:40.95 
+  60 Huckle Shea                9 Jackson-Reed                              22:47.66 
+  61 Hugo Bonelli              10 School Without Walls (DC)                 22:48.19 
+  62 Lucas Qi                  11 Georgetown Day                            23:27.80 
+  63 Ehren Pyburn              12 Washington Latin PCS                      23:52.00 
+  64 Brady Shipe               11 Georgetown Day                            23:59.19 
+  65 Kevin Xia                 12 Georgetown Day                            24:24.82 
+  66 Nathan Aguiar             11 Sidwell Friends                           24:38.39 
+  67 Sawyer Thompson           12 Georgetown Day                            24:47.95 
+  68 Jack Statham              11 BASIS DC                                  25:04.14 
+  69 Aaron Ford                12 BASIS DC                                  25:48.93 
+  70 Evan Atchison             12 Maret                                     26:19.48 
+  71 Alexander Novikov         11 Washington International                  27:40.69 
+  72 Ben Bellavia-Cortezi      11 Georgetown Day                            31:49.02 
+
+
+Womens 5,000 Meters Varsity B Team Scores
+=========================================================
+  Pl Team                                          Points
+=========================================================
+  1  St John's College                                 17 
+  2  Georgetown Day                                    55 
+  3  National Cathedral for Girls                      61 
+  4  Georgetown Visitation Prep                       115 
+  5  Maret                                            131 
+
+
+Womens 5,000 Meters Varsity B Results
+====================================================================================
+  Pl Athlete                   Yr Team                                          Time
+====================================================================================
+   1 Sydney Townsend           11 St John's College                         21:00.09 
+   2 Colleen Leavitt           12 School Without Walls (DC)                 21:08.16 
+   3 Charlotte Grant           11 St John's College                         22:58.94 
+   4 Ava Dion                  12 St John's College                         23:17.88 
+   5 Malia Smith               12 National Cathedral for Girls              23:20.24 
+   6 Madelyn Tankesley         12 St John's College                         23:29.22 
+   7 Zoe Fayyad                11 St John's College                         23:29.53 
+   8 Georgia Kaufman           11 Georgetown Day                            23:30.27 
+   9 Evie Cushnie              11 Washington International                  23:41.01 
+  10 Olivia Purce              11 Jackson-Reed                              23:57.72 
+  11 Nura Idriss               11 Georgetown Day                            24:05.66 
+  12 Sydney Monroe             12 St John's College                         24:07.34 
+  13 Julia Wang                12 National Cathedral for Girls              24:32.89 
+  14 Leila Ackil               11 Jackson-Reed                              25:18.11 
+  15 Quinn Van Konynenburg     11 National Cathedral for Girls              25:26.59 
+  16 Eliana Green              12 Georgetown Day                            25:41.63 
+  17 Emma Renigar              11 Georgetown Day                            26:02.76 
+  18 Mia Spector               11 National Cathedral for Girls              26:02.77 
+  19 Sabine Hletko Wood        11 Georgetown Day                            26:07.66 
+  20 Sid Debgupta              11 Georgetown Day                            26:12.14 
+  21 Helena Oscherwitz         11 Georgetown Day                            26:30.01 
+  22 Elizabeth Smith           12 Georgetown Visitation Prep                26:33.43 
+  23 Sofia Hashemi             12 Washington International                  26:40.58 
+  24 Elena Rossi               12 Georgetown Visitation Prep                27:20.70 
+  25 Selma DeNinno             12 St John's College                         27:41.71 
+  26 Jaelyn Escobar            11 St John's College                         27:42.67 
+  27 Marissa Fernandez         11 Maret                                     28:07.60 
+  28 Ava Hall                  12 Georgetown Day                            28:24.57 
+  29 Emerson Hardwick          12 Georgetown Day                            28:33.01 
+  30 Elizabeth Boyd            11 National Cathedral for Girls              28:39.96 
+  31 Sophia Smith              11 Maret                                     29:11.41 
+  32 Maya Cook                  9 Maret                                     29:15.84 
+  33 Annie Regen               11 Georgetown Visitation Prep                29:20.01 
+  34 Catherine Paci            11 Washington Latin PCS                      29:58.47 
+  35 Ameilia Gormsen           11 Georgetown Visitation Prep                30:06.96 
+  36 Ava Bell                  12 Georgetown Visitation Prep                30:09.76 
+  37 Amiyah Mackell            12 Archbishop Carroll (DC)                   30:31.39 
+  38 Sofia Vakis               12 Washington International                  30:53.20 
+  39 Avery Mullen              12 Sidwell Friends                           31:00.17 
+  40 Maya Sturdivant           12 National Cathedral for Girls              31:07.77 
+  41 Esme Takacs               12 School Without Walls (DC)                 31:56.88 
+  42 Ethan Deleon              11 Washington Latin PCS                      32:12.59 
+  43 Emma Stifel               12 National Cathedral for Girls              32:21.07 
+  44 Oleena Fonseka            11 Georgetown Visitation Prep                32:39.01 
+  45 Molly Doster              12 National Cathedral for Girls              32:56.65 
+  46 Naomi Milberg             11 Maret                                     36:35.95 
+  47 Sade Allen                11 KIPP DC College Prep                      38:22.40 
+  48 Gabrielle Williams         9 Maret                                     40:15.68 
+  49 Vivian Ross               11 Maret                                     40:33.49 
+
+
+Mens 5,000 Meters Junior Varsity Team Scores
+=========================================================
+  Pl Team                                          Points
+=========================================================
+  1  Gonzaga College                                   57 
+  2  St Albans                                         59 
+  3  St John's College                                 86 
+  4  Sidwell Friends                                   92 
+  5  School Without Walls (DC)                        111 
+  6  Georgetown Day                                   134 
+  7  Jackson-Reed                                     197 
+  8  Washington International                         215 
+  9  McKinley Technology                              255 
+
+
+Mens 5,000 Meters Junior Varsity Results
+====================================================================================
+  Pl Athlete                   Yr Team                                          Time
+====================================================================================
+   1 Declan Hamilton           10 St Albans                                 17:19.52 
+   2 Oliver Gruner              9 St John's College                         17:42.37 
+   3 Malcolm Laskowski         10 School Without Walls (DC)                 17:46.81 
+   4 Benjamin Shepard           9 School Without Walls (DC)                 17:59.02 
+   5 Phillip Durant            10 St John's College                         18:21.40 
+   6 Stewart Buckley           10 Gonzaga College                           18:24.57 
+   7 Jack Coogan                9 Gonzaga College                           18:25.16 
+   8 Sorya Chung               10 Sidwell Friends                           18:44.71 
+   9 Nico Bruneau               9 Washington International                  18:49.99 
+  10 Louie Merriam             10 Sidwell Friends                           18:50.81 
+  11 Gavin Tang                 9 St Albans                                 18:51.38 
+  12 Evan Campbell             10 St Albans                                 18:57.68 
+  13 Brent Cruz                 9 Gonzaga College                           19:00.05 
+  14 Ben Altschuler             9 Georgetown Day                            19:00.14 
+  15 Chase Dejardins           10 Gonzaga College                           19:04.84 
+  16 Ben Bakshi                 9 Gonzaga College                           19:05.44 
+  17 Henry Hall                 9 St Albans                                 19:06.87 
+  18 Ray Hickey                10 St Albans                                 19:09.30 
+  19 Kevin Shin                10 St Albans                                 19:09.86 
+  20 Branden Barberena         10 St John's College                         19:11.74 
+  21 Andrew Kim                 9 Sidwell Friends                           19:12.52 
+  22 Brendan Sullivan           9 St Albans                                 19:13.04 
+  23 Milo Gavin                 9 Jackson-Reed                              19:15.62 
+  24 Tyler Mitroff             10 Sidwell Friends                           19:20.70 
+  25 Dominick Brothers         10 St John's College                         19:22.48 
+  26 Oliver Grossi             10 Georgetown Day                            19:28.78 
+  27 Alex Hauser                9 Georgetown Day                            19:30.34 
+  28 Samuel Schauer             9 School Without Walls (DC)                 19:32.98 
+  29 Amika Bibolov             10 Sidwell Friends                           19:34.52 
+  30 Nolan Spangeberg           9 School Without Walls (DC)                 19:43.63 
+  31 Daniel Stern               9 Georgetown Day                            19:52.42 
+  32 Alistair Maul              9 Gonzaga College                           19:53.80 
+  33 Ruhan Khanna              10 Sidwell Friends                           19:55.01 
+  34 Tomas Socias              10 St John's College                         19:59.24 
+  35 Timothy Tran              10 St Albans                                 20:03.45 
+  36 Simon Nguyen               9 Gonzaga College                           20:06.91 
+  37 Dex Canavan                9 Georgetown Day                            20:34.13 
+  38 Arav Bapna                 9 Georgetown Day                            20:35.33 
+  39 Declan Heil               10 Gonzaga College                           20:36.29 
+  40 Alexander Speece           9 Sidwell Friends                           20:42.68 
+  41 Justin Gaul                9 Gonzaga College                           20:44.62 
+  42 Parker Dunbar              9 Georgetown Day                            20:45.20 
+  43 Mack Walker               10 Gonzaga College                           20:45.84 
+  44 Mike Melluzzo             10 Gonzaga College                           20:53.24 
+  45 Jacob Menkes               9 St Albans                                 20:55.62 
+  46 Arnav Iyengar             10 Jackson-Reed                              20:58.47 
+  47 John Groharing            10 Gonzaga College                           21:02.32 
+  48 Finn Bailey                9 St Albans                                 21:03.64 
+  49 John Price                10 St Albans                                 21:03.80 
+  50 Heath Holley               9 Georgetown Day                            21:06.39 
+  51 Trey Miller               10 Gonzaga College                           21:08.22 
+  52 William Wildermuth         9 Gonzaga College                           21:08.40 
+  53 Jackson Howes              9 Jackson-Reed                              21:09.05 
+  54 Ruark Jennings             9 Washington Latin PCS                      21:10.36 
+  55 Nate Brady                10 Gonzaga College                           21:13.75 
+  56 John Migliaccio            9 Gonzaga College                           21:18.05 
+  57 Julian Jean-Francois       9 St John's College                         21:19.10 
+  58 Antuan Queen               9 McKinley Technology                       21:19.77 
+  59 Jason Rodriguez-Orellan    9 McKinley Technology                       21:22.97 
+  60 Julian Moraczewski        10 St Albans                                 21:24.63 
+  61 Minh Pham                  9 Jackson-Reed                              21:24.63 
+  62 Sebastian Linnel-Simmon   10 School Without Walls (DC)                 21:26.50 
+  63 Carter Holley              9 St Albans                                 21:29.47 
+  64 Tristan Pomponi           10 Sidwell Friends                           21:29.79 
+  65 Spencer Weiss              9 St Albans                                 21:33.33 
+  66 Nicholas Terry            10 St Albans                                 21:36.71 
+  67 Diego Herrera             10 St John's College                         21:39.80 
+  68 Sebastian Amador          10 St John's College                         21:40.57 
+  69 Jake Gregory               9 St John's College                         21:44.31 
+  70 Leo Lynn                  10 Sidwell Friends                           21:44.59 
+  71 Elliott Etter              9 Georgetown Day                            21:44.97 
+  72 Kit Beeson                10 St Albans                                 21:50.62 
+  73 Aiden Moazzez              9 St Albans                                 21:51.39 
+  74 Alistair Chapel            9 St Albans                                 21:52.27 
+  75 Shiv Patel                 9 St Albans                                 21:57.35 
+  76 Charlie Miller             9 St Albans                                 21:58.09 
+  77 Graham Farrand            10 Gonzaga College                           22:04.13 
+  78 Asher Rothenberg           9 Jackson-Reed                              22:13.78 
+  79 Nick Barac                 9 Sidwell Friends                           22:16.14 
+  80 Jonathan Thibault          9 Washington International                  22:19.51 
+  81 Will Kinney               10 St Albans                                 22:20.27 
+  82 Kierin McBride            10 Gonzaga College                           22:35.27 
+  83 Damond Green              10 Sidwell Friends                           22:35.66 
+  84 Zach Berres               10 Georgetown Day                            22:38.11 
+  85 Anthony Zhuang            10 Washington International                  22:38.71 
+  86 Jude Brenan                9 Jackson-Reed                              22:47.41 
+  87 Rajan Patel               10 St Albans                                 22:47.88 
+  88 Yannick Toedtman          10 Jackson-Reed                              22:49.49 
+  89 EJ Caldwell                9 St John's College                         22:52.30 
+  90 Nico Gatti Roaf           10 Washington International                  22:54.28 
+  91 Evan Kendall              10 Jackson-Reed                              23:05.81 
+  92 Samuel Lerner             10 Georgetown Day                            23:14.53 
+  93 Cameron Holden             9 Georgetown Day                            23:15.08 
+  94 Benjamin Baptiste         10 Washington Latin PCS                      23:24.83 
+  95 Teddy Sachse               9 Georgetown Day                            23:34.31 
+  96 Alexandre Mousset          9 Washington International                  23:46.43 
+  97 Hoban Lampard             10 Sidwell Friends                           23:49.46 
+  98 Ulysse Harasty             9 St John's College                         23:52.14 
+  99 Ezra Okon                  9 McKinley Technology                       23:57.36 
+ 100 Thomas Presler            10 Gonzaga College                           24:08.91 
+ 101 Gavin Wang                 9 Georgetown Day                            24:12.96 
+ 102 Thomas Brown               9 McKinley Technology                       24:13.16 
+ 103 Will McAllister           10 Maret                                     24:14.92 
+ 104 Justin Damas               9 St Albans                                 24:32.38 
+ 105 Gabe Levine                9 Georgetown Day                            24:33.49 
+ 106 Maceo Lindsey              9 Georgetown Day                            24:33.50 
+ 107 Brendan Shaffer            9 St John's College                         24:51.24 
+ 108 David Cai                  9 St Albans                                 24:52.66 
+ 109 William Brewer            10 Gonzaga College                           24:58.07 
+ 110 Lukas O'Neill              9 St John's College                         25:02.51 
+ 111 Matthew Guzman            11 McKinley Technology                       25:04.15 
+ 112 Izak Richman              10 Jackson-Reed                              25:04.55 
+ 113 Wyatt Ross                 9 Maret                                     25:33.24 
+ 114 Miles Johnson             10 Washington Latin PCS                      25:54.43 
+ 115 Thomas Arias               9 Gonzaga College                           26:06.94 
+ 116 Grant Cummins             10 Sidwell Friends                           26:17.78 
+ 117 Randy Zhu                  9 Georgetown Day                            26:19.63 
+ 118 Jibrael Sheikh             9 St Albans                                 27:35.89 
+ 119 Devin Boakeye             10 St Albans                                 27:36.00 
+ 120 Sammy Rosenthal            9 Maret                                     27:55.05 
+ 121 Eyas Hardan               10 Sidwell Friends                           28:06.63 
+ 122 Otto Weiner                9 School Without Walls (DC)                 28:42.79 
+ 123 Joel Maupin               10 KIPP DC College Prep                      28:58.55 
+ 124 Brendon Chu                9 Georgetown Day                            29:11.68 
+ 125 Eli Babbitt               10 St Albans                                 30:15.31 
+ 126 Zayvion Wallace           11 Archbishop Carroll (DC)                   33:51.01 
+
+
+Womens 5,000 Meters Junior Varsity Team Scores
+=========================================================
+  Pl Team                                          Points
+=========================================================
+  1  National Cathedral for Girls                      32 
+  2  St John's College                                 33 
+  3  Georgetown Visitation Prep                        68 
+  4  Jackson-Reed                                      94 
+
+
+Womens 5,000 Meters Junior Varsity Results
+====================================================================================
+  Pl Athlete                   Yr Team                                          Time
+====================================================================================
+   1 Shiloh Wallace            10 Washington International                  21:30.19 
+   2 Calla Privor              10 National Cathedral for Girls              21:35.86 
+   3 Magdalena Azevedo          9 St John's College                         22:00.20 
+   4 Grace Toner               10 St John's College                         22:04.03 
+   5 Chloe Townsend             9 St John's College                         22:12.11 
+   6 Ophelia Calhoun           10 National Cathedral for Girls              22:25.32 
+   7 Charlotte Cleary           9 National Cathedral for Girls              22:40.39 
+   8 Gia Dailey                 9 St John's College                         22:42.60 
+   9 Zoey Fedele                9 School Without Walls (DC)                 22:48.59 
+  10 Nikki Smallwood            9 Georgetown Day                            23:20.16 
+  11 Isaura Arias              10 Georgetown Visitation Prep                23:42.68 
+  12 Kinjal Kapoor              9 Field                                     23:48.73 
+  13 Matilda Gray              10 National Cathedral for Girls              23:51.85 
+  14 Ali Green                 10 Jackson-Reed                              23:58.27 
+  15 Helena Goddard            10 National Cathedral for Girls              24:13.23 
+  16 Emelie Shearer             9 Georgetown Visitation Prep                24:13.66 
+  17 Talia Vitberg              9 Jackson-Reed                              24:27.62 
+  18 Liya Fairfax               9 Georgetown Day                            24:43.54 
+  19 Olivia Rankin             10 Georgetown Visitation Prep                24:50.38 
+  20 Ruth Eliot                 9 National Cathedral for Girls              24:56.18 
+  21 Cecilia Comar              9 School Without Walls (DC)                 25:00.03 
+  22 Audrey Hayes              10 School Without Walls (DC)                 25:12.88 
+  23 Alicia Bautista           10 Georgetown Visitation Prep                25:37.76 
+  24 Reanna Mae Bejo            9 St John's College                         25:58.87 
+  25 Wilhelmina Nichols         9 Georgetown Visitation Prep                26:02.44 
+  26 Sophia Wagner              9 St John's College                         26:33.09 
+  27 Anna Doyle                10 National Cathedral for Girls              26:35.89 
+  28 Sabella Osborn             9 Eastern                                   27:02.82 
+  29 Mai Pham                   9 Jackson-Reed                              27:21.25 
+  30 Catherine Riley            9 Georgetown Visitation Prep                27:29.71 
+  31 Makayla Crew              10 St John's College                         27:58.28 
+  32 Kiana Brockman             9 National Cathedral for Girls              28:04.74 
+  33 Maddy Westbrook           10 Jackson-Reed                              28:54.80 
+  34 Sophie Schooley           10 Georgetown Visitation Prep                29:16.32 
+  35 Kirthi Sankar             10 Maret                                     29:27.21 
+  36 Junnah Sheikh             10 Sidwell Friends                           30:05.81 
+  37 Jessica Taylor            10 St John's College                         30:47.26 
+  38 Mary Bell                 10 Georgetown Visitation Prep                31:38.49 
+  39 London Kennedy            10 Georgetown Visitation Prep                32:04.82 
+  40 Abigail King               9 Jackson-Reed                              32:14.00 
+  41 Jisoo Brown               10 Georgetown Visitation Prep                32:19.62 
+  42 Mary McGreevy             10 Georgetown Visitation Prep                32:43.64 
+  43 Adele Abouchar            10 Georgetown Visitation Prep                32:58.83 
+  44 Ariel Pollard             10 Maret                                     33:30.85 
+  45 Ann Pascal                10 Georgetown Visitation Prep                34:17.11 
+  46 Veronica Vaky              9 National Cathedral for Girls              35:32.20 
+  47 Jane Volmer               10 Georgetown Visitation Prep                36:05.06 
+
+
+
+
+
+
+```

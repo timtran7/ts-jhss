@@ -1,0 +1,716 @@
+DCSAA Cross Country Championships 2021 - Complete Results (Raw)
+
+Loading
+
+```
+M & D Timing - Contractor License                          HY-TEK's Meet Manager
+               DCSAA State Cross Country Championships - 11/6/2021               
+                                 Kenilworth Park                                 
+                              Last Completed Event                               
+ 
+Event 1  Girls 4k Run CC Middle School
+=======================================================================          
+    Name                    Year School                  Finals  Points          
+=======================================================================          
+Results - Women                                                                  
+  1 Widor, Elizabeth           6 Alice Deal M          17:58.25    1             
+  2 Betancourt-Bravo, Emilia   7 Alice Deal M          18:15.80    2             
+  3 Searby, Keira              6 Alice Deal M          18:29.28    3             
+  4 Poimboeuf, Audrey          6 The Sojourne          18:33.11    4             
+  5 Stevenson, Madeline        8 Basis DC              18:37.97    5             
+  6 Downs, Caroline            8 Alice Deal M          18:45.97    6             
+  7 Wenthe, Shira              7 Alice Deal M          18:53.03    7             
+  8 Orfield-Shah, Ava          7 Basis DC              18:58.13    8             
+  9 Orlove Rodriquez, Lola     8 Washington L          19:02.39    9             
+ 10 Tumova, Maria              7 Alice Deal M          19:10.97   10             
+ 11 Flabbi-Fruttero, Marta     6 Basis DC              19:27.77   11             
+ 12 Downes, Cassie             8 Washington L          21:06.54   12             
+ 13 Edwards, Liliana           8 Washington L          21:07.73   13             
+ 14 Weber, Renate              7 Basis DC              21:12.28   14             
+ 15 Awet, Abigail              6 Basis DC              21:24.58   15             
+ 16 Spears, Poppy              7 Basis DC              21:35.76   16             
+ 17 Arthur, Logan              7 Basis DC              21:41.58   17             
+ 18 Morowitz, Maisy            7 Sidwell Frie          21:42.05                  
+ 19 Olander, Ellis             8 Basis DC              22:00.58                  
+ 20 Malott, Codi               7 The Sojourne          22:01.19   18             
+ 21 Kramer, Lyla               7 Washington L          22:15.75   19             
+ 22 Zeller, Madelyn            7 Washington L          22:17.69   20             
+ 23 Nwosu, Nwando              7 Sidwell Frie          22:28.64                  
+ 24 Catano, Elizabeth          7 The Sojourne          23:07.40   21             
+ 25 Sassu, Maria Teresa        7 Basis DC              23:08.41                  
+ 26 Willett, Arianna           6 Basis DC              24:57.22                  
+ 27 Park, Avery                6 Washington L          25:25.26   22             
+ 28 Kitchen, Sara              7 The Sojourne          25:44.37   23             
+ 29 Izenberg, Katherine        6 Basis DC              25:46.36                  
+ 30 Palmer, Xammirah           6 Meridian Pub          25:53.64                  
+ 31 Hyera, Malaika             7 Basis DC              26:16.79                  
+ 32 Grigsby, Jordyn            6 The Sojourne          26:41.38   24             
+ 33 Lockwood, Violet           8 Basis DC              28:39.21                  
+                                                                                 
+                                   Team Scores                                   
+=================================================================================
+Rank Team                      Total    1    2    3    4    5   *6   *7   *8   *9
+=================================================================================
+Results - Women                                                                  
+   1 Alice Deal Middle School     19    1    2    3    6    7   10               
+      Total Time:  1:32:22.33                                                    
+         Average:    18:28.47                                                    
+   2 Basis DC                     53    5    8   11   14   15   16   17          
+      Total Time:  1:39:40.73                                                    
+         Average:    19:56.15                                                    
+   3 Washington Latin Public C    73    9   12   13   19   20   22               
+      Total Time:  1:45:50.10                                                    
+         Average:    21:10.02                                                    
+   4 The Sojourner Truth Publi    90    4   18   21   23   24                    
+      Total Time:  1:56:07.45                                                    
+         Average:    23:13.49                                                    
+
+
+
+Event 2  Boys 4k Run CC Middle School
+=======================================================================          
+    Name                    Year School                  Finals  Points          
+=======================================================================          
+Results - Men                                                                    
+  1 Bennett, Andrew            8 Alice Deal M          14:20.60    1             
+  2 Fisher, Elie               8 Sidwell Frie          14:54.83    2             
+  3 Bhat, Arjun                7 Alice Deal M          15:22.33    3             
+  4 Rosenberg, Ian             7 Alice Deal M          15:52.93    4             
+  5 Morvis, Jacob              8 Alice Deal M          15:59.03    5             
+  6 Beck, Cedar                7 The Sojourne          16:00.29    6             
+  7 Widor, John                8 Alice Deal M          16:02.67    7             
+  8 Kessler, Simon             8 Alice Deal M          16:21.61    8             
+  9 Fitzgibbons, James         7 Georgetown D          16:21.63                  
+ 10 Appenzeller, Charles       8 Alice Deal M          16:36.70    9             
+ 11 Fochler, Ryan              8 Basis DC              16:39.20   10             
+ 12 Orzechowski, Stephen       6 Basis DC              16:46.33   11             
+ 13 Neskovic, Luka             8 Alice Deal M          16:55.30                  
+ 14 Palmore, Charlie           8 St. Albans M          17:08.60   12             
+ 15 Barnett, Henry             8 St. Albans M          17:14.46   13             
+ 16 McCauley, Saadiq           7 DC Internati          17:14.48                  
+ 17 Barrage, Ashar             6 St. Albans M          17:21.34   14             
+ 18 Wells, Makai               7 Sidwell Frie          17:30.30   15             
+ 19 Jezior, Jack               8 Edmund Burke School   17:34.97                  
+ 20 Elliot, Brandon            8 Basis DC              17:36.67   16             
+ 21 Varghese, Isaiah           8 The Sojourne          17:40.28   17             
+ 22 Malkin, Oliver             8 Georgetown D          17:40.99                  
+ 23 Wu, William                7 St. Albans M          17:43.17   18             
+ 24 Donley, Trevor             7 Sidwell Frie          18:03.60   19             
+ 25 Hansen, Brooks             7 The Sojourne          18:13.16   20             
+ 26 Rubin, Dean                7 Basis DC              18:18.43   21             
+ 27 Wimmer, Nathaniel          7 St. Albans M          18:33.62   22             
+ 28 Fochler, Brendan           5 Basis DC              18:38.81   23             
+ 29 Solomon, Samuel            7 Basis DC              18:41.09   24             
+ 30 Souto Learman, Miguel      5 Basis DC              18:47.97   25             
+ 31 Miller, Charlie            6 St. Albans M          18:49.23   26             
+ 32 Power, Thomas              7 St. Albans M          18:51.14   27             
+ 33 Torchia, Sajan             6 The Sojourne          18:52.69   28             
+ 34 Leifert, Penn              5 Basis DC              18:56.55                  
+ 35 Freund, Julian             6 The Sojourne          18:57.16   29             
+ 36 Hickey, Ray                7 St. Albans M          18:58.73                  
+ 37 Sands, Tuck                7 St. Albans M          19:01.34                  
+ 38 Wolfe, Humphrey            8 St. Albans M          19:02.31                  
+ 39 Trinca, Jackson            8 Washington L          19:02.41   30             
+ 40 Serfass, Grayson           5 Basis DC              19:16.61                  
+ 41 Schmidgall, Ezekiel        7 Washington L          19:40.33   31             
+ 42 Sabet, Cyrus               8 St. Albans M          19:43.67                  
+ 43 Rubin, Lee                 5 Basis DC              19:43.69                  
+ 44 Misra, Kavi                5 Basis DC              19:51.03                  
+ 45 Ferguson, Cade             5 Basis DC              19:52.53                  
+ 46 Galloway, Ra               7 The Sojourne          19:52.71   32             
+ 47 Spears, Callum             5 Basis DC              19:56.80                  
+ 48 Barrage, Amir              8 St. Albans M          19:57.54                  
+ 49 Olander, Preston           8 Washington L          19:57.78   33             
+ 50 Dragoi, Alexandru          8 St. Albans M          19:58.02                  
+ 51 Garland, James             8 St. Albans M          20:31.99                  
+ 52 Elekdag, Sinan             7 St. Albans M          20:36.12                  
+ 53 Watterson, Ryan            8 Washington L          20:44.83   34             
+ 54 Schipani, Nicholas         6 The Sojourne          20:44.96   35             
+ 55 Bailey, Finn               6 St. Albans M          20:45.23                  
+ 56 Afram, Jeremiah            7 The Sojourne          20:47.53                  
+ 57 Wells, Gabriel             7 Basis DC              20:52.96                  
+ 58 McCall, Ravi               5 Basis DC              20:54.10                  
+ 59 Pena-Cundumi, Femi         6 The Sojourne          21:02.79                  
+ 60 Brennan, Aiden             5 Basis DC              21:33.05                  
+ 61 Harris, Milo               8 Washington L          21:47.98   36             
+ 62 Power Sunstein, Declan     7 St. Albans M          22:18.59                  
+ 63 Hall, Henry                6 St. Albans M          22:22.02                  
+ 64 Pistilli, Henry            6 St. Albans M          22:32.73                  
+ 65 Simpson, Maxwell           8 Washington L          22:33.90   37             
+ 66 Rapp, Ethan                5 Basis DC              22:35.42                  
+ 67 Caroll, Hassan             7 The Sojourne          22:40.71                  
+ 68 Sadiq-Silla, Dino          6 Washington L          23:03.11   38             
+ 69 Hais, Dylan                7 Washington L          23:09.37                  
+ 70 Gupta, Eshaan              8 Sidwell Frie          24:18.42   39             
+ 71 Trautmann, Lukas           8 Basis DC              24:30.28                  
+ 72 Lim, Lincoln               8 St. Albans M          25:11.51                  
+ 73 Barnes, Andrew             5 Basis DC              25:16.63                  
+ 74 Price, John                7 St. Albans M          25:22.94                  
+ 75 Aguiar, Nathan             8 Sidwell Frie          25:53.97   40             
+ 76 Green, Ajax                5 Basis DC              26:03.85                  
+ 77 Marino, Nicholas           6 St. Albans M          27:09.03                  
+                                                                                 
+                                   Team Scores                                   
+=================================================================================
+Rank Team                      Total    1    2    3    4    5   *6   *7   *8   *9
+=================================================================================
+Results - Men                                                                    
+   1 Alice Deal Middle School     20    1    3    4    5    7    8    9          
+      Total Time:  1:17:37.56                                                    
+         Average:    15:31.52                                                    
+   2 St. Albans Middle School     79   12   13   14   18   22   26   27          
+      Total Time:  1:28:01.19                                                    
+         Average:    17:36.24                                                    
+   3 Basis DC                     81   10   11   16   21   23   24   25          
+      Total Time:  1:27:59.44                                                    
+         Average:    17:35.89                                                    
+   4 The Sojourner Truth Publi   100    6   17   20   28   29   32   35          
+      Total Time:  1:29:43.58                                                    
+         Average:    17:56.72                                                    
+   5 Sidwell Friends  School     115    2   15   19   39   40                    
+      Total Time:  1:40:41.12                                                    
+         Average:    20:08.23                                                    
+   6 Washington Latin Public C   164   30   31   33   34   36   37   38          
+      Total Time:  1:41:13.33                                                    
+         Average:    20:14.67                                                    
+
+
+
+Event 3  Girls 5k Run CC Junior Varsity
+=======================================================================          
+    Name                    Year School                  Finals  Points          
+=======================================================================          
+Results - Women                                                                  
+  1 Darlan, Alexandra          9 St. John's C          23:11.64    1             
+  2 Kuzichev, Nina             9 St. John's C          23:29.38    2             
+  3 Zeitler, Zoe               9 St. John's C          23:31.17    3             
+  4 Acres, Audrey             10 Sidwell Frie          23:34.43    4             
+  5 Smith, Elizabeth           9 Georgetown V          23:37.98    5             
+  6 Robinson, Kendall         10 St. John's C          23:39.87    6             
+  7 Polian, Kate               9 Georgetown V          23:53.63    7             
+  8 Monroe, Sydney             9 St. John's C          23:53.88    8             
+  9 Hobdari, Michelle         12 Washington I          23:57.88    9             
+ 10 Perry, Sabina             12 National Cathedral    23:59.19   10             
+ 11 Worthing, Lane            11 Sidwell Frie          24:15.61   11             
+ 12 Jemsby, Sophia            10 Washington I          24:27.69   12             
+ 13 Holman, Laine             10 Woodrow Wils          24:59.73   13             
+ 14 Jordan, Katie             10 National Cathedral    25:05.83   14             
+ 15 McIntosh, Lorelei          9 St. John's C          25:06.53   15             
+ 16 Bennett, Emma             11 National Cathedral    25:08.54   16             
+ 17 Crowell, Elliotte          9 Georgetown V          25:09.19   17             
+ 18 Gunther, Clare            11 Georgetown V          25:16.02   18             
+ 19 Zhao, Irene               11 Sidwell Frie          25:30.55   19             
+ 20 Martin, Mila              12 Washington I          25:35.36   20             
+ 21 Leon, Abby                11 National Cathedral    25:41.02   21             
+ 22 Siemietkowski-Needha, Ma  12 Georgetown V          25:42.87   22             
+ 23 Macpherson, Charlotte      9 National Cathedral    25:44.20   23             
+ 24 Porter, Nora               9 National Cathedral    25:55.94   24             
+ 25 Ramzy, Noor               11 Georgetown D          26:04.29   25             
+ 26 Jackson, Isabelle         11 Georgetown V          26:14.28   26             
+ 27 Young, Julia               9 Georgetown D          26:23.98   27             
+ 28 Schroeder, Samuella        9 Woodrow Wils          26:25.88   28             
+ 29 Kelso, Abby               10 Sidwell Frie          26:35.53   29             
+ 30 Brady, Kendall            11 National Cathedral    26:38.09   30             
+ 31 Bercasio, Carolina        10 St. John's C          26:38.21   31             
+ 32 Lang, Eva                  9 St. John's C          26:39.04                  
+ 33 Island, Becky             10 Georgetown V          27:03.53   32             
+ 34 Marvin, Lola              11 Woodrow Wils          27:15.90   33             
+ 35 Green, Eliana              9 Georgetown D          27:16.95   34             
+ 36 Caddell, Lauren Lucy      11 National Cathedral    27:27.52                  
+ 37 Young, Olivia             12 Washington I          27:58.50   35             
+ 38 Ewald, Colleen            12 Georgetown D          28:02.45   36             
+ 39 Brhane, Winta             10 Sidwell Frie          28:10.95   37             
+ 40 Naftulin, Elise           12 Washington I          28:12.40   38             
+ 41 Frantz, Rory              10 Woodrow Wils          28:19.10   39             
+ 42 Schaeffer, Findley         9 National Cathedral    28:40.31                  
+ 43 Kushan, Caroline          10 National Cathedral    29:00.94                  
+ 44 Doster, Molly              9 National Cathedral    29:02.35                  
+ 45 Cuesta-Lopez, Valeria     10 Washington I          29:02.45   40             
+ 46 Kimathi, Rehema            9 Georgetown V          29:17.17                  
+ 47 Faughnan, Liz             11 Georgetown V          29:22.68                  
+ 48 Hagen, Fiona               9 The Field School      29:23.14                  
+ 49 Hall, Ava                  9 Georgetown D          29:25.87   41             
+ 50 Book, Claire              10 National Cathedral    29:31.97                  
+ 51 Belber, Anna              10 Georgetown D          29:35.79   42             
+ 52 Stifel, Emma               9 National Cathedral    29:36.89                  
+ 53 Forbes, Simone            10 Woodrow Wils          29:47.82   43             
+ 54 Lachman, Sadie             9 Sidwell Frie          29:51.54   44             
+ 55 Linnartz, Heidi            9 Georgetown V          30:13.86                  
+ 56 Vaughn, Lexi               9 Georgetown V          30:18.35                  
+ 57 Weaver, Barbara           11 Georgetown D          30:24.91   45             
+ 58 Belber, Leah              12 Georgetown D          30:25.60                  
+ 59 Owens, Elizabeth           9 St. John's C          31:11.72                  
+ 60 Lager, Sophia             12 Sidwell Frie          31:16.59   46             
+ 61 Petry, Clara              12 Woodrow Wils          31:24.55   47             
+ 62 Green, Trinity            10 Kipp Dc: Col          31:35.39   48             
+ 63 Sickel, Madeline           9 Washington L          31:53.79                  
+ 64 Wang, Julia                9 National Cathedral    31:58.41                  
+ 65 Weber, Beatrix            10 National Cathedral    32:32.60                  
+ 66 Bell, Ava                  9 Georgetown V          33:16.93                  
+ 67 Rossi, Elena               9 Georgetown V          33:22.64                  
+ 68 Beahn, Sophie              9 Georgetown V          33:28.19                  
+ 69 Bouquet-Gragnoloti, Lola  10 Georgetown D          34:16.69                  
+ 70 Hartwell, Kailani          9 Kipp Dc: Col          34:18.27   49             
+ 71 George, Jamel              9 Kipp Dc: Col          37:05.17   50             
+ 72 Marzilli, Rae              9 Sidwell Frie          37:51.91                  
+ 73 Lassiter, Ni'yana          9 Kipp Dc: Col          38:52.64   51             
+ 74 Breinholt, Joya           12 Georgetown D          38:58.43                  
+ 75 Wheaten, Miya              9 Kipp Dc: Col          39:12.99   52             
+ 76 Hardwick, Emerson          9 Georgetown D          39:14.61                  
+ 77 Gaines, Madison           11 Woodrow Wils          39:17.73   53             
+ 78 Pigford, Summer            9 Kipp Dc: Col          41:36.29   54             
+ 79 Eastman, Zarida            9 Kipp Dc: Col          41:37.04   55             
+                                                                                 
+                                   Team Scores                                   
+=================================================================================
+Rank Team                      Total    1    2    3    4    5   *6   *7   *8   *9
+=================================================================================
+Results - Women                                                                  
+   1 St. John's College High S    20    1    2    3    6    8   15   31          
+      Total Time:  1:57:45.94                                                    
+         Average:    23:33.19                                                    
+   2 Georgetown Visitation Pre    69    5    7   17   18   22   26   32          
+      Total Time:  2:03:39.69                                                    
+         Average:    24:43.94                                                    
+   3 National Cathedral           84   10   14   16   21   23   24   30          
+      Total Time:  2:05:38.78                                                    
+         Average:    25:07.76                                                    
+   4 Sidwell Friends  School     100    4   11   19   29   37   44   46          
+      Total Time:  2:08:07.07                                                    
+         Average:    25:37.42                                                    
+   5 Washington International    114    9   12   20   35   38   40               
+      Total Time:  2:10:11.83                                                    
+         Average:    26:02.37                                                    
+   6 Woodrow Wilson High Schoo   156   13   28   33   39   43   47   53          
+      Total Time:  2:16:48.43                                                    
+         Average:    27:21.69                                                    
+   7 Georgetown Day School       163   25   27   34   36   41   42   45          
+      Total Time:  2:17:13.54                                                    
+         Average:    27:26.71                                                    
+   8 Kipp Dc: College Prep       250   48   49   50   51   52   54   55          
+      Total Time:  3:01:04.46                                                    
+         Average:    36:12.90                                                    
+
+
+
+Event 4  Boys 5k Run CC Junior Varsity
+=======================================================================          
+    Name                    Year School                  Finals  Points          
+=======================================================================          
+Results - Men                                                                    
+  1 Wolfe, Laszlo              9 St. Albans School     18:07.98    1             
+  2 Pathiyal, Arjun           11 Georgetown D          18:39.98    2             
+  3 Hirko, John                9 Gonzaga Coll          18:40.40    3             
+  4 Kaczor, Matt              10 St. John's C          18:43.58    4             
+  5 Donets, Peter             12 St. Albans School     18:45.44    5             
+  6 Barnacle, James           11 St. John's C          18:48.94    6             
+  7 Lindenberg, Max           12 St. John's C          18:52.11    7             
+  8 Miller, Sammy              9 St. Albans School     18:57.77    8             
+  9 Barloon, Tim              11 Gonzaga Coll          18:59.15    9             
+ 10 Heiber, DJ                 9 St. Albans School     19:04.27   10             
+ 11 Weeda, Justin             10 Gonzaga Coll          19:06.44   11             
+ 12 Shelton, Noah             12 Georgetown D          19:06.80   12             
+ 13 Preciado, Alfonso         10 Gonzaga Coll          19:07.46   13             
+ 14 Broome, John               9 Gonzaga Coll          19:07.50   14             
+ 15 Zeilinger, Liam           11 Georgetown D          19:08.91   15             
+ 16 Spector, Will             11 St. Albans School     19:09.36   16             
+ 17 Cutler, Abe               11 Gonzaga Coll          19:12.69   17             
+ 18 Williams, Philip          11 Gonzaga Coll          19:20.23   18             
+ 19 Bratti, Peter             12 Gonzaga Coll          19:26.52                  
+ 20 Deverines Perez-Garc, Ju  11 Washington I          19:29.65   19             
+ 21 Virtue, Evan               9 St. Albans School     19:30.18   20             
+ 22 Buckley, William           9 Gonzaga Coll          19:32.10                  
+ 23 Sotoodehnia, Theo         12 St. Albans School     19:33.93   21             
+ 24 Huh, Cole                 10 Georgetown D          19:37.94   22             
+ 25 Kelly, Teddy              12 St. John's C          19:41.61   23             
+ 26 Corso, John               11 Gonzaga Coll          19:45.38                  
+ 27 Reese, Christian          10 Gonzaga Coll          19:46.93                  
+ 28 Laroski, Joseph           12 St. Albans School     19:47.19                  
+ 29 Denney, James              9 St. Albans School     19:49.13                  
+ 30 Ishi, Kenji               11 Sidwell Frie          19:50.70   24             
+ 31 DeCain, Pierce            12 Georgetown D          19:52.65   25             
+ 32 Raman, Shiv               11 Georgetown D          19:55.27   26             
+ 33 Reynolds, Samuel          12 St. Albans School     19:58.76                  
+ 34 Ewald, Declan              9 Gonzaga Coll          19:58.85                  
+ 35 Morrison, Crae            12 St. John's C          19:58.89   27             
+ 36 Desai, Navin              10 Georgetown D          20:01.61   28             
+ 37 Barbee, William           12 St. Albans School     20:03.26                  
+ 38 Johnson, Juan             10 St. John's C          20:07.24   29             
+ 39 Garon, Max                12 Sidwell Frie          20:07.40   30             
+ 40 Carter, Alexander         10 Woodrow Wils          20:07.67   31             
+ 41 Sabherwal, Ahaan          12 Sidwell Frie          20:09.18   32             
+ 42 Matsui, Robby              9 Sidwell Frie          20:09.81   33             
+ 43 Wills, Jaylen              9 St. Albans School     20:14.66                  
+ 44 Orlove-Rodriguez, Alvaro   9 Woodrow Wils          20:22.13   34             
+ 45 Palmore, Teddy            11 St. Albans School     20:22.45                  
+ 46 Tracy, Henry               9 St. Albans School     20:22.49                  
+ 47 Husk, Michael             12 Gonzaga Coll          20:24.63                  
+ 48 Allen, Peter               9 Gonzaga Coll          20:26.54                  
+ 49 Prisco, Will               9 Gonzaga Coll          20:28.67                  
+ 50 Daneker, Evan             12 St. Albans School     20:32.81                  
+ 51 DiZino, Adam              12 Gonzaga Coll          20:35.05                  
+ 52 Loftus, Simon              9 Georgetown D          20:35.12                  
+ 53 Pan, Zachary              11 Washington I          20:36.36   35             
+ 54 Weissman, Owen            10 St. Albans School     20:36.73                  
+ 55 Acosta, Benjamin          11 St. Albans School     20:39.35                  
+ 56 Buckman, Herman            9 Kipp Dc: Col          20:45.61   36             
+ 57 Marcellino, Ryan          12 St. John's C          20:46.25   37             
+ 58 Marelli, Daniel            9 Sidwell Frie          20:46.77   38             
+ 59 Phoel, Colin               9 Gonzaga Coll          20:50.51                  
+ 60 Weinberger, Laith         10 Georgetown D          20:50.71                  
+ 61 Ban-Goodrich, Giacomo     10 Woodrow Wils          20:52.34   39             
+ 62 Gretschel, Nathan         10 Gonzaga Coll          20:52.41                  
+ 63 Bailey, James              9 St. John's C          20:52.55                  
+ 64 Levey, Mateo               9 Washington I          20:53.70   40             
+ 65 Kiernan, Kevin            12 Gonzaga Coll          20:55.47                  
+ 66 Weetjens, Elias            9 St. John's C          20:55.85                  
+ 67 Fujiyama, Matthew         11 St. Albans School     21:03.39                  
+ 68 Lea, Daniel                9 Sidwell Frie          21:07.70   41             
+ 69 Dweck, Shai               12 Georgetown D          21:10.62                  
+ 70 Findler, Sammy            10 St. Albans School     21:15.27                  
+ 71 Riker, Seth               12 Georgetown D          21:17.21                  
+ 72 Ramchand, Ethan            9 St. Albans School     21:17.66                  
+ 73 Acosta, Alex               9 St. Albans School     21:18.21                  
+ 74 Hopes, Elliott             9 St. Albans School     21:18.47                  
+ 75 Metzger-Sloan, Andrew     10 St. John's C          21:22.50                  
+ 76 Cajayon, Joseph           11 Gonzaga Coll          21:24.10                  
+ 77 Bailey, Colin             10 St. Albans School     21:24.52                  
+ 78 Reilly, Sam               10 Gonzaga Coll          21:24.74                  
+ 79 Sather, Cole               9 St. Albans School     21:25.23                  
+ 80 Zimmermann, Jamie         11 Georgetown D          21:26.38                  
+ 81 Leff, Adam                12 Georgetown D          21:26.97                  
+ 82 Wiseman, Alex             10 Washington I          21:27.36   42             
+ 83 Hannigan, Oliver          12 Woodrow Wils          21:30.13   43             
+ 84 Tescher, Zach              9 St. Albans School     21:30.87                  
+ 85 Kannan, Rishi             11 St. Albans School     21:31.07                  
+ 86 Leiphart, Thaddeus        10 St. Albans School     21:32.16                  
+ 87 Bailey, Ken               12 Georgetown D          21:32.55                  
+ 88 Karrels, Matthew           9 St. Albans School     21:34.35                  
+ 89 Hughes, James              9 Basis DC              21:36.55   44             
+ 90 Mores, Maxfeld            12 Woodrow Wils          21:38.02   45             
+ 91 Lafrankie, Chris          12 Gonzaga Coll          21:38.71                  
+ 92 Savin, Charlie            10 St. Albans School     21:38.83                  
+ 93 Lombardo, Holden          11 St. Albans School     21:39.20                  
+ 94 Borek, Milo               11 Georgetown D          21:40.98                  
+ 95 Duckenfield, Thomas        9 St. Albans School     21:46.20                  
+ 96 Grace, Wyatt               9 Georgetown D          21:46.94                  
+ 97 Meinhardt, Freddy         12 St. Albans School     21:47.50                  
+ 98 Flyer, Luke               12 Georgetown D          21:49.49                  
+ 99 Smith, Gabriel             9 St. John's C          21:50.53                  
+100 Florance, Matthew         10 St. Albans School     21:54.76                  
+101 Huh, Miles                12 Georgetown D          22:00.03                  
+102 Ireri, Nathan              9 Georgetown D          22:01.55                  
+103 Porter, Ewan              10 Georgetown D          22:01.63                  
+104 Freeman, Christian        11 Georgetown D          22:01.67                  
+105 Cantrell, Zach            11 St. Albans School     22:04.22                  
+106 Shaw, George              10 St. Albans School     22:06.21                  
+107 Brown, Henry              11 St. Albans School     22:09.30                  
+108 Willard, JT               11 St. Albans School     22:13.45                  
+109 Cook, Emmett              11 Gonzaga Coll          22:20.28                  
+110 Zhang, Hercules           10 Georgetown D          22:31.92                  
+111 Aemro Selasso, Lucas       9 Washington I          22:33.84   46             
+112 Routh, Gabe                9 Gonzaga Coll          22:39.06                  
+113 Blackburn, Joshua         10 Woodrow Wils          22:42.73   47             
+114 Xia, Kevin                 9 Georgetown D          22:42.76                  
+115 Cusicanqui, Sulayman       9 Sidwell Frie          22:44.91   48             
+116 Ilyas, Zaky               10 St. Albans School     22:50.46                  
+117 Balmoris, Nathaniel       11 Woodrow Wils          22:55.41   49             
+118 Borkowski, Luke            9 Sidwell Frie          22:58.31                  
+119 Brewer, Jackson           10 Gonzaga Coll          23:00.39                  
+120 Yarborough, Markell       10 Kipp Dc: Col          23:08.06   50             
+121 Gagosian, Jacob            9 Woodrow Wils          23:10.06                  
+122 Metzger-Sloan, John       10 St. John's C          23:11.34                  
+123 Marino, Will               9 St. Albans School     23:13.79                  
+124 Yu, Kaiden                11 Georgetown D          23:18.99                  
+125 Kiser, Alex                9 St. Albans School     23:25.57                  
+126 Campbell, Stuart          11 Washington I          23:26.29   51             
+127 Roessner, Augustus         9 Eastern High School   23:27.26                  
+128 Kiesner, Aedan             9 Gonzaga Coll          23:30.16                  
+129 Petty, Jacob              12 Georgetown D          23:35.12                  
+130 Glennon, Wyatt Allan      10 Woodrow Wils          23:35.89                  
+131 Smith, Teddy              11 Sidwell Frie          23:36.70                  
+132 Pryor, Tommy              10 St. Albans School     23:45.45                  
+133 Bruce, Baker              10 St. Albans School     23:46.29                  
+134 Bhatia, Alex               9 Georgetown D          23:47.31                  
+135 Lassahn, Ryan             12 Basis DC              23:48.61   52             
+136 Weng, DongYu              10 Basis DC              23:51.26   53             
+137 Gleeson, Ryan              9 St. John's C          23:51.45                  
+138 Trepanier, Luke            9 St. Albans School     23:56.75                  
+139 Liu, Andrew                9 St. Albans School     24:00.79                  
+140 Sutton, Jack              10 St. Albans School     24:00.92                  
+141 Miles, Alonzo              9 Kipp Dc: Col          24:08.19   54             
+142 Danciu-Burdescu, Luca     11 St. Albans School     24:24.35                  
+143 Davis, Tyler              10 Washington L          24:33.75                  
+144 Tate, Ashok               11 Georgetown D          24:48.23                  
+145 Tecala, John              12 Gonzaga Coll          24:57.42                  
+146 Keita, Khaliq             10 Kipp Dc: Col          24:57.85   55             
+147 Desai, Shaan              10 Georgetown D          24:59.18                  
+148 Rubin, Nate               12 Georgetown D          25:10.03                  
+149 Shook, Donovan            10 Woodrow Wils          25:14.38                  
+150 Ford, Aaron                9 Basis DC              25:48.46   56             
+151 Weedon, William            9 Eastern High School   26:38.72                  
+152 Jager, Zachary            11 Georgetown D          26:49.98                  
+153 Andargachew, Sam           9 Sidwell Frie          27:14.06                  
+154 Foxx, Zachary              9 Sidwell Frie          27:21.21                  
+155 Huang, Hao Shen            9 Basis DC              27:53.89   57             
+156 Aaron, Max                 9 Washington L          28:01.71                  
+157 Dunlap, Jerry             10 Kipp Dc: Col          28:25.22   58             
+158 Pyburn, Ehren              9 Washington L          28:51.17                  
+159 Colinvaux, Koby           10 Georgetown D          29:13.65                  
+160 Elias, Abel               10 Georgetown D          30:56.77                  
+161 Butler, Anton              9 St. Albans School     31:16.52                  
+162 Harris, Keith              9 Kipp Dc: Col          31:16.65   59             
+163 Mcclary, Shean             9 Kipp Dc: Col          31:17.78   60             
+164 Underwood, Preston Edwar  10 Woodrow Wils          32:25.66                  
+165 Paci, Luke                10 Washington L          32:43.43                  
+ -- Thomas, Lee               10 McKinley Tec                DQ                  
+                                                                                 
+                                   Team Scores                                   
+=================================================================================
+Rank Team                      Total    1    2    3    4    5   *6   *7   *8   *9
+=================================================================================
+Results - Men                                                                    
+   1 St. Albans School            40    1    5    8   10   16   20   21          
+      Total Time:  1:34:04.82                                                    
+         Average:    18:48.97                                                    
+   2 Gonzaga College High Scho    50    3    9   11   13   14   17   18          
+      Total Time:  1:35:00.95                                                    
+         Average:    19:00.19                                                    
+   3 St. John's College High S    67    4    6    7   23   27   29   37          
+      Total Time:  1:36:05.13                                                    
+         Average:    19:13.03                                                    
+   4 Georgetown Day School        76    2   12   15   22   25   26   28          
+      Total Time:  1:36:26.28                                                    
+         Average:    19:17.26                                                    
+   5 Sidwell Friends  School     157   24   30   32   33   38   41   48          
+      Total Time:  1:41:03.86                                                    
+         Average:    20:12.78                                                    
+   6 Washington International    182   19   35   40   42   46   51               
+      Total Time:  1:45:00.91                                                    
+         Average:    21:00.19                                                    
+   7 Woodrow Wilson High Schoo   192   31   34   39   43   45   47   49          
+      Total Time:  1:44:30.29                                                    
+         Average:    20:54.06                                                    
+   8 Kipp Dc: College Prep       253   36   50   54   55   58   59   60          
+      Total Time:  2:01:24.93                                                    
+         Average:    24:16.99                                                    
+   9 Basis DC                    262   44   52   53   56   57                    
+      Total Time:  2:02:58.77                                                    
+         Average:    24:35.76                                                    
+
+
+
+Event 5  Girls 5k Run CC Varsity
+=======================================================================          
+    Name                    Year School                  Finals  Points          
+=======================================================================          
+Results - Women                                                                  
+  1 Poe, Marisa               12 Maret School          18:59.63                  
+  2 Gotzman, Meredith         11 St. John's C          19:07.69    1             
+  3 Kelly, Vivian              9 Georgetown V          20:11.00    2             
+  4 Gutierrez, Olivia         12 St. John's C          20:28.04    3             
+  5 Gotzman, Caroline         11 St. John's C          20:36.42    4             
+  6 Stanciu, Elena            11 Basis DC              20:43.47                  
+  7 Lee, Caroline              9 National Cathedral    20:46.18    5             
+  8 Kessler, Ellie            10 Georgetown D          21:02.86    6             
+  9 Mattheus, Sophie          11 St. John's C          21:23.31    7             
+ 10 De La Vega-Rodriquez, Li  11 Georgetown V          21:33.35    8             
+ 11 Droege, Nell              10 St. John's C          21:36.38    9             
+ 12 Goldwasser, Evelyn        12 Woodrow Wils          21:40.12   10             
+ 13 Cave, Louisa              12 Georgetown V          21:41.34   11             
+ 14 Limao, Isabel              9 Sidwell Frie          21:43.61   12             
+ 15 Cloutier, Olivia          12 Sidwell Frie          21:44.58   13             
+ 16 Campbell, Ellie           12 Georgetown V          21:45.15   14             
+ 17 Maxwell, Jennifer         10 St. John's C          21:49.42   15             
+ 18 Parsons, Nora             10 Woodrow Wils          21:53.25   16             
+ 19 Leff, Audrey               9 Georgetown D          21:58.31   17             
+ 20 Goldwasser, Molly         12 Woodrow Wils          22:02.70   18             
+ 21 Boyle, Sadie               9 Georgetown D          22:05.27   19             
+ 22 Hayward, Kennedy          12 St. John's C          22:07.44   20             
+ 23 McCarthy, Virginia        10 Georgetown V          22:08.25   21             
+ 24 Aguirre, Maya             12 National Cathedral    22:15.80   22             
+ 25 Zhang, Alden              12 Sidwell Frie          22:16.33   23             
+ 26 Gulley, Eliza              9 Edmund Burke School   22:19.11                  
+ 27 Goldstein, Lillian         9 The Field School      22:33.38                  
+ 28 Donnelly, Anjali          12 Sidwell Frie          22:39.00   24             
+ 29 Puryear, Jane             11 National Cathedral    22:39.08   25             
+ 30 Wallace, Callie            9 Maret School          22:40.70                  
+ 31 Axelrod, Sophie           12 Georgetown D          22:43.63   26             
+ 32 Shearer, Elizabeth        10 Georgetown V          23:14.84   27             
+ 33 McGreevy, Mavourneen      10 Georgetown V          23:17.51   28             
+ 34 Watterson, Caroline       12 Washington L          23:27.20                  
+ 35 Brody, Anna               11 Sidwell Frie          23:33.23   29             
+ 36 Sachse, Nora               9 Georgetown D          23:36.89   30             
+ 37 Nwosu, Nnedi               9 Sidwell Frie          23:38.68   31             
+ 38 Orr, Susanna Karla         9 Woodrow Wils          23:47.26   32             
+ 39 Kaler, Cassidy            10 National Cathedral    23:48.17   33             
+ 40 Braxton, Jacqueline       12 T Roosevelt           24:08.44                  
+ 41 Zhao, Grace               12 Sidwell Frie          24:21.21   34             
+ 42 Williams, Georgie         12 National Cathedral    24:21.85   35             
+ 43 Leber, Lillian             9 Woodrow Wils          24:34.32   36             
+ 44 Auerswald, Izzy           11 Georgetown D          24:57.72   37             
+ 45 Haubold, Vanessa           9 The Field School      25:00.11                  
+ 46 Chiang, Megan             11 National Cathedral    25:01.38   38             
+ 47 Lowengrub, Arianna        12 Woodrow Wils          25:08.07   39             
+ 48 Powell, Lily              12 National Cathedral    25:13.27   40             
+ 49 Emanuel, Claire           11 Washington L          25:30.18                  
+ 50 Commissiong, Jordan       11 T Roosevelt           25:38.34                  
+ 51 Maur-Batsaki, Georgia     10 Georgetown D          25:45.29   41             
+ 52 Kenley, Nakita            10 Girls Global          30:32.38                  
+ 53 Carter, Almera            11 Bell High School      30:33.45                  
+ 54 O'Keefe, Amelia           10 Girls Global          38:00.70                  
+ 55 Robinson, Laniya           9 Girls Global          51:13.71                  
+ -- Patterson, RaNyah          9 Girls Global               DNF                  
+                                                                                 
+                                   Team Scores                                   
+=================================================================================
+Rank Team                      Total    1    2    3    4    5   *6   *7   *8   *9
+=================================================================================
+Results - Women                                                                  
+   1 St. John's College High S    24    1    3    4    7    9   15   20          
+      Total Time:  1:43:11.84                                                    
+         Average:    20:38.37                                                    
+   2 Georgetown Visitation Pre    56    2    8   11   14   21   27   28          
+      Total Time:  1:47:19.09                                                    
+         Average:    21:27.82                                                    
+   3 Georgetown Day School        98    6   17   19   26   30   37   41          
+      Total Time:  1:51:26.96                                                    
+         Average:    22:17.40                                                    
+   4 Sidwell Friends  School     101   12   13   23   24   29   31   34          
+      Total Time:  1:51:56.75                                                    
+         Average:    22:23.35                                                    
+   5 Woodrow Wilson High Schoo   112   10   16   18   32   36   39               
+      Total Time:  1:53:57.65                                                    
+         Average:    22:47.53                                                    
+   6 National Cathedral          120    5   22   25   33   35   38   40          
+      Total Time:  1:53:51.08                                                    
+         Average:    22:46.22                                                    
+
+
+
+Event 6  Boys 5k Run CC Varsity
+=======================================================================          
+    Name                    Year School                  Finals  Points          
+=======================================================================          
+Results - Men                                                                    
+  1 Attiogbe, Pierre          11 St. Albans School     16:00.87    1             
+  2 Grabarz, Nicolas          12 St. John's C          16:10.64    2             
+  3 Lachman, Micah            12 Sidwell Frie          16:31.07    3             
+  4 Hume, Sebi                 9 St. Albans School     17:07.67    4             
+  5 Tobin, Finley             10 St. John's C          17:07.79    5             
+  6 Cohen, Luke               11 Georgetown D          17:11.98    6             
+  7 Robinson, Paul            10 St. John's C          17:13.75    7             
+  8 McMurray, John             9 Sidwell Frie          17:16.29    8             
+  9 Mickle, Cameron            9 St. John's C          17:16.89    9             
+ 10 Thomson, Liam             11 Gonzaga Coll          17:18.95   10             
+ 11 Baar, Charlie             12 Georgetown D          17:25.23   11             
+ 12 Rohde, Lucas              10 Gonzaga Coll          17:26.51   12             
+ 13 Strong, William            9 St. Albans School     17:29.96   13             
+ 14 Montrey, Casey            12 Washington L          17:30.78   14             
+ 15 Otto-Manzano, Daniel      11 Georgetown D          17:30.94   15             
+ 16 Cooper, Leo               12 Georgetown D          17:30.96   16             
+ 17 Wolin, Ethan              11 Georgetown D          17:31.14   17             
+ 18 Rios-Colon, Austin        11 St. John's C          17:31.74   18             
+ 19 McGrath, Flynn            12 Sidwell Frie          17:40.14   19             
+ 20 Podratsky, Matt            9 Gonzaga Coll          17:42.52   20             
+ 21 Urbina, Aidan             12 St. Albans School     17:44.18   21             
+ 22 Kirchner, Quinn           12 Gonzaga Coll          17:52.85   22             
+ 23 Norman, Ethan             12 Gonzaga Coll          17:54.86   23             
+ 24 Kuzichev, Venya           11 St. Albans School     17:57.34   24             
+ 25 Thomas, Jack              11 St. Albans School     18:05.15   25             
+ 26 Luchtefeld, Marc          11 St. John's C          18:09.12   26             
+ 27 Kenney, Tyler             11 Woodrow Wils          18:13.11   27             
+ 28 Camp, Matias              12 Gonzaga Coll          18:16.91   28             
+ 29 Weissman, Easy            10 Sidwell Frie          18:18.26   29             
+ 30 Whitley, Daniel           11 Woodrow Wils          18:22.05   30             
+ 31 Rhee, John                11 St. Albans School     18:23.35   31             
+ 32 Ogada, Thomas             10 Georgetown D          18:26.10   32             
+ 33 Gamble, Jeremiah           9 St. John's C          18:43.53   33             
+ 34 Liu, Nathaniel            12 Basis DC              18:46.16                  
+ 35 Penniman, Mac              9 Georgetown D          18:49.17   34             
+ 36 Goodman, Nate             12 Maret School          19:08.39   35             
+ 37 Holden, Lucas             11 Sidwell Frie          19:09.94   36             
+ 38 Nolde, Kit                12 Sidwell Frie          19:12.49   37             
+ 39 Bolanis, Henry             9 Woodrow Wils          19:23.72   38             
+ 40 Milberg, Asher            11 Maret School          19:26.71   39             
+ 41 Pierre, Aiden             11 Banneker Hig          19:43.14                  
+ 42 Gruber, Max                9 Edmund Burke School   19:49.40   40             
+ 43 White, Jakobi             11 McKinley Tec          19:58.48   41             
+ 44 Burgess, Alan             10 Woodrow Wils          20:02.72   42             
+ 45 Ash, Andrew               10 Woodrow Wils          20:22.95   43             
+ 46 Tanner, Miles             12 Edmund Burke School   20:25.76   44             
+ 47 Lucas, Evan               10 The Field School      20:35.32   45             
+ 48 Tichy, Michael             9 Washington L          20:46.13   46             
+ 49 Pinkerton, John           10 Maret School          20:46.74   47             
+ 50 Bonner, Joshua            11 Woodrow Wils          20:59.88   48             
+ 51 Mills, Carter             10 The Field School      21:04.68   49             
+ 52 Pomper, Charles           11 Maret School          21:09.70   50             
+ 53 Holt, Isaac               12 Basis DC              21:12.20                  
+ 54 Schick, Samuel            10 Maret School          21:13.69   51             
+ 55 Mayo, Bradley              9 McKinley Tec          21:19.47   52             
+ 56 Singleton, Ian            11 Edmund Burke School   21:20.80   53             
+ 57 Braxton, Isrial            9 McKinley Tec          21:46.49   54             
+ 58 Swaby, Simeon             12 The Field School      21:52.90   55             
+ 59 Oppenheimer, Adam         11 Edmund Burke School   21:58.21   56             
+ 60 Lunde, Charles             9 Edmund Burke School   22:01.39   57             
+ 61 Kempf, Nicholas            9 Washington L          22:22.27   58             
+ 62 Armagh, Aidan             11 The Field School      22:41.20   59             
+ 63 Batkin, William            9 Washington L          22:46.57   60             
+ 64 Bowman, Isaiah            12 Banneker Hig          23:02.20                  
+ 65 Terrell, Michael           9 McKinley Tec          23:15.84   61             
+ 66 Byndon, Kaleb              9 Ron Brown School      23:27.88                  
+ 67 Geyer, Zach                9 The Field School      23:39.60   62             
+ 68 Swann, Ethan               9 McKinley Tec          23:44.66   63             
+ 69 Wiseman, Charlie           9 Edmund Burke School   23:46.43   64             
+ 70 Kirk, Brendan             12 Washington L          24:02.21   65             
+ 71 Wilson III, Carl          10 Ron Brown School      26:10.67                  
+ 72 Johnson, Antonio           9 Ron Brown School      26:42.07                  
+ 73 Commissiong, Jacob        11 T Roosevelt           27:35.82                  
+ 74 Lewis, Amar               11 Friendship C          31:05.24                  
+ 75 Powell, Jakari            11 Friendship C          31:40.78                  
+ 76 Wims, Braylon             11 Friendship C          32:28.47                  
+ 77 Taylor, Sean              11 Ron Brown School      33:09.62                  
+ 78 Pettiford, Jaylen         11 Kipp Dc: Col          33:14.43                  
+ 79 Wooton, Monte             12 Kipp Dc: Col          36:49.85                  
+ 80 Jones, Anthony            12 Kipp Dc: Col          36:54.47                  
+ 81 Buchannan, Tylleal        12 Friendship C          39:27.62                  
+                                                                                 
+                                   Team Scores                                   
+=================================================================================
+Rank Team                      Total    1    2    3    4    5   *6   *7   *8   *9
+=================================================================================
+Results - Men                                                                    
+   1 St. John's College High S    41    2    5    7    9   18   26   33          
+      Total Time:  1:25:20.82                                                    
+         Average:    17:04.17                                                    
+   2 St. Albans School            63    1    4   13   21   24   25   31          
+      Total Time:  1:26:20.02                                                    
+         Average:    17:16.01                                                    
+   3 Georgetown Day School        65    6   11   15   16   17   32   34          
+      Total Time:  1:27:10.25                                                    
+         Average:    17:26.05                                                    
+   4 Gonzaga College High Scho    87   10   12   20   22   23   28               
+      Total Time:  1:28:15.69                                                    
+         Average:    17:39.14                                                    
+   5 Sidwell Friends  School      95    3    8   19   29   36   37               
+      Total Time:  1:28:55.70                                                    
+         Average:    17:47.14                                                    
+   6 Woodrow Wilson High Schoo   180   27   30   38   42   43   48               
+      Total Time:  1:36:24.55                                                    
+         Average:    19:16.91                                                    
+   7 Maret School                222   35   39   47   50   51                    
+      Total Time:  1:41:45.23                                                    
+         Average:    20:21.05                                                    
+   8 Washington Latin Public C   243   14   46   58   60   65                    
+      Total Time:  1:47:27.96                                                    
+         Average:    21:29.60                                                    
+   9 Edmund Burke School         250   40   44   53   56   57   64               
+      Total Time:  1:45:35.56                                                    
+         Average:    21:07.12                                                    
+  10 The Field School            270   45   49   55   59   62                    
+      Total Time:  1:49:53.70                                                    
+         Average:    21:58.74                                                    
+  11 McKinley Tech High School   271   41   52   54   61   63                    
+      Total Time:  1:50:04.94                                                    
+         Average:    22:00.99
+```

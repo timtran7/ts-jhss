@@ -1,0 +1,103 @@
+<!--
+AUTHOR: AREEP
+
+This page displays results from the ARE/AREEP results database in a simple TXT format resembling the traditional method with which results were printed using a monospace font.
+-->
+<html>
+<head>
+	<title>ARE Results Viewer: DCSAA XC Championship - Boys Varsity held November 05, 2016</title>
+</head>
+<body>
+  <pre>
+              DCSAA XC Championship - Boys Varsity
+               November 05, 2016 - Washington, DC
+Results By Pacers Running
+<h1 style='font-size:25; background: white; color: Blue;'>Click <a href='http://www.runwashington.com/wp-content/uploads/2016/11/110516_DCSAA_BVA_TEAMS.pdf' target='_blank' style='color: Red'>here</a> for the TEAMS listing</h1>
+
+PLACE BIB  NAME                    TIME     PACE 
+ 1    11786Harry Monroe              16:19   5:16
+ 2    11751John Colucci              16:49   5:25
+ 3    10213Josh Shelton              16:54   5:27
+ 4    10216Jackson Todd              17:15   5:33
+ 5    11908Amal Mattoo               17:20   5:35
+ 6    11782William McCann            17:22   5:36
+ 7    11886Julian Dixon              17:23   5:36
+ 8    11801John Travis               17:25   5:37
+ 9    11926Philip Wright             17:26   5:37
+10    12127Aaron Coates              17:28   5:38
+11    12022Matthew Laskowski         17:29   5:38
+12    12106Ayinde Summey             17:29   5:38
+13    12117Luke Tewalt               17:33   5:39
+14    11762David Giannini            17:36   5:40
+15    11921Arjun Thillairajah        17:41   5:42
+16    12136Isaac Frumkin             17:45   5:43
+17    12036Liam De Beaufort          17:46   5:43
+18    11901Junho Kim-Lee             17:48   5:44
+19    11746Cullen Capuano            17:49   5:44
+20    12057Riley Place               17:50   5:45
+21    12009Jack Tongour              17:50   5:45
+22    12139Queston Grannis           17:51   5:45
+23    11739Jack Beckman              17:54   5:46
+24    11929Danny Addison             17:55   5:46
+25    10217Erkin Verbeek             17:55   5:46
+26    11964Jack Kelly                18:03   5:49
+27    11916Christian Roberts         18:04   5:49
+28    10210Jack Rudnick              18:10   5:51
+29    12066Reese Smith               18:13   5:52
+30    12111Nick Geist                18:15   5:53
+31    11993Mark Parrino              18:17   5:54
+32    11814Christopher Black         18:18   5:54
+33    12070Ryan Walsh                18:19   5:54
+34    12083Wells Dwiggins-Thama      18:23   5:55
+35    12129Jose Cruz                 18:26   5:56
+36    12150Patrick Mulderig          18:32   5:58
+37    12040Arthur Fairclough         18:34   5:59
+38    11645Frankie Decola            18:34   5:59
+39    12142Joe Himmelfarb            18:36   5:59
+40    11896Mitchell Jubeir           18:45   6:03
+41    11654Noah Gottdenker           18:47   6:03
+42    12159Angel Yulfo-Vargas        18:47   6:03
+43    12019Peter Clark               19:04   6:08
+44    11657Christian Hall            19:04   6:09
+45    12062Benjamin Rurka            19:04   6:09
+46    11616Eddy Keenan               19:07   6:10
+47    12076Ricky Balthazar           19:25   6:15
+48    12084David Englund             19:29   6:17
+49    12044Will Heinte               19:35   6:19
+50    12112Alex Hagan                19:49   6:23
+
+              DCSAA XC Championship - Boys Varsity
+               November 05, 2016 - Washington, DC
+Results By Pacers Running
+<h1 style='font-size:25; background: white; color: Blue;'>Click <a href='http://www.runwashington.com/wp-content/uploads/2016/11/110516_DCSAA_BVA_TEAMS.pdf' target='_blank' style='color: Red'>here</a> for the TEAMS listing</h1>
+
+PLACE BIB  NAME                    TIME     PACE 
+51    10221Tyreek Bell               20:11   6:30
+52    12110Theo Cowart               20:12   6:30
+53    11623Ben McLenaghan            20:25   6:34
+54    11818Cedric Heath              20:26   6:35
+55    12116Oliver Spiva              20:29   6:36
+56    12023Alex Shipe                20:34   6:38
+57    12113Roman McDonough           20:37   6:38
+58    12120Josh Wirth                20:38   6:39
+59    12086Jack Gutzler              20:52   6:43
+60    12100Adam Putch                21:01   6:46
+61    11820Antonio Hudson            21:01   6:46
+62    10222Daniel Clark              21:07   6:48
+63    11628Booker Viso               21:20   6:52
+64    11627Alex Schonberger          21:38   6:58
+65    11819David Hounyo              21:46   7:01
+66    11619Andrew Louda              21:55   7:04
+67    11591Ta'quan Ford              21:55   7:04
+68    11629Caleb Weaver              21:58   7:04
+69    11618Pablo Laguarda            22:41   7:18
+70    12020Hank Hermans              23:08   7:27
+71    11593Marc Moaland              23:15   7:29
+72    11874Rasaan Johnson            24:05   7:46
+73    11813Te'von Wilson             24:46   7:59
+74    11597Devin Valolvia            27:47   8:57
+75    11588Kaleab Assefa             29:49   9:36
+76    10226William Watson            33:17  10:43
+</pre>
+</body>
+</html>
