@@ -1,30 +1,22 @@
-# Sprint 1 protocol — DCSAA boys Kenilworth era
+# Analysis rules
 
-## Question
-Does last year’s pack (5th runner) tell you more about this year’s DCSAA boys team place than last year’s star (1st runner), after sector and enrollment?
+Among schools with an eligible prior championship, prior fifth-runner relative time (within-meet z; higher = slower) should predict next championship team place more accurately than prior first-runner relative time, after log enrollment and sector.
 
-## Unit
-Team-season. Scoring teams only in the primary OLS (five finishers).
+More accurately means lower RMSE and MAE on the 2025 holdout. Spearman ρ, in-sample R², and AIC are secondary. Team score is a check that uses the actual scoring total.
 
-## Outcome
-`state_place` (and `state_score` as sensitivity) at the DCSAA varsity boys 5k, Kenilworth Park.
+Unit is the team-season. Only scoring teams (five or more finishers) with a lag of 1 or 2 years.
 
-## Predictors (no leakage)
-Computed from the **previous Kenilworth championship** (or previous available season; 2021 lags to 2019):
-- `lag_star_z`: within-meet z of the team’s #1 time
-- `lag_depth_z`: within-meet z of the team’s #5 time
-- `lag_pack_gap`: lag_depth_z − lag_star_z
-- Controls: `log_enrollment`, sector dummies (private as reference vs public/charter)
-- H2: `wcac` (Gonzaga, St. John’s, Archbishop Carroll)
+Outcome: `state_place` (main), `state_score` (check).
 
-## Split
-Fit 2017–2024 (rows with non-missing lags). Freeze. Evaluate 2025.
+Predictors come from the prior available Kenilworth championship, never the same race as the outcome:
+- `lag_star_z`, `lag_depth_z`, `lag_pack_gap` (pack gap is exploratory on its own)
+- controls: `log_enrollment`, `C(sector)` (charter as the reference)
+- exploratory: `wcac`
 
-## Estimators
-OLS with school-clustered standard errors. Nested models: controls → +star → +depth → +both → +wcac. Compare AIC on the fit set; holdout RMSE/Spearman from the AIC-best depth model. Team score is a sensitivity outcome.
+Fit 2019 and 2021–2024. Evaluate 2025.
 
-## Secondary
-If invitational files exist: team–meet panel with cluster-robust SEs. Not the headline table.
+OLS with school-clustered standard errors. Ordered logit, wild cluster bootstrap (999), rolling-origin, permutation, and the within-team swap are extra checks.
 
-## Exclusion
-2020. Non-5k. JV / Varsity B / MS. Same-year championship times as features.
+Confirmatory: holdout RMSE/MAE for fifth-runner vs first-runner (and vs controls). Everything else is exploratory.
+
+Drop 2020, non-5k, non-varsity, same-year features, lag gaps over 2, and grades outside 9–12 when grade is labeled.

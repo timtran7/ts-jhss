@@ -1,13 +1,9 @@
-# Sprint 8 — submission checklist
+# Submitting this paper
 
-- [x] Hypotheses match tests (lagged Kenilworth z; 2025 holdout)
-- [x] No same-year championship times as predictors
-- [x] Enrollment + sector controls
-- [x] HC3 replaced with school-clustered SEs; holdout RMSE/Spearman from depth model
-- [ ] Mentor / stats teacher read `paper/results.md`
-- [ ] JEI: frame as testing depth vs star, not model shopping
-- [ ] Rebuild: `PYTHONPATH=. python -m src.run_pipeline`
+Upload `paper/Tran_Timothy.docx` to Google Docs, set sharing to **Anyone with the link can comment**, and paste that link on the OJSS form.
 
-Primary venue: Journal of Emerging Investigators. Optional: IEEE ISEC abstract.
+Don't send it to another journal at the same time.
 
-Do not submit until a human checks school-name canonicalization on `data/clean/team_seasons.csv`.
+The title page currently says 12th grade. Add a mentor if you have one.
+
+If they accept it, the APC is $200. Fast-track is optional ($125 up front, not refundable). Guidelines: https://www.oxfordjss.org/submission-guidelines

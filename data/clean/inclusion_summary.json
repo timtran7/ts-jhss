@@ -1,0 +1,35 @@
+{
+  "scoring_teams": {
+    "n": 79,
+    "n_schools": 20,
+    "sector_counts": {
+      "private": 46,
+      "charter": 17,
+      "public": 16
+    },
+    "mean_enrollment": 747.1139240506329,
+    "mean_place": 6.468354430379747
+  },
+  "analytic": {
+    "n": 55,
+    "n_schools": 15,
+    "sector_counts": {
+      "private": 36,
+      "charter": 11,
+      "public": 8
+    },
+    "mean_enrollment": 787.2,
+    "mean_place": 5.581818181818182
+  },
+  "excluded_scoring": {
+    "n": 24,
+    "n_schools": 20,
+    "sector_counts": {
+      "private": 10,
+      "public": 8,
+      "charter": 6
+    },
+    "mean_enrollment": 655.25,
+    "mean_place": 8.5
+  }
+}

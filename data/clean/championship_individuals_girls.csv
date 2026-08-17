@@ -1,494 +1,357 @@
-season,place,athlete,school,time_sec,sex
-2019,1,"Grant, Lili",Georgetown Visitation,1158.98,F
-2019,2,"Gotzman, Meredith",St. John's College,1162.87,F
-2019,3,"Wigglesworth, Claire",Jackson-Reed,1194.92,F
-2019,4,"Nicely, Ava",Jackson-Reed,1199.93,F
-2019,5,"Edelman, Zoe",Washington Latin,1206.67,F
-2019,7,"Anders, Tara",St. John's College,1226.59,F
-2019,8,"Gillespie, Ella",Georgetown Day,1227.85,F
-2019,9,"Hanway, Sophia",National Cathedral,1238.64,F
-2019,10,"Campbell, Ciara",Sidwell Friends,1245.09,F
-2019,11,"Kelly, Fajr",Roosevelt,1259.99,F
-2019,13,"Kaplan, Ruby",Georgetown Day,1266.87,F
-2019,14,"Cave, Louisa",Georgetown Visitation,1268.34,F
-2019,15,"Gotzman, Caroline",St. John's College,1272.37,F
-2019,16,"Chorzempa, Celia",St. John's College,1293.33,F
-2019,17,"Charles, Sophia",National Cathedral,1298.95,F
-2019,18,"Braxton, Jacqueline",Roosevelt,1304.87,F
-2019,20,"Shapiro, Madelyn",Jackson-Reed,1310.06,F
-2019,21,"Ives, Lauren",National Cathedral,1310.08,F
-2019,22,"Thumpasery, Maya",National Cathedral,1312.79,F
-2019,23,"Cooney, Elsa",Washington International,1323.99,F
-2019,24,"De La Vega-Rodriquez, Li",Georgetown Visitation,1327.69,F
-2019,25,"Pederson, Annika",Sidwell Friends,1332.38,F
-2019,26,"Dabalen, Bilena",National Cathedral,1335.51,F
-2019,27,"Lehrich, Talya",Jackson-Reed,1338.46,F
-2019,28,"Harris, Genevieve",School Without Walls,1346.69,F
-2019,30,"Watterson, Caroline",Washington Latin,1355.9,F
-2019,32,"Hauache, Dora",Georgetown Day,1374.75,F
-2019,33,"Gatti, Nevis",Jackson-Reed,1374.85,F
-2019,34,"Puryear, Jane",National Cathedral,1376.57,F
-2019,35,"Gorham, Ellie",School Without Walls,1378.54,F
-2019,37,"Campbell, Anna",Georgetown Visitation,1397.84,F
-2019,38,"Iglesias, Alexa",Georgetown Visitation,1400.15,F
-2019,39,"Fisher, Dagny",Georgetown Visitation,1403.54,F
-2019,40,"Murphy, Abby",Georgetown Day,1414.13,F
-2019,41,"Newingham, Arya",Georgetown Day,1414.98,F
-2019,42,"Goldwasser, Evelyn",Jackson-Reed,1421.3,F
-2019,43,"Zhang, Alden",Sidwell Friends,1422.35,F
-2019,44,"Vogt, Lucy",Georgetown Day,1428.04,F
-2019,45,"Hobdari, Michelle",Washington International,1431.18,F
-2019,46,"McNichols, Inez",Georgetown Visitation,1438.53,F
-2019,47,"Donnelly, Anjali",Sidwell Friends,1442.73,F
-2019,48,"Stanciu, Elena",BASIS DC,1450.95,F
-2019,50,"Levey, Camila",Washington International,1505.39,F
-2019,51,"Wandimagegn, Mihert",Bell Multicultural,1542.9,F
-2019,53,"Signou, Agnes",Cardozo High School,1584.76,F
-2019,55,"Learsy, Ailish",Field,1651.16,F
-2019,56,"Hager, Tessa",Field,1657.15,F
-2019,57,"Dorf, Risa",Field,1705.53,F
-2019,58,"Ross, Abby",Edmund Burke,1726.2,F
-2019,60,"Boehm, Rose",Washington International,1769.46,F
-2019,61,"Costello, Lilliana",Field,1797.31,F
-2019,62,"Irvin, Sahera",KIPP DC College Prep,1810.09,F
-2019,63,"Green, Ariyah",Bell Multicultural,1855.54,F
-2019,65,"Bailey, Kaniyah",KIPP DC College Prep,1992.0,F
-2019,66,"Hall, Mahkia",KIPP DC College Prep,1994.35,F
-2019,67,"Brunnel, Jaylin",KIPP DC College Prep,2000.69,F
-2019,68,"Pierce, Kzai",KIPP DC College Prep,2075.43,F
-2021,1,"Poe, Marisa",Maret,1139.63,F
-2021,3,"Kelly, Vivian",Georgetown Visitation,1211.0,F
-2021,4,"Gutierrez, Olivia",St. John's College,1228.04,F
-2021,5,"Gotzman, Caroline",St. John's College,1236.42,F
-2021,6,"Stanciu, Elena",BASIS DC,1243.47,F
-2021,8,"Kessler, Ellie",Georgetown Day,1262.86,F
-2021,9,"Mattheus, Sophie",St. John's College,1283.31,F
-2021,10,"De La Vega-Rodriquez, Li",Georgetown Visitation,1293.35,F
-2021,11,"Droege, Nell",St. John's College,1296.38,F
-2021,12,"Goldwasser, Evelyn",Jackson-Reed,1300.12,F
-2021,13,"Cave, Louisa",Georgetown Visitation,1301.34,F
-2021,14,"Limao, Isabel",Sidwell Friends,1303.61,F
-2021,15,"Cloutier, Olivia",Sidwell Friends,1304.58,F
-2021,16,"Campbell, Ellie",Georgetown Visitation,1305.15,F
-2021,17,"Maxwell, Jennifer",St. John's College,1309.42,F
-2021,18,"Parsons, Nora",Jackson-Reed,1313.25,F
-2021,19,"Leff, Audrey",Georgetown Day,1318.31,F
-2021,20,"Goldwasser, Molly",Jackson-Reed,1322.7,F
-2021,21,"Boyle, Sadie",Georgetown Day,1325.27,F
-2021,22,"Hayward, Kennedy",St. John's College,1327.44,F
-2021,23,"McCarthy, Virginia",Georgetown Visitation,1328.25,F
-2021,24,"Aguirre, Maya",National Cathedral,1335.8,F
-2021,25,"Zhang, Alden",Sidwell Friends,1336.33,F
-2021,26,"Gulley, Eliza",Edmund Burke,1339.11,F
-2021,28,"Donnelly, Anjali",Sidwell Friends,1359.0,F
-2021,29,"Puryear, Jane",National Cathedral,1359.08,F
-2021,30,"Wallace, Callie",Maret,1360.7,F
-2021,32,"Shearer, Elizabeth",Georgetown Visitation,1394.84,F
-2021,33,"McGreevy, Mavourneen",Georgetown Visitation,1397.51,F
-2021,34,"Watterson, Caroline",Washington Latin,1407.2,F
-2021,36,"Sachse, Nora",Georgetown Day,1416.89,F
-2021,37,"Nwosu, Nnedi",Sidwell Friends,1418.68,F
-2021,38,"Orr, Susanna Karla",Jackson-Reed,1427.26,F
-2021,39,"Kaler, Cassidy",National Cathedral,1428.17,F
-2021,40,"Braxton, Jacqueline",Roosevelt,1448.44,F
-2021,42,"Williams, Georgie",National Cathedral,1461.85,F
-2021,43,"Leber, Lillian",Jackson-Reed,1474.32,F
-2021,44,"Auerswald, Izzy",Georgetown Day,1497.72,F
-2021,45,"Haubold, Vanessa",Field,1500.11,F
-2021,47,"Lowengrub, Arianna",Jackson-Reed,1508.07,F
-2021,48,"Powell, Lily",National Cathedral,1513.27,F
-2021,49,"Emanuel, Claire",Washington Latin,1530.18,F
-2021,51,"Maur-Batsaki, Georgia",Georgetown Day,1545.29,F
-2021,52,"Kenley, Nakita",Girls Global,1832.38,F
-2021,54,"O'Keefe, Amelia",Girls Global,2280.7,F
-2023,1,"Kelly, Vivian",Georgetown Visitation,1107.09,F
-2023,2,"Wright, Cecilia",National Cathedral,1142.0,F
-2023,3,"Anstett, Abigail",Georgetown Visitation,1146.28,F
-2023,4,"Bruch, Whitney",National Cathedral,1171.54,F
-2023,5,"Maxwell, Jennifer",St. John's College,1182.41,F
-2023,6,"Caldwell, Hailey",St. John's College,1195.68,F
-2023,7,"Droege, Nell",St. John's College,1195.74,F
-2023,8,"Wallace, Callie",Maret,1201.83,F
-2023,9,"McGreevy, Mavourneen",Georgetown Visitation,1205.29,F
-2023,10,"Limao, Isabel",Sidwell Friends,1210.27,F
-2023,11,"Robinson, Kendall",St. John's College,1227.19,F
-2023,12,"Carr, Lily",Jackson-Reed,1233.84,F
-2023,13,"Leff, Audrey",Georgetown Day,1236.67,F
-2023,14,"Wenthe, Shira",Georgetown Day,1245.78,F
-2023,15,"Darlan, Sasha",St. John's College,1256.94,F
-2023,16,"Bailen, Caroline",Sidwell Friends,1264.99,F
-2023,17,"McCarthy, Abigail",Georgetown Visitation,1271.6,F
-2023,18,"O'Neill, Hannah",St. John's College,1288.73,F
-2023,19,"Mascott, Avery",National Cathedral,1307.19,F
-2023,20,"Helmer, Bryce",Georgetown Visitation,1308.59,F
-2023,21,"Kaler, Cassidy",National Cathedral,1315.43,F
-2023,22,"Borek, Naomi",Georgetown Day,1326.15,F
-2023,23,"Boyle, Sadie",Georgetown Day,1329.31,F
-2023,24,"Young, Julia",Georgetown Day,1329.64,F
-2023,25,"Donley, Lia",Sidwell Friends,1334.4,F
-2023,26,"Flabbi-Fruttero, Carla",BASIS DC,1334.55,F
-2023,28,"Zeller, Madelyn",Washington Latin,1345.52,F
-2023,29,"Benelli, Margot",National Cathedral,1350.49,F
-2023,30,"Schneider, Hannah",National Cathedral,1359.34,F
-2023,31,"Glendinning, Charlotte",Georgetown Day,1366.12,F
-2023,32,"Leavitt, Colleen",School Without Walls,1371.82,F
-2023,33,"Dwight, Campbell",Sidwell Friends,1377.59,F
-2023,34,"Farina, Claire",Maret,1378.19,F
-2023,35,"Nwosu, Nnedi",Sidwell Friends,1378.57,F
-2023,36,"Oscherwitz, Amelia",Georgetown Day,1381.36,F
-2023,37,"Calhoun, Ophelia",National Cathedral,1385.49,F
-2023,38,"Wartchow, Solveig",McKinley Technology,1394.32,F
-2023,40,"Shearer, Elizabeth",Georgetown Visitation,1421.24,F
-2023,41,"Hartwell, Kailani",KIPP DC College Prep,1431.13,F
-2023,42,"Orr, Susanna",Jackson-Reed,1440.88,F
-2023,43,"Leber, Lillian",Jackson-Reed,1452.26,F
-2023,44,"Marzilli, Rae",Sidwell Friends,1472.73,F
-2023,45,"Pessey, Marie-Celeste",School Without Walls,1484.96,F
-2023,46,"Datham, Saniya",McKinley Technology,1489.98,F
-2023,48,"Parsons, Nora",Jackson-Reed,1521.29,F
-2023,49,"Dresner, Eden",School Without Walls,1525.3,F
-2023,50,"Schultheiss, Mika",McKinley Technology,1529.31,F
-2023,52,"Park, Lydia",Washington Latin,1550.13,F
-2023,53,"Frantz, Rory",Jackson-Reed,1555.65,F
-2023,54,"Holt, Ava",BASIS DC,1599.49,F
-2023,56,"Galarreta, Ana Lucia",Washington Latin,1613.88,F
-2023,57,"Cappelloni, Emma",School Without Walls,1633.8,F
-2023,58,"Green, Ali",Jackson-Reed,1645.36,F
-2023,59,"Grezkonzi, Imelda",Bell Multicultural,1646.52,F
-2023,61,"Kimmage, Ema",Maret,1647.82,F
-2023,62,"Engelburg, Riley",Maret,1648.95,F
-2023,63,"Davis, Nyshonne",McKinley Technology,1705.59,F
-2023,65,"Clark, Shaelyn",Eastern,1726.56,F
-2023,67,"Grygiel, Nina",Maret,1764.64,F
-2023,68,"Pineda, Alanis",Bell Multicultural,1797.57,F
-2023,70,"Green, Trinity",KIPP DC College Prep,1825.34,F
-2023,71,"Moten, Asantawaa",Roosevelt,1841.58,F
-2023,73,"Dunn, Kayla",Eastern,1896.82,F
-2023,75,"Paci, Catherine",Washington Latin,1956.78,F
-2023,76,"Givens, Aniyah",KIPP DC College Prep,1986.33,F
-2023,77,"King, Almeria",Eastern,2160.51,F
-2023,79,"Washington, Janiya",KIPP DC College Prep,2304.55,F
-2023,80,"Johnson, Dakoda",KIPP DC College Prep,2459.1,F
-2024,1,Vivian Kelly,Georgetown Visitation,1081.26,F
-2024,2,Abigail Anstett,Georgetown Visitation,1082.03,F
-2024,3,Shira Wenthe,Georgetown Day,1099.99,F
-2024,4,Whitney Bruch,National Cathedral,1132.68,F
-2024,5,Hannah O'Neill,St. John's College,1140.64,F
-2024,6,Emilia Natalucci,St. John's College,1143.39,F
-2024,7,Callie Wallace,Maret,1147.19,F
-2024,8,Cecilia Wright,National Cathedral,1149.58,F
-2024,9,Lily Carr,Jackson-Reed,1184.83,F
-2024,10,Helena Kelly,Georgetown Visitation,1187.07,F
-2024,11,Luca Brennan,Georgetown Visitation,1187.34,F
-2024,12,Nora Gormsen,Georgetown Visitation,1188.86,F
-2024,13,Alana Templeman,Sidwell Friends,1195.28,F
-2024,14,Lily Laroski,National Cathedral,1197.04,F
-2024,15,Carla Flabbi-Fruttero,BASIS DC,1199.74,F
-2024,16,Madeline Stevenson,BASIS DC,1199.93,F
-2024,17,Caroline Lee,National Cathedral,1214.23,F
-2024,18,Sabrina Brennan,Georgetown Visitation,1214.62,F
-2024,19,Hailey Caldwell,St. John's College,1219.74,F
-2024,20,Natasha Mosley,St. John's College,1221.41,F
-2024,21,Alexandra Ezrow,Georgetown Day,1221.47,F
-2024,22,Sasha Darlan,St. John's College,1225.87,F
-2024,23,Margot Benelli,National Cathedral,1228.77,F
-2024,24,Solveig Wartchow,McKinley Technology,1232.35,F
-2024,25,Isabel Limao,Sidwell Friends,1237.33,F
-2024,26,Colleen Whitty,St. John's College,1239.55,F
-2024,27,Marta Flabbi-Fruttero,BASIS DC,1242.2,F
-2024,28,Naomi Borek,Georgetown Day,1253.3,F
-2024,29,Campbell Dwight,Sidwell Friends,1256.12,F
-2024,30,Sadie Boyle,Georgetown Day,1260.07,F
-2024,31,Maeve McMurray,Sidwell Friends,1261.22,F
-2024,32,Avery Mascott,National Cathedral,1274.38,F
-2024,33,Zoe Wolin,Georgetown Day,1278.34,F
-2024,34,Anya Vogel,Maret,1285.26,F
-2024,35,Jasmine Singh,Sidwell Friends,1293.06,F
-2024,36,Madelyn Zeller,Washington Latin,1294.49,F
-2024,37,Claire Farina,Maret,1305.58,F
-2024,38,Charlotte Glendinning,Georgetown Day,1307.45,F
-2024,39,Hannah Schneider,National Cathedral,1318.54,F
-2024,40,Anya Finkelstein,Georgetown Day,1319.3,F
-2024,41,Magdalena Reminga,St. Jerome Institute,1320.6,F
-2024,42,Katherine Izenberg,BASIS DC,1363.66,F
-2024,43,Cecelia Morvis,BASIS DC,1372.28,F
-2024,44,Lillian Leber,Jackson-Reed,1379.56,F
-2024,45,Caroline Downs,Jackson-Reed,1402.72,F
-2024,46,Tykara Mcclain,McKinley Technology,1421.22,F
-2024,47,Nora Goldwasser,Jackson-Reed,1426.22,F
-2024,48,Sophie Minkiewicz,Georgetown Visitation,1435.34,F
-2024,49,Susanna Orr,Jackson-Reed,1439.84,F
-2024,50,Lyla Kramer,Washington Latin,1453.8,F
-2024,51,Elsa Harper,Edmund Burke,1463.98,F
-2024,52,Madison Turner,McKinley Technology,1464.69,F
-2024,53,Bri Alvarez Silva,Maret,1466.66,F
-2024,54,Kailani Hartwell,KIPP DC College Prep,1486.06,F
-2024,55,Logan Arthur,McKinley Technology,1492.12,F
-2024,56,Lydia Park,Washington Latin,1498.8,F
-2024,57,Addisyn Lemus,DC International,1501.34,F
-2024,58,Leyu Fikru,Edmund Burke,1506.78,F
-2024,59,Renate Weber,BASIS DC,1518.49,F
-2024,60,Emilie Allen,Maret,1527.77,F
-2024,61,Anna Puryear,Maret,1529.7,F
-2024,62,Lillian Goldstein,Field,1535.03,F
-2024,63,Hazel Jeffords-Molvak,McKinley Technology,1546.84,F
-2024,64,Sarah Smith,DC International,1554.1,F
-2024,65,Eliza Gulley,Edmund Burke,1567.37,F
-2024,66,Ines Reminga,St. Jerome Institute,1575.29,F
-2024,67,Rae Marzilli,Sidwell Friends,1587.84,F
-2024,68,Maya Vogt,DC International,1610.11,F
-2024,69,Violet Lockwood,BASIS DC,1655.86,F
-2024,70,Natalie Lobel,Maret,1659.14,F
-2024,71,Laren Johnson,DC International,1697.21,F
-2024,72,Anyah Salvi,DC International,1785.07,F
-2024,1,John Hirko,Gonzaga College,1042.7,F
-2024,2,Kyle Bretting,St. John's College,1053.8,F
-2024,3,Eben Tyre,St. John's College,1058.92,F
-2024,4,Tyler Harry,Gonzaga College,1062.14,F
-2024,6,Wesley Barentzen,Gonzaga College,1066.18,F
-2024,7,William Cantrell,St. Albans,1077.13,F
-2024,8,Peter Allen,Gonzaga College,1082.01,F
-2024,9,Sammy Miller,St. Albans,1086.22,F
-2024,10,Humphrey Wolfe,St. Albans,1087.16,F
-2024,11,Henry Barnett,St. Albans,1091.54,F
-2024,12,Luke Hillebrenner,Gonzaga College,1096.67,F
-2024,13,Wyatt Grace,Georgetown Day,1101.41,F
-2024,14,Nathan Ireri,Georgetown Day,1106.91,F
-2024,15,Bodi De,Georgetown Day,1107.33,F
-2024,16,Ahadu Seyoum,St. John's College,1113.46,F
-2024,17,Adnan Gunja,St. Albans,1115.8,F
-2024,18,Willem Cohn,St. Albans,1115.89,F
-2024,19,Larry Mosoti,St. Albans,1119.29,F
-2024,20,Declan Ewald,Gonzaga College,1120.04,F
-2024,22,James Denney,St. Albans,1131.4,F
-2024,23,Elias Weetjens,St. John's College,1135.73,F
-2024,24,Jude Buchanan,St. John's College,1137.08,F
-2024,25,Simon Loftus,Georgetown Day,1139.21,F
-2024,26,Oliver Dashwood,Washington International,1144.36,F
-2024,27,Mateo Levey,Washington International,1145.6,F
-2024,28,Ben Place,St. John's College,1147.34,F
-2024,29,Hayden Burnside,Gonzaga College,1151.02,F
-2024,30,Paul Liles,Gonzaga College,1151.22,F
-2024,31,Alex Acosta,St. Albans,1156.35,F
-2024,32,Tommy Morgenfeld,St. John's College,1167.68,F
-2024,33,Tyler Nguyen,Sidwell Friends,1171.37,F
-2024,34,Lincoln Eyer,St. Albans,1177.49,F
-2024,35,Alex Mathai,St. Albans,1181.95,F
-2024,36,Bryan Guerra,Jackson-Reed,1190.33,F
-2024,37,William Panner,Sidwell Friends,1192.41,F
-2024,39,Cyrus Powell,School Without Walls,1197.24,F
-2024,40,Jerry O'Connell,St. Albans,1201.33,F
-2024,41,Matthew Karrels,St. Albans,1202.02,F
-2024,42,Grant Davis,St. Albans,1203.32,F
-2024,43,Andrew Gorman,Sidwell Friends,1215.8,F
-2024,44,Henry Fragale,Georgetown Day,1227.32,F
-2024,45,Finn Kramer,Gonzaga College,1236.82,F
-2024,46,Yonas Harris,Jackson-Reed,1243.76,F
-2024,47,Irby Thomson,Gonzaga College,1248.75,F
-2024,48,Matthew Stern,Georgetown Day,1256.18,F
-2024,49,Thomas Duckenfield,St. Albans,1263.21,F
-2024,50,Nico Abbate,Georgetown Day,1263.23,F
-2024,51,Parker Mew,Jackson-Reed,1282.73,F
-2024,52,Skylar Luebbert,Jackson-Reed,1291.39,F
-2024,53,Jacob Gagosian,Jackson-Reed,1304.83,F
-2024,54,Jackson Trinca,Washington Latin,1309.08,F
-2024,55,Will Prisco,Gonzaga College,1309.67,F
-2024,56,Christopher Beavers,St. John's College,1312.38,F
-2024,57,Lucas Flaherty,Maret,1322.09,F
-2024,58,Maurice Shanks,Jackson-Reed,1352.23,F
-2024,59,Ilias Janus,St. Albans,1360.95,F
-2024,60,Huckle Shea,Jackson-Reed,1367.66,F
-2024,61,Hugo Bonelli,School Without Walls,1368.19,F
-2024,62,Lucas Qi,Georgetown Day,1407.8,F
-2024,63,Ehren Pyburn,Washington Latin,1432.0,F
-2024,64,Brady Shipe,Georgetown Day,1439.19,F
-2024,65,Kevin Xia,Georgetown Day,1464.82,F
-2024,66,Nathan Aguiar,Sidwell Friends,1478.39,F
-2024,67,Sawyer Thompson,Georgetown Day,1487.95,F
-2024,68,Jack Statham,BASIS DC,1504.14,F
-2024,71,Alexander Novikov,Washington International,1660.69,F
-2024,72,Ben Bellavia-Cortezi,Georgetown Day,1909.02,F
-2024,1,Sydney Townsend,St. John's College,1260.09,F
-2024,2,Colleen Leavitt,School Without Walls,1268.16,F
-2024,4,Ava Dion,St. John's College,1397.88,F
-2024,5,Malia Smith,National Cathedral,1400.24,F
-2024,7,Zoe Fayyad,St. John's College,1409.53,F
-2024,8,Georgia Kaufman,Georgetown Day,1410.27,F
-2024,9,Evie Cushnie,Washington International,1421.01,F
-2024,10,Olivia Purce,Jackson-Reed,1437.72,F
-2024,11,Nura Idriss,Georgetown Day,1445.66,F
-2024,12,Sydney Monroe,St. John's College,1447.34,F
-2024,13,Julia Wang,National Cathedral,1472.89,F
-2024,14,Leila Ackil,Jackson-Reed,1518.11,F
-2024,15,Quinn Van Konynenburg,National Cathedral,1526.59,F
-2024,16,Eliana Green,Georgetown Day,1541.63,F
-2024,17,Emma Renigar,Georgetown Day,1562.76,F
-2024,18,Mia Spector,National Cathedral,1562.77,F
-2024,19,Sabine Hletko Wood,Georgetown Day,1567.66,F
-2024,20,Sid Debgupta,Georgetown Day,1572.14,F
-2024,22,Elizabeth Smith,Georgetown Visitation,1593.43,F
-2024,23,Sofia Hashemi,Washington International,1600.58,F
-2024,24,Elena Rossi,Georgetown Visitation,1640.7,F
-2024,25,Selma DeNinno,St. John's College,1661.71,F
-2024,27,Marissa Fernandez,Maret,1687.6,F
-2024,29,Emerson Hardwick,Georgetown Day,1713.01,F
-2024,30,Elizabeth Boyd,National Cathedral,1719.96,F
-2024,31,Sophia Smith,Maret,1751.41,F
-2024,32,Maya Cook,Maret,1755.84,F
-2024,33,Annie Regen,Georgetown Visitation,1760.01,F
-2024,34,Catherine Paci,Washington Latin,1798.47,F
-2024,35,Ameilia Gormsen,Georgetown Visitation,1806.96,F
-2024,36,Ava Bell,Georgetown Visitation,1809.76,F
-2024,37,Amiyah Mackell,Archbishop Carroll,1831.39,F
-2024,38,Sofia Vakis,Washington International,1853.2,F
-2024,39,Avery Mullen,Sidwell Friends,1860.17,F
-2024,40,Maya Sturdivant,National Cathedral,1867.77,F
-2024,41,Esme Takacs,School Without Walls,1916.88,F
-2024,42,Ethan Deleon,Washington Latin,1932.59,F
-2024,43,Emma Stifel,National Cathedral,1941.07,F
-2024,44,Oleena Fonseka,Georgetown Visitation,1959.01,F
-2024,45,Molly Doster,National Cathedral,1976.65,F
-2024,46,Naomi Milberg,Maret,2195.95,F
-2024,47,Sade Allen,KIPP DC College Prep,2302.4,F
-2024,48,Gabrielle Williams,Maret,2415.68,F
-2024,49,Vivian Ross,Maret,2433.49,F
-2024,1,Declan Hamilton,St. Albans,1039.52,F
-2024,3,Malcolm Laskowski,School Without Walls,1066.81,F
-2024,4,Benjamin Shepard,School Without Walls,1079.02,F
-2024,7,Jack Coogan,Gonzaga College,1105.16,F
-2024,8,Sorya Chung,Sidwell Friends,1124.71,F
-2024,10,Louie Merriam,Sidwell Friends,1130.81,F
-2024,12,Evan Campbell,St. Albans,1137.68,F
-2024,13,Brent Cruz,Gonzaga College,1140.05,F
-2024,15,Chase Dejardins,Gonzaga College,1144.84,F
-2024,16,Ben Bakshi,Gonzaga College,1145.44,F
-2024,21,Andrew Kim,Sidwell Friends,1152.52,F
-2024,23,Milo Gavin,Jackson-Reed,1155.62,F
-2024,24,Tyler Mitroff,Sidwell Friends,1160.7,F
-2024,26,Oliver Grossi,Georgetown Day,1168.78,F
-2024,27,Alex Hauser,Georgetown Day,1170.34,F
-2024,28,Samuel Schauer,School Without Walls,1172.98,F
-2024,30,Nolan Spangeberg,School Without Walls,1183.63,F
-2024,31,Daniel Stern,Georgetown Day,1192.42,F
-2024,32,Alistair Maul,Gonzaga College,1193.8,F
-2024,34,Tomas Socias,St. John's College,1199.24,F
-2024,36,Simon Nguyen,Gonzaga College,1206.91,F
-2024,37,Dex Canavan,Georgetown Day,1234.13,F
-2024,39,Declan Heil,Gonzaga College,1236.29,F
-2024,40,Alexander Speece,Sidwell Friends,1242.68,F
-2024,41,Justin Gaul,Gonzaga College,1244.62,F
-2024,42,Parker Dunbar,Georgetown Day,1245.2,F
-2024,43,Mack Walker,Gonzaga College,1245.84,F
-2024,44,Mike Melluzzo,Gonzaga College,1253.24,F
-2024,45,Jacob Menkes,St. Albans,1255.62,F
-2024,48,Finn Bailey,St. Albans,1263.64,F
-2024,51,Trey Miller,Gonzaga College,1268.22,F
-2024,52,William Wildermuth,Gonzaga College,1268.4,F
-2024,56,John Migliaccio,Gonzaga College,1278.05,F
-2024,57,Julian Jean-Francois,St. John's College,1279.1,F
-2024,58,Antuan Queen,McKinley Technology,1279.77,F
-2024,59,Jason Rodriguez-Orellan,McKinley Technology,1282.97,F
-2024,60,Julian Moraczewski,St. Albans,1284.63,F
-2024,61,Minh Pham,Jackson-Reed,1284.63,F
-2024,62,Sebastian Linnel-Simmon,School Without Walls,1286.5,F
-2024,63,Carter Holley,St. Albans,1289.47,F
-2024,64,Tristan Pomponi,Sidwell Friends,1289.79,F
-2024,65,Spencer Weiss,St. Albans,1293.33,F
-2024,66,Nicholas Terry,St. Albans,1296.71,F
-2024,67,Diego Herrera,St. John's College,1299.8,F
-2024,68,Sebastian Amador,St. John's College,1300.57,F
-2024,69,Jake Gregory,St. John's College,1304.31,F
-2024,70,Leo Lynn,Sidwell Friends,1304.59,F
-2024,71,Elliott Etter,Georgetown Day,1304.97,F
-2024,72,Kit Beeson,St. Albans,1310.62,F
-2024,73,Aiden Moazzez,St. Albans,1311.39,F
-2024,74,Alistair Chapel,St. Albans,1312.27,F
-2024,75,Shiv Patel,St. Albans,1317.35,F
-2024,76,Charlie Miller,St. Albans,1318.09,F
-2024,77,Graham Farrand,Gonzaga College,1324.13,F
-2024,78,Asher Rothenberg,Jackson-Reed,1333.78,F
-2024,79,Nick Barac,Sidwell Friends,1336.14,F
-2024,80,Jonathan Thibault,Washington International,1339.51,F
-2024,81,Will Kinney,St. Albans,1340.27,F
-2024,82,Kierin McBride,Gonzaga College,1355.27,F
-2024,83,Damond Green,Sidwell Friends,1355.66,F
-2024,84,Zach Berres,Georgetown Day,1358.11,F
-2024,85,Anthony Zhuang,Washington International,1358.71,F
-2024,86,Jude Brenan,Jackson-Reed,1367.41,F
-2024,87,Rajan Patel,St. Albans,1367.88,F
-2024,88,Yannick Toedtman,Jackson-Reed,1369.49,F
-2024,89,EJ Caldwell,St. John's College,1372.3,F
-2024,90,Nico Gatti Roaf,Washington International,1374.28,F
-2024,91,Evan Kendall,Jackson-Reed,1385.81,F
-2024,92,Samuel Lerner,Georgetown Day,1394.53,F
-2024,93,Cameron Holden,Georgetown Day,1395.08,F
-2024,94,Benjamin Baptiste,Washington Latin,1404.83,F
-2024,95,Teddy Sachse,Georgetown Day,1414.31,F
-2024,96,Alexandre Mousset,Washington International,1426.43,F
-2024,97,Hoban Lampard,Sidwell Friends,1429.46,F
-2024,98,Ulysse Harasty,St. John's College,1432.14,F
-2024,99,Ezra Okon,McKinley Technology,1437.36,F
-2024,100,Thomas Presler,Gonzaga College,1448.91,F
-2024,101,Gavin Wang,Georgetown Day,1452.96,F
-2024,102,Thomas Brown,McKinley Technology,1453.16,F
-2024,103,Will McAllister,Maret,1454.92,F
-2024,104,Justin Damas,St. Albans,1472.38,F
-2024,105,Gabe Levine,Georgetown Day,1473.49,F
-2024,106,Maceo Lindsey,Georgetown Day,1473.5,F
-2024,107,Brendan Shaffer,St. John's College,1491.24,F
-2024,108,David Cai,St. Albans,1492.66,F
-2024,109,William Brewer,Gonzaga College,1498.07,F
-2024,110,Lukas O'Neill,St. John's College,1502.51,F
-2024,111,Matthew Guzman,McKinley Technology,1504.15,F
-2024,112,Izak Richman,Jackson-Reed,1504.55,F
-2024,113,Wyatt Ross,Maret,1533.24,F
-2024,114,Miles Johnson,Washington Latin,1554.43,F
-2024,115,Thomas Arias,Gonzaga College,1566.94,F
-2024,116,Grant Cummins,Sidwell Friends,1577.78,F
-2024,117,Randy Zhu,Georgetown Day,1579.63,F
-2024,118,Jibrael Sheikh,St. Albans,1655.89,F
-2024,119,Devin Boakeye,St. Albans,1656.0,F
-2024,120,Sammy Rosenthal,Maret,1675.05,F
-2024,121,Eyas Hardan,Sidwell Friends,1686.63,F
-2024,122,Otto Weiner,School Without Walls,1722.79,F
-2024,123,Joel Maupin,KIPP DC College Prep,1738.55,F
-2024,124,Brendon Chu,Georgetown Day,1751.68,F
-2024,125,Eli Babbitt,St. Albans,1815.31,F
-2024,126,Zayvion Wallace,Archbishop Carroll,2031.01,F
-2024,1,Shiloh Wallace,Washington International,1290.19,F
-2024,2,Calla Privor,National Cathedral,1295.86,F
-2024,6,Ophelia Calhoun,National Cathedral,1345.32,F
-2024,7,Charlotte Cleary,National Cathedral,1360.39,F
-2024,8,Gia Dailey,St. John's College,1362.6,F
-2024,9,Zoey Fedele,School Without Walls,1368.59,F
-2024,10,Nikki Smallwood,Georgetown Day,1400.16,F
-2024,12,Kinjal Kapoor,Field,1428.73,F
-2024,16,Emelie Shearer,Georgetown Visitation,1453.66,F
-2024,17,Talia Vitberg,Jackson-Reed,1467.62,F
-2024,18,Liya Fairfax,Georgetown Day,1483.54,F
-2024,19,Olivia Rankin,Georgetown Visitation,1490.38,F
-2024,20,Ruth Eliot,National Cathedral,1496.18,F
-2024,21,Cecilia Comar,School Without Walls,1500.03,F
-2024,22,Audrey Hayes,School Without Walls,1512.88,F
-2024,23,Alicia Bautista,Georgetown Visitation,1537.76,F
-2024,25,Wilhelmina Nichols,Georgetown Visitation,1562.44,F
-2024,27,Anna Doyle,National Cathedral,1595.89,F
-2024,28,Sabella Osborn,Eastern,1622.82,F
-2024,29,Mai Pham,Jackson-Reed,1641.25,F
-2024,30,Catherine Riley,Georgetown Visitation,1649.71,F
-2024,31,Makayla Crew,St. John's College,1678.28,F
-2024,33,Maddy Westbrook,Jackson-Reed,1734.8,F
-2024,34,Sophie Schooley,Georgetown Visitation,1756.32,F
-2024,35,Kirthi Sankar,Maret,1767.21,F
-2024,36,Junnah Sheikh,Sidwell Friends,1805.81,F
-2024,37,Jessica Taylor,St. John's College,1847.26,F
-2024,38,Mary Bell,Georgetown Visitation,1898.49,F
-2024,39,London Kennedy,Georgetown Visitation,1924.82,F
-2024,40,Abigail King,Jackson-Reed,1934.0,F
-2024,41,Jisoo Brown,Georgetown Visitation,1939.62,F
-2024,42,Mary McGreevy,Georgetown Visitation,1963.64,F
-2024,43,Adele Abouchar,Georgetown Visitation,1978.83,F
-2024,44,Ariel Pollard,Maret,2010.85,F
-2024,45,Ann Pascal,Georgetown Visitation,2057.11,F
-2024,46,Veronica Vaky,National Cathedral,2132.2,F
-2024,47,Jane Volmer,Georgetown Visitation,2165.06,F
+season,place,athlete,school,time_sec,sex,grade
+2018,1,Ava Nicely,Jackson-Reed,1181.0,F,
+2018,3,Claire Wigglesworth,Jackson-Reed,1203.0,F,
+2018,10,Talya Lehrich,Jackson-Reed,1285.0,F,
+2018,12,Gillian Kimmel,Jackson-Reed,1288.0,F,
+2018,18,Madelyn Shapiro,Jackson-Reed,1325.0,F,
+2018,30,Anna Parra-Jordan,Jackson-Reed,1408.0,F,
+2018,34,Arianna Lowengrub,Jackson-Reed,1440.0,F,
+2018,4,Kennedy Hayward,St. John's College,1250.0,F,
+2018,7,Celia Chorzempa,St. John's College,1270.0,F,
+2018,8,Anna Cestari,St. John's College,1271.0,F,
+2018,11,Anne Hagerty,St. John's College,1287.0,F,
+2018,19,Alahna Sabbakhan,St. John's College,1330.0,F,
+2018,20,Sarah Rowland,St. John's College,1332.0,F,
+2018,2,Sophia Hanway,National Cathedral,1198.0,F,
+2018,6,Maya Aguirre,National Cathedral,1264.0,F,
+2018,13,Lauren Ives,National Cathedral,1310.0,F,
+2018,15,Maya Thumpasery,National Cathedral,1311.0,F,
+2018,17,Sophia Charles,National Cathedral,1319.0,F,
+2018,27,Campbell Musslewhite,National Cathedral,1376.0,F,
+2018,37,Isabella Houle,National Cathedral,1472.0,F,
+2018,9,Ilana Zeilinger,Georgetown Day,1275.0,F,
+2018,16,Ella Gillespie,Georgetown Day,1314.0,F,
+2018,21,Joyce Yang,Georgetown Day,1334.0,F,
+2018,22,Ana Gunther,Georgetown Day,1351.0,F,
+2018,25,Annie Rosenman,Georgetown Day,1368.0,F,
+2018,32,Arya Newingham,Georgetown Day,1419.0,F,
+2018,33,Abby Murphy,Georgetown Day,1434.0,F,
+2018,14,Louisa Cave,Georgetown Visitation,1311.0,F,
+2018,23,Elle Campbell,Georgetown Visitation,1362.0,F,
+2018,28,Dagny Fisher,Georgetown Visitation,1385.0,F,
+2018,29,Brennan Dunne,Georgetown Visitation,1388.0,F,
+2018,31,Alexa Iglesias,Georgetown Visitation,1412.0,F,
+2018,38,Anna Campbell,Georgetown Visitation,1474.0,F,
+2018,41,Isabel Gretschel,Georgetown Visitation,1499.0,F,
+2018,5,Allison Barker,Sidwell Friends,1257.0,F,
+2018,24,Ryan Kyle,Sidwell Friends,1364.0,F,
+2018,26,Karenna Warden,Sidwell Friends,1368.0,F,
+2018,35,Alden Zhang,Sidwell Friends,1444.0,F,
+2018,36,Annika Pederson,Sidwell Friends,1457.0,F,
+2018,39,Sophia Lager,Sidwell Friends,1479.0,F,
+2018,40,Sophie Peikin,Sidwell Friends,1483.0,F,
+2018,42,Jessica Amaya-Zuniga,Bell Multicultural,1574.0,F,
+2018,43,Ariyah Green,Bell Multicultural,1694.0,F,
+2018,44,Sosena Zaga,Bell Multicultural,1740.0,F,
+2018,45,Keyri Reyes Rodruguez,Bell Multicultural,1775.0,F,
+2018,46,Andrea Bonilla,Bell Multicultural,1789.0,F,
+2018,47,Fatima Molina Guevara,Bell Multicultural,1974.0,F,
+2019,1,"Grant, Lili",Georgetown Visitation,1158.98,F,10.0
+2019,2,"Gotzman, Meredith",St. John's College,1162.87,F,9.0
+2019,3,"Wigglesworth, Claire",Jackson-Reed,1194.92,F,12.0
+2019,4,"Nicely, Ava",Jackson-Reed,1199.93,F,12.0
+2019,5,"Edelman, Zoe",Washington Latin,1206.67,F,11.0
+2019,7,"Anders, Tara",St. John's College,1226.59,F,11.0
+2019,8,"Gillespie, Ella",Georgetown Day,1227.85,F,11.0
+2019,9,"Hanway, Sophia",National Cathedral,1238.64,F,11.0
+2019,10,"Campbell, Ciara",Sidwell Friends,1245.09,F,12.0
+2019,11,"Kelly, Fajr",Roosevelt,1259.99,F,11.0
+2019,13,"Kaplan, Ruby",Georgetown Day,1266.87,F,11.0
+2019,14,"Cave, Louisa",Georgetown Visitation,1268.34,F,10.0
+2019,15,"Gotzman, Caroline",St. John's College,1272.37,F,9.0
+2019,16,"Chorzempa, Celia",St. John's College,1293.33,F,11.0
+2019,17,"Charles, Sophia",National Cathedral,1298.95,F,12.0
+2019,18,"Braxton, Jacqueline",Roosevelt,1304.87,F,10.0
+2019,20,"Shapiro, Madelyn",Jackson-Reed,1310.06,F,12.0
+2019,21,"Ives, Lauren",National Cathedral,1310.08,F,11.0
+2019,22,"Thumpasery, Maya",National Cathedral,1312.79,F,11.0
+2019,23,"Cooney, Elsa",Washington International,1323.99,F,12.0
+2019,24,"De La Vega-Rodriquez, Li",Georgetown Visitation,1327.69,F,9.0
+2019,25,"Pederson, Annika",Sidwell Friends,1332.38,F,12.0
+2019,26,"Dabalen, Bilena",National Cathedral,1335.51,F,11.0
+2019,27,"Lehrich, Talya",Jackson-Reed,1338.46,F,12.0
+2019,28,"Harris, Genevieve",School Without Walls,1346.69,F,9.0
+2019,30,"Watterson, Caroline",Washington Latin,1355.9,F,10.0
+2019,32,"Hauache, Dora",Georgetown Day,1374.75,F,12.0
+2019,33,"Gatti, Nevis",Jackson-Reed,1374.85,F,10.0
+2019,34,"Puryear, Jane",National Cathedral,1376.57,F,9.0
+2019,35,"Gorham, Ellie",School Without Walls,1378.54,F,11.0
+2019,37,"Campbell, Anna",Georgetown Visitation,1397.84,F,12.0
+2019,38,"Iglesias, Alexa",Georgetown Visitation,1400.15,F,12.0
+2019,39,"Fisher, Dagny",Georgetown Visitation,1403.54,F,12.0
+2019,40,"Murphy, Abby",Georgetown Day,1414.13,F,12.0
+2019,41,"Newingham, Arya",Georgetown Day,1414.98,F,11.0
+2019,42,"Goldwasser, Evelyn",Jackson-Reed,1421.3,F,10.0
+2019,43,"Zhang, Alden",Sidwell Friends,1422.35,F,10.0
+2019,44,"Vogt, Lucy",Georgetown Day,1428.04,F,12.0
+2019,45,"Hobdari, Michelle",Washington International,1431.18,F,10.0
+2019,46,"McNichols, Inez",Georgetown Visitation,1438.53,F,9.0
+2019,47,"Donnelly, Anjali",Sidwell Friends,1442.73,F,10.0
+2019,48,"Stanciu, Elena",BASIS DC,1450.95,F,9.0
+2019,50,"Levey, Camila",Washington International,1505.39,F,10.0
+2019,51,"Wandimagegn, Mihert",Bell Multicultural,1542.9,F,10.0
+2019,53,"Signou, Agnes",Cardozo High School,1584.76,F,12.0
+2019,55,"Learsy, Ailish",Field,1651.16,F,9.0
+2019,56,"Hager, Tessa",Field,1657.15,F,11.0
+2019,57,"Dorf, Risa",Field,1705.53,F,9.0
+2019,58,"Ross, Abby",Edmund Burke,1726.2,F,11.0
+2019,60,"Boehm, Rose",Washington International,1769.46,F,10.0
+2019,61,"Costello, Lilliana",Field,1797.31,F,9.0
+2019,62,"Irvin, Sahera",KIPP DC College Prep,1810.09,F,11.0
+2019,63,"Green, Ariyah",Bell Multicultural,1855.54,F,10.0
+2019,65,"Bailey, Kaniyah",KIPP DC College Prep,1992.0,F,11.0
+2019,66,"Hall, Mahkia",KIPP DC College Prep,1994.35,F,11.0
+2019,67,"Brunnel, Jaylin",KIPP DC College Prep,2000.69,F,11.0
+2019,68,"Pierce, Kzai",KIPP DC College Prep,2075.43,F,11.0
+2021,1,"Poe, Marisa",Maret,1139.63,F,12.0
+2021,3,"Kelly, Vivian",Georgetown Visitation,1211.0,F,9.0
+2021,4,"Gutierrez, Olivia",St. John's College,1228.04,F,12.0
+2021,5,"Gotzman, Caroline",St. John's College,1236.42,F,11.0
+2021,6,"Stanciu, Elena",BASIS DC,1243.47,F,11.0
+2021,8,"Kessler, Ellie",Georgetown Day,1262.86,F,10.0
+2021,9,"Mattheus, Sophie",St. John's College,1283.31,F,11.0
+2021,10,"De La Vega-Rodriquez, Li",Georgetown Visitation,1293.35,F,11.0
+2021,11,"Droege, Nell",St. John's College,1296.38,F,10.0
+2021,12,"Goldwasser, Evelyn",Jackson-Reed,1300.12,F,12.0
+2021,13,"Cave, Louisa",Georgetown Visitation,1301.34,F,12.0
+2021,14,"Limao, Isabel",Sidwell Friends,1303.61,F,9.0
+2021,15,"Cloutier, Olivia",Sidwell Friends,1304.58,F,12.0
+2021,16,"Campbell, Ellie",Georgetown Visitation,1305.15,F,12.0
+2021,17,"Maxwell, Jennifer",St. John's College,1309.42,F,10.0
+2021,18,"Parsons, Nora",Jackson-Reed,1313.25,F,10.0
+2021,19,"Leff, Audrey",Georgetown Day,1318.31,F,9.0
+2021,20,"Goldwasser, Molly",Jackson-Reed,1322.7,F,12.0
+2021,21,"Boyle, Sadie",Georgetown Day,1325.27,F,9.0
+2021,22,"Hayward, Kennedy",St. John's College,1327.44,F,12.0
+2021,23,"McCarthy, Virginia",Georgetown Visitation,1328.25,F,10.0
+2021,24,"Aguirre, Maya",National Cathedral,1335.8,F,12.0
+2021,25,"Zhang, Alden",Sidwell Friends,1336.33,F,12.0
+2021,26,"Gulley, Eliza",Edmund Burke,1339.11,F,9.0
+2021,28,"Donnelly, Anjali",Sidwell Friends,1359.0,F,12.0
+2021,29,"Puryear, Jane",National Cathedral,1359.08,F,11.0
+2021,30,"Wallace, Callie",Maret,1360.7,F,9.0
+2021,32,"Shearer, Elizabeth",Georgetown Visitation,1394.84,F,10.0
+2021,33,"McGreevy, Mavourneen",Georgetown Visitation,1397.51,F,10.0
+2021,34,"Watterson, Caroline",Washington Latin,1407.2,F,12.0
+2021,36,"Sachse, Nora",Georgetown Day,1416.89,F,9.0
+2021,37,"Nwosu, Nnedi",Sidwell Friends,1418.68,F,9.0
+2021,38,"Orr, Susanna Karla",Jackson-Reed,1427.26,F,9.0
+2021,39,"Kaler, Cassidy",National Cathedral,1428.17,F,10.0
+2021,40,"Braxton, Jacqueline",Roosevelt,1448.44,F,12.0
+2021,42,"Williams, Georgie",National Cathedral,1461.85,F,12.0
+2021,43,"Leber, Lillian",Jackson-Reed,1474.32,F,9.0
+2021,44,"Auerswald, Izzy",Georgetown Day,1497.72,F,11.0
+2021,45,"Haubold, Vanessa",Field,1500.11,F,9.0
+2021,47,"Lowengrub, Arianna",Jackson-Reed,1508.07,F,12.0
+2021,48,"Powell, Lily",National Cathedral,1513.27,F,12.0
+2021,49,"Emanuel, Claire",Washington Latin,1530.18,F,11.0
+2021,51,"Maur-Batsaki, Georgia",Georgetown Day,1545.29,F,10.0
+2021,52,"Kenley, Nakita",Girls Global,1832.38,F,10.0
+2021,54,"O'Keefe, Amelia",Girls Global,2280.7,F,10.0
+2023,1,"Kelly, Vivian",Georgetown Visitation,1107.09,F,11.0
+2023,2,"Wright, Cecilia",National Cathedral,1142.0,F,10.0
+2023,3,"Anstett, Abigail",Georgetown Visitation,1146.28,F,9.0
+2023,4,"Bruch, Whitney",National Cathedral,1171.54,F,10.0
+2023,5,"Maxwell, Jennifer",St. John's College,1182.41,F,12.0
+2023,6,"Caldwell, Hailey",St. John's College,1195.68,F,10.0
+2023,7,"Droege, Nell",St. John's College,1195.74,F,12.0
+2023,8,"Wallace, Callie",Maret,1201.83,F,11.0
+2023,9,"McGreevy, Mavourneen",Georgetown Visitation,1205.29,F,12.0
+2023,10,"Limao, Isabel",Sidwell Friends,1210.27,F,11.0
+2023,11,"Robinson, Kendall",St. John's College,1227.19,F,12.0
+2023,12,"Carr, Lily",Jackson-Reed,1233.84,F,11.0
+2023,13,"Leff, Audrey",Georgetown Day,1236.67,F,11.0
+2023,14,"Wenthe, Shira",Georgetown Day,1245.78,F,9.0
+2023,15,"Darlan, Sasha",St. John's College,1256.94,F,11.0
+2023,16,"Bailen, Caroline",Sidwell Friends,1264.99,F,11.0
+2023,17,"McCarthy, Abigail",Georgetown Visitation,1271.6,F,12.0
+2023,18,"O'Neill, Hannah",St. John's College,1288.73,F,10.0
+2023,19,"Mascott, Avery",National Cathedral,1307.19,F,10.0
+2023,20,"Helmer, Bryce",Georgetown Visitation,1308.59,F,12.0
+2023,21,"Kaler, Cassidy",National Cathedral,1315.43,F,12.0
+2023,22,"Borek, Naomi",Georgetown Day,1326.15,F,11.0
+2023,23,"Boyle, Sadie",Georgetown Day,1329.31,F,11.0
+2023,24,"Young, Julia",Georgetown Day,1329.64,F,11.0
+2023,25,"Donley, Lia",Sidwell Friends,1334.4,F,11.0
+2023,26,"Flabbi-Fruttero, Carla",BASIS DC,1334.55,F,10.0
+2023,28,"Zeller, Madelyn",Washington Latin,1345.52,F,9.0
+2023,29,"Benelli, Margot",National Cathedral,1350.49,F,11.0
+2023,30,"Schneider, Hannah",National Cathedral,1359.34,F,9.0
+2023,31,"Glendinning, Charlotte",Georgetown Day,1366.12,F,10.0
+2023,32,"Leavitt, Colleen",School Without Walls,1371.82,F,11.0
+2023,33,"Dwight, Campbell",Sidwell Friends,1377.59,F,11.0
+2023,34,"Farina, Claire",Maret,1378.19,F,11.0
+2023,35,"Nwosu, Nnedi",Sidwell Friends,1378.57,F,11.0
+2023,36,"Oscherwitz, Amelia",Georgetown Day,1381.36,F,12.0
+2023,37,"Calhoun, Ophelia",National Cathedral,1385.49,F,9.0
+2023,38,"Wartchow, Solveig",McKinley Technology,1394.32,F,10.0
+2023,40,"Shearer, Elizabeth",Georgetown Visitation,1421.24,F,12.0
+2023,41,"Hartwell, Kailani",KIPP DC College Prep,1431.13,F,11.0
+2023,42,"Orr, Susanna",Jackson-Reed,1440.88,F,11.0
+2023,43,"Leber, Lillian",Jackson-Reed,1452.26,F,11.0
+2023,44,"Marzilli, Rae",Sidwell Friends,1472.73,F,11.0
+2023,45,"Pessey, Marie-Celeste",School Without Walls,1484.96,F,10.0
+2023,46,"Datham, Saniya",McKinley Technology,1489.98,F,11.0
+2023,48,"Parsons, Nora",Jackson-Reed,1521.29,F,12.0
+2023,49,"Dresner, Eden",School Without Walls,1525.3,F,11.0
+2023,50,"Schultheiss, Mika",McKinley Technology,1529.31,F,10.0
+2023,52,"Park, Lydia",Washington Latin,1550.13,F,11.0
+2023,53,"Frantz, Rory",Jackson-Reed,1555.65,F,12.0
+2023,54,"Holt, Ava",BASIS DC,1599.49,F,12.0
+2023,56,"Galarreta, Ana Lucia",Washington Latin,1613.88,F,11.0
+2023,57,"Cappelloni, Emma",School Without Walls,1633.8,F,9.0
+2023,58,"Green, Ali",Jackson-Reed,1645.36,F,9.0
+2023,59,"Grezkonzi, Imelda",Bell Multicultural,1646.52,F,11.0
+2023,61,"Kimmage, Ema",Maret,1647.82,F,9.0
+2023,62,"Engelburg, Riley",Maret,1648.95,F,12.0
+2023,63,"Davis, Nyshonne",McKinley Technology,1705.59,F,12.0
+2023,65,"Clark, Shaelyn",Eastern,1726.56,F,10.0
+2023,67,"Grygiel, Nina",Maret,1764.64,F,12.0
+2023,68,"Pineda, Alanis",Bell Multicultural,1797.57,F,11.0
+2023,70,"Green, Trinity",KIPP DC College Prep,1825.34,F,12.0
+2023,71,"Moten, Asantawaa",Roosevelt,1841.58,F,11.0
+2023,73,"Dunn, Kayla",Eastern,1896.82,F,10.0
+2023,75,"Paci, Catherine",Washington Latin,1956.78,F,10.0
+2023,76,"Givens, Aniyah",KIPP DC College Prep,1986.33,F,9.0
+2023,77,"King, Almeria",Eastern,2160.51,F,11.0
+2023,79,"Washington, Janiya",KIPP DC College Prep,2304.55,F,9.0
+2023,80,"Johnson, Dakoda",KIPP DC College Prep,2459.1,F,11.0
+2024,1,Vivian Kelly,Georgetown Visitation,1081.26,F,12.0
+2024,2,Abigail Anstett,Georgetown Visitation,1082.03,F,10.0
+2024,3,Shira Wenthe,Georgetown Day,1099.99,F,10.0
+2024,4,Whitney Bruch,National Cathedral,1132.68,F,11.0
+2024,5,Hannah O'Neill,St. John's College,1140.64,F,11.0
+2024,6,Emilia Natalucci,St. John's College,1143.39,F,9.0
+2024,7,Callie Wallace,Maret,1147.19,F,12.0
+2024,8,Cecilia Wright,National Cathedral,1149.58,F,11.0
+2024,9,Lily Carr,Jackson-Reed,1184.83,F,12.0
+2024,10,Helena Kelly,Georgetown Visitation,1187.07,F,9.0
+2024,11,Luca Brennan,Georgetown Visitation,1187.34,F,9.0
+2024,12,Nora Gormsen,Georgetown Visitation,1188.86,F,9.0
+2024,13,Alana Templeman,Sidwell Friends,1195.28,F,10.0
+2024,14,Lily Laroski,National Cathedral,1197.04,F,9.0
+2024,15,Carla Flabbi-Fruttero,BASIS DC,1199.74,F,11.0
+2024,16,Madeline Stevenson,BASIS DC,1199.93,F,11.0
+2024,17,Caroline Lee,National Cathedral,1214.23,F,12.0
+2024,18,Sabrina Brennan,Georgetown Visitation,1214.62,F,9.0
+2024,19,Hailey Caldwell,St. John's College,1219.74,F,11.0
+2024,20,Natasha Mosley,St. John's College,1221.41,F,12.0
+2024,21,Alexandra Ezrow,Georgetown Day,1221.47,F,9.0
+2024,22,Sasha Darlan,St. John's College,1225.87,F,12.0
+2024,23,Margot Benelli,National Cathedral,1228.77,F,12.0
+2024,24,Solveig Wartchow,McKinley Technology,1232.35,F,11.0
+2024,25,Isabel Limao,Sidwell Friends,1237.33,F,12.0
+2024,26,Colleen Whitty,St. John's College,1239.55,F,12.0
+2024,27,Marta Flabbi-Fruttero,BASIS DC,1242.2,F,9.0
+2024,28,Naomi Borek,Georgetown Day,1253.3,F,12.0
+2024,29,Campbell Dwight,Sidwell Friends,1256.12,F,12.0
+2024,30,Sadie Boyle,Georgetown Day,1260.07,F,12.0
+2024,31,Maeve McMurray,Sidwell Friends,1261.22,F,10.0
+2024,32,Avery Mascott,National Cathedral,1274.38,F,11.0
+2024,33,Zoe Wolin,Georgetown Day,1278.34,F,9.0
+2024,34,Anya Vogel,Maret,1285.26,F,10.0
+2024,35,Jasmine Singh,Sidwell Friends,1293.06,F,12.0
+2024,36,Madelyn Zeller,Washington Latin,1294.49,F,10.0
+2024,37,Claire Farina,Maret,1305.58,F,12.0
+2024,38,Charlotte Glendinning,Georgetown Day,1307.45,F,11.0
+2024,39,Hannah Schneider,National Cathedral,1318.54,F,10.0
+2024,40,Anya Finkelstein,Georgetown Day,1319.3,F,11.0
+2024,41,Magdalena Reminga,St. Jerome Institute,1320.6,F,12.0
+2024,42,Katherine Izenberg,BASIS DC,1363.66,F,9.0
+2024,43,Cecelia Morvis,BASIS DC,1372.28,F,9.0
+2024,44,Lillian Leber,Jackson-Reed,1379.56,F,12.0
+2024,45,Caroline Downs,Jackson-Reed,1402.72,F,11.0
+2024,46,Tykara Mcclain,McKinley Technology,1421.22,F,10.0
+2024,47,Nora Goldwasser,Jackson-Reed,1426.22,F,10.0
+2024,48,Sophie Minkiewicz,Georgetown Visitation,1435.34,F,11.0
+2024,49,Susanna Orr,Jackson-Reed,1439.84,F,12.0
+2024,50,Lyla Kramer,Washington Latin,1453.8,F,10.0
+2024,51,Elsa Harper,Edmund Burke,1463.98,F,10.0
+2024,52,Madison Turner,McKinley Technology,1464.69,F,10.0
+2024,53,Bri Alvarez Silva,Maret,1466.66,F,9.0
+2024,54,Kailani Hartwell,KIPP DC College Prep,1486.06,F,12.0
+2024,55,Logan Arthur,McKinley Technology,1492.12,F,10.0
+2024,56,Lydia Park,Washington Latin,1498.8,F,12.0
+2024,57,Addisyn Lemus,DC International,1501.34,F,11.0
+2024,58,Leyu Fikru,Edmund Burke,1506.78,F,9.0
+2024,59,Renate Weber,BASIS DC,1518.49,F,10.0
+2024,60,Emilie Allen,Maret,1527.77,F,10.0
+2024,61,Anna Puryear,Maret,1529.7,F,10.0
+2024,62,Lillian Goldstein,Field,1535.03,F,12.0
+2024,63,Hazel Jeffords-Molvak,McKinley Technology,1546.84,F,12.0
+2024,64,Sarah Smith,DC International,1554.1,F,9.0
+2024,65,Eliza Gulley,Edmund Burke,1567.37,F,12.0
+2024,66,Ines Reminga,St. Jerome Institute,1575.29,F,9.0
+2024,67,Rae Marzilli,Sidwell Friends,1587.84,F,12.0
+2024,68,Maya Vogt,DC International,1610.11,F,11.0
+2024,69,Violet Lockwood,BASIS DC,1655.86,F,11.0
+2024,70,Natalie Lobel,Maret,1659.14,F,10.0
+2024,71,Laren Johnson,DC International,1697.21,F,9.0
+2024,72,Anyah Salvi,DC International,1785.07,F,9.0
+2024,1,John Hirko,Gonzaga College,1042.7,F,12.0
+2024,2,Kyle Bretting,St. John's College,1053.8,F,11.0
+2024,3,Eben Tyre,St. John's College,1058.92,F,12.0
+2024,4,Tyler Harry,Gonzaga College,1062.14,F,12.0
+2024,6,Wesley Barentzen,Gonzaga College,1066.18,F,11.0
+2024,7,William Cantrell,St. Albans,1077.13,F,11.0
+2024,8,Peter Allen,Gonzaga College,1082.01,F,12.0
+2024,9,Sammy Miller,St. Albans,1086.22,F,12.0
+2024,10,Humphrey Wolfe,St. Albans,1087.16,F,11.0
+2024,11,Henry Barnett,St. Albans,1091.54,F,11.0
+2024,12,Luke Hillebrenner,Gonzaga College,1096.67,F,11.0
+2024,13,Wyatt Grace,Georgetown Day,1101.41,F,12.0
+2024,14,Nathan Ireri,Georgetown Day,1106.91,F,12.0
+2024,15,Bodi De,Georgetown Day,1107.33,F,11.0
+2024,16,Ahadu Seyoum,St. John's College,1113.46,F,12.0
+2024,17,Adnan Gunja,St. Albans,1115.8,F,11.0
+2024,18,Willem Cohn,St. Albans,1115.89,F,11.0
+2024,19,Larry Mosoti,St. Albans,1119.29,F,11.0
+2024,20,Declan Ewald,Gonzaga College,1120.04,F,12.0
+2024,22,James Denney,St. Albans,1131.4,F,12.0
+2024,23,Elias Weetjens,St. John's College,1135.73,F,12.0
+2024,24,Jude Buchanan,St. John's College,1137.08,F,11.0
+2024,25,Simon Loftus,Georgetown Day,1139.21,F,12.0
+2024,26,Oliver Dashwood,Washington International,1144.36,F,11.0
+2024,27,Mateo Levey,Washington International,1145.6,F,12.0
+2024,28,Ben Place,St. John's College,1147.34,F,11.0
+2024,29,Hayden Burnside,Gonzaga College,1151.02,F,11.0
+2024,30,Paul Liles,Gonzaga College,1151.22,F,11.0
+2024,31,Alex Acosta,St. Albans,1156.35,F,12.0
+2024,32,Tommy Morgenfeld,St. John's College,1167.68,F,12.0
+2024,33,Tyler Nguyen,Sidwell Friends,1171.37,F,11.0
+2024,34,Lincoln Eyer,St. Albans,1177.49,F,11.0
+2024,35,Alex Mathai,St. Albans,1181.95,F,11.0
+2024,36,Bryan Guerra,Jackson-Reed,1190.33,F,12.0
+2024,37,William Panner,Sidwell Friends,1192.41,F,11.0
+2024,39,Cyrus Powell,School Without Walls,1197.24,F,12.0
+2024,40,Jerry O'Connell,St. Albans,1201.33,F,11.0
+2024,41,Matthew Karrels,St. Albans,1202.02,F,12.0
+2024,42,Grant Davis,St. Albans,1203.32,F,11.0
+2024,43,Andrew Gorman,Sidwell Friends,1215.8,F,11.0
+2024,44,Henry Fragale,Georgetown Day,1227.32,F,11.0
+2024,45,Finn Kramer,Gonzaga College,1236.82,F,12.0
+2024,46,Yonas Harris,Jackson-Reed,1243.76,F,11.0
+2024,47,Irby Thomson,Gonzaga College,1248.75,F,11.0
+2024,48,Matthew Stern,Georgetown Day,1256.18,F,12.0
+2024,49,Thomas Duckenfield,St. Albans,1263.21,F,12.0
+2024,50,Nico Abbate,Georgetown Day,1263.23,F,11.0
+2024,51,Parker Mew,Jackson-Reed,1282.73,F,10.0
+2024,52,Skylar Luebbert,Jackson-Reed,1291.39,F,11.0
+2024,53,Jacob Gagosian,Jackson-Reed,1304.83,F,12.0
+2024,54,Jackson Trinca,Washington Latin,1309.08,F,11.0
+2024,55,Will Prisco,Gonzaga College,1309.67,F,12.0
+2024,56,Christopher Beavers,St. John's College,1312.38,F,11.0
+2024,57,Lucas Flaherty,Maret,1322.09,F,12.0
+2024,58,Maurice Shanks,Jackson-Reed,1352.23,F,11.0
+2024,59,Ilias Janus,St. Albans,1360.95,F,11.0
+2024,60,Huckle Shea,Jackson-Reed,1367.66,F,9.0
+2024,61,Hugo Bonelli,School Without Walls,1368.19,F,10.0
+2024,62,Lucas Qi,Georgetown Day,1407.8,F,11.0
+2024,63,Ehren Pyburn,Washington Latin,1432.0,F,12.0
+2024,64,Brady Shipe,Georgetown Day,1439.19,F,11.0
+2024,65,Kevin Xia,Georgetown Day,1464.82,F,12.0
+2024,66,Nathan Aguiar,Sidwell Friends,1478.39,F,11.0
+2024,67,Sawyer Thompson,Georgetown Day,1487.95,F,12.0
+2024,68,Jack Statham,BASIS DC,1504.14,F,11.0
+2024,71,Alexander Novikov,Washington International,1660.69,F,11.0
+2024,72,Ben Bellavia-Cortezi,Georgetown Day,1909.02,F,11.0

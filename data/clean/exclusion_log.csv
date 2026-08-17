@@ -1,10 +1,15 @@
 rule,detail
 time_window,Finish times outside 14–45 min dropped as incomplete or not 5 km
-race_type,"Junior varsity, Varsity B, and middle school events excluded"
+race_type,Varsity A 5 km championship finishers only
+grade,"When grade is labeled, only grades 9–12 enter meet z-scores and squad features"
 scoring_squad,Star/depth from the seven fastest recorded varsity times per school; extra finishers in mixed dumps ignored
 no_invitationals,Invitational SOS not ingested; WCAC is only a coarse proxy
-five_finishers,Regression requires five finishers so a fifth-runner z-score exists
+five_finishers,Estimation/holdout require five finishers so a fifth-runner z-score exists
 lag,Estimation/holdout require a prior parsed championship for the same school
+lag_gap,Lag gap capped at 2 years (permits 2019→2021 after omitted 2020; longer skips excluded)
 2021_lag,2021 uses 2019 as the prior championship because 2020 is omitted
+2019_lag,2019 can lag 2018 when Pacers varsity team standings are present
+girls_holdout,Girls reserve 2024 as temporal holdout because 2025 girls files are not in the panel
+enrollment,Public DCPS schools use year-varying audit counts when available; private/charter use static schools.csv unless overridden
 unmapped_schools,Names not in data/schools.csv dropped; see unmapped_schools.json
 ties,Posted team place used when available; reconstructed ranks break remaining ties by score then school name

@@ -1,4 +1,3 @@
-PACERS TEAM STANDINGS DUMP
                            DCSAA XC Championship
                                Washington DC
                              November 3, 2018
@@ -117,90 +116,6 @@ PACERS TEAM STANDINGS DUMP
   5     71  21205 Caden Kowalski           22:25
   6   ( 73) 21216 Carlos Sheehan-Martinez   23:06
   7   ( 74) 21213 Frederick Parse          23:09
-
-
-
-
-
-                           DCSAA XC Championship
-                               Washington DC
-                             November 3, 2018
-                         Results by Pacers Running
-
-                   ****** TEAM STANDINGS RESULTS ******
-
-
-                       TEAM STANDINGS: GIRLS VARSITY
-
-
-  1.    44  Woodrow Wilson High Schoo (  20:57  1:44:42   2:24)
-========================================
-  1      1  22195 Ava Nicely               19:41
-  2      3  22203 Claire Wigglesworth      20:03
-  3     10  22189 Talya Lehrich            21:25
-  4     12  22186 Gillian Kimmel           21:28
-  5     18  22200 Madelyn Shapiro          22:05
-  6   ( 30) 22196 Anna Parra-Jordan        23:28
-  7   ( 34) 22190 Arianna Lowengrub        24:00
-
-  2.    49  St. John's College High S (  21:22  1:46:48   1:20)
-========================================
-  1      4  22062 Kennedy Hayward          20:50
-  2      7  22043 Celia Chorzempa          21:10
-  3      8  22042 Anna Cestari             21:11
-  4     11  22059 Anne Hagerty             21:27
-  5     19  22094 Alahna Sabbakhan         22:10
-  6   ( 20) 22092 Sarah Rowland            22:12
-
-  3.    53  National Cathedral        (  21:21  1:46:42   2:01)
-========================================
-  1      2  21758 Sophia Hanway            19:58
-  2      6  21746 Maya Aguirre             21:04
-  3     13  21762 Lauren Ives              21:50
-  4     15  21775 Maya Thumpasery          21:51
-  5     17  21755 Sophia Charles           21:59
-  6   ( 27) 21766 Campbell Musslewhite     22:56
-  7   ( 37) 21761 Isabella Houle           24:32
-
-  4.    93  Georgetown Day School     (  22:09  1:50:42   1:33)
-========================================
-  1      9  21438 Ilana Zeilinger          21:15
-  2     16  21279 Ella Gillespie           21:54
-  3     21  21436 Joyce Yang               22:14
-  4     22  21286 Ana Gunther              22:31
-  5     25  21412 Annie Rosenman           22:48
-  6   ( 32) 21404 Arya Newingham           23:39
-  7   ( 33) 21300 Abby Murphy              23:54
-
-  5.   125  Georgetown Visitation Pre (  22:52  1:54:18   1:41)
-========================================
-  1     14  21444 Louisa Cave              21:51
-  2     23  21443 Elle Campbell            22:42
-  3     28  21450 Dagny Fisher             23:05
-  4     29  21448 Brennan Dunne            23:08
-  5     31  21456 Alexa Iglesias           23:32
-  6   ( 38) 21442 Anna Campbell            24:34
-  7   ( 41) 21454 Isabel Gretschel         24:59
-
-  6.   126  Sidwell Friends  School   (  22:58  1:54:50   3:20)
-========================================
-  1      5  21812 Allison Barker           20:57
-  2     24  21834 Ryan Kyle                22:44
-  3     26  21856 Karenna Warden           22:48
-  4     35  21860 Alden Zhang              24:04
-  5     36  21846 Annika Pederson          24:17
-  6   ( 39) 21836 Sophia Lager             24:39
-  7   ( 40) 21847 Sophie Peikin            24:43
-
-  7.   220  Bell High School          (  28:35  2:22:52   3:35)
-========================================
-  1     42  21223 Jessica Amaya-Zuniga     26:14
-  2     43  21225 Ariyah Green             28:14
-  3     44  21232 Sosena Zaga              29:00
-  4     45  21230 Keyri Reyes Rodruguez    29:35
-  5     46  21224 Andrea Bonilla           29:49
-  6   ( 47) 21228 Fatima Molina Guevara    32:54
-
 
 
 

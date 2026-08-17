@@ -1,7 +1,7 @@
 season,meet_name,meet_date,venue,milesplit_meet_id,raw_results_url,timer_url,championship,notes
 2016,DCSAA Cross Country Championships,2016-11-05,Kenilworth Park,256919,https://dc.milesplit.com/meets/256919-dcsaa-cross-country-championships-2016/results,http://www.albanyrunningexchange.org/results/textDisplay.php?ID=6225,Y,Kenilworth era starts
 2017,DCSAA Cross Country Championships,2017-11-04,Kenilworth Park,291225,https://dc.milesplit.com/meets/291225-district-of-columbia-state-championship-2017/results,,Y,Course reported slightly long
-2018,DCSAA Cross Country Championships,2018-11-03,Kenilworth Park,332878,https://dc.milesplit.com/meets/332878-dcsaa-state-championship-2018/results,,Y,
+2018,DCSAA Cross Country Championships,2018-11-03,Kenilworth Park,332878,https://www.runwashington.com/wp-content/uploads/2018/10/110318_DCSAA_BVA_TEAMS.txt,,Y,Pacers team-standings dump via RunWashington; MileSplit page was JV
 2019,DCSAA Cross Country Championships,2019-11-02,Kenilworth Park,370030,https://dc.milesplit.com/meets/370030-dcsaa-cross-country-championships-2019/results/680071/raw,,Y,
 2021,DCSAA Cross Country Championships,2021-11-06,Kenilworth Park,448206,https://www.milesplit.com/meets/448206-dcsaa-cross-country-championships-2021/results/781059/raw,,Y,Skip 2020 COVID
 2022,DCSAA Cross Country Championships,2022-11-05,Kenilworth Park,506094,https://www.milesplit.com/meets/506094-dcsaa-cross-country-championships-2022/results/863877/raw,,Y,

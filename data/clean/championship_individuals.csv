@@ -1,830 +1,597 @@
-season,place,athlete,school,time_sec,sex
-2019,1,"Capuano, Cullen",Gonzaga College,995.01,M
-2019,2,"Hackett, Damian",St. Albans,1007.32,M
-2019,3,"Donnelly, Patrick",Gonzaga College,1011.94,M
-2019,4,"Spiva, Oliver",Washington Latin,1013.38,M
-2019,5,"Thillairajah, Arjun",Sidwell Friends,1013.86,M
-2019,6,"Blumenthal, Dylan",Jackson-Reed,1016.56,M
-2019,7,"Himmelfarb, Joe",Jackson-Reed,1020.76,M
-2019,8,"Facchinato-Sitja, Matias",St. John's College,1030.79,M
-2019,9,"McElhennon, Gavin",Gonzaga College,1039.91,M
-2019,10,"Angevine, Sam",St. John's College,1044.68,M
-2019,11,"Lachman, Micah",Sidwell Friends,1044.97,M
-2019,12,"Grabarz, Nicolas",St. John's College,1048.82,M
-2019,13,"Stuphan, Adrian",Field,1050.93,M
-2019,14,"Kamani, Vincent",Jackson-Reed,1052.02,M
-2019,15,"Teter, Chris",St. John's College,1052.68,M
-2019,16,"Tyler, Donald",St. John's College,1059.69,M
-2019,17,"Satola, Oliver",Georgetown Day,1061.78,M
-2019,18,"Francese, Luke",Gonzaga College,1066.5,M
-2019,19,"Leonard, Jack",Sidwell Friends,1068.48,M
-2019,20,"Attiogbe, Pierre",St. Albans,1076.9,M
-2019,21,"Marzilli, Wibb",Sidwell Friends,1082.12,M
-2019,22,"Edmondson, Liam",St. John's College,1083.6,M
-2019,23,"Montrey, Casey",Washington Latin,1084.35,M
-2019,24,"Najera, Jose",Jackson-Reed,1089.19,M
-2019,25,"Urbina, Aidan",St. Albans,1089.3,M
-2019,26,"Buchwald, Corbin",Georgetown Day,1090.97,M
-2019,27,"Baar, Charlie",Georgetown Day,1096.53,M
-2019,28,"Kramarenko, Anthony",British Inte,1098.4,M
-2019,30,"Regardie, Max",Washington Latin,1099.32,M
-2019,31,"Kirchner, Quinn",Gonzaga College,1102.97,M
-2019,32,"Cassol-Pawson, Nicholas",School Without Walls,1107.67,M
-2019,33,"Fant, Henry",Sidwell Friends,1110.03,M
-2019,34,"McLenaghan, Ben",Edmund Burke,1113.67,M
-2019,36,"Massad, Emil",Maret,1123.45,M
-2019,38,"O'Connor, Seamus",Gonzaga College,1127.83,M
-2019,39,"Bolanis, Peter",Jackson-Reed,1132.11,M
-2019,40,"Dereje, Sammy",St. Albans,1133.57,M
-2019,41,"Rhee, John",St. Albans,1133.64,M
-2019,42,"Berger, Levi",School Without Walls,1135.32,M
-2019,43,"Cohen, Luke",Georgetown Day,1138.17,M
-2019,44,"Tignor, Niky",Sidwell Friends,1138.29,M
-2019,45,"Harbers, Luc",St. Albans,1139.05,M
-2019,46,"Mirabello, Steve",School Without Walls,1144.34,M
-2019,47,"Bond, Lachlan",School Without Walls,1151.7,M
-2019,48,"Otto-Manzano, Daniel",Georgetown Day,1153.7,M
-2019,49,"Wellisz, Antos",St. Anselm's Abbey,1154.22,M
-2019,50,"Floman, Oskar",Jackson-Reed,1154.95,M
-2019,51,"Banerjee, Aiden",Georgetown Day,1156.04,M
-2019,52,"Freymann, Daniel",Washington International,1157.2,M
-2019,54,"Bush, Sebastian",DC International,1183.06,M
-2019,56,"Lee-Kane, Amadi",Roosevelt,1204.12,M
-2019,58,"Handley, Robin",Jackson-Reed,1213.09,M
-2019,59,"Goodman, Nate",Maret,1214.52,M
-2019,61,"Holdridge, Aidan",Edmund Burke,1217.33,M
-2019,63,"Manier, Amir",Ron Brown School,1226.3,M
-2019,65,"Nolia, Ivan",Washington International,1235.89,M
-2019,67,"Tanner, Miles",Edmund Burke,1245.38,M
-2019,69,"Hicks, Arthur",St. Anselm's Abbey,1254.28,M
-2019,70,"Robison, Harry",Sidwell Friends,1256.39,M
-2019,71,"Neubauer, Gavin",Washington Latin,1256.46,M
-2019,72,"See, Becket",School Without Walls,1267.13,M
-2019,73,"Petersen, Nate",BASIS DC,1276.01,M
-2019,74,"Richmond, Kevin",KIPP DC College Prep,1313.24,M
-2019,76,"Singleton, Ian",Edmund Burke,1328.52,M
-2019,78,"Williams, Ben",Field,1338.83,M
-2019,79,"Tschudin, Jack",Field,1338.86,M
-2019,80,"Tampe, Jp",St. Anselm's Abbey,1343.1,M
-2019,81,"Piper, Hugo",British Inte,1375.77,M
-2019,83,"Holt, Isaac",BASIS DC,1401.33,M
-2019,84,"Nguele, Arnold",KIPP DC College Prep,1415.27,M
-2019,86,"Lott, Steven",St. Anselm's Abbey,1421.82,M
-2019,87,"Waymack, John Henry",BASIS DC,1425.31,M
-2019,88,"Sales, Omarion",KIPP DC College Prep,1556.45,M
-2021,1,"Attiogbe, Pierre",St. Albans,960.87,M
-2021,2,"Grabarz, Nicolas",St. John's College,970.64,M
-2021,3,"Lachman, Micah",Sidwell Friends,991.07,M
-2021,4,"Hume, Sebi",St. Albans,1027.67,M
-2021,5,"Tobin, Finley",St. John's College,1027.79,M
-2021,6,"Cohen, Luke",Georgetown Day,1031.98,M
-2021,7,"Robinson, Paul",St. John's College,1033.75,M
-2021,8,"McMurray, John",Sidwell Friends,1036.29,M
-2021,9,"Mickle, Cameron",St. John's College,1036.89,M
-2021,10,"Thomson, Liam",Gonzaga College,1038.95,M
-2021,11,"Baar, Charlie",Georgetown Day,1045.23,M
-2021,12,"Rohde, Lucas",Gonzaga College,1046.51,M
-2021,13,"Strong, William",St. Albans,1049.96,M
-2021,14,"Montrey, Casey",Washington Latin,1050.78,M
-2021,15,"Otto-Manzano, Daniel",Georgetown Day,1050.94,M
-2021,16,"Cooper, Leo",Georgetown Day,1050.96,M
-2021,17,"Wolin, Ethan",Georgetown Day,1051.14,M
-2021,18,"Rios-Colon, Austin",St. John's College,1051.74,M
-2021,19,"McGrath, Flynn",Sidwell Friends,1060.14,M
-2021,20,"Podratsky, Matt",Gonzaga College,1062.52,M
-2021,21,"Urbina, Aidan",St. Albans,1064.18,M
-2021,22,"Kirchner, Quinn",Gonzaga College,1072.85,M
-2021,23,"Norman, Ethan",Gonzaga College,1074.86,M
-2021,24,"Kuzichev, Venya",St. Albans,1077.34,M
-2021,25,"Thomas, Jack",St. Albans,1085.15,M
-2021,26,"Luchtefeld, Marc",St. John's College,1089.12,M
-2021,27,"Kenney, Tyler",Jackson-Reed,1093.11,M
-2021,28,"Camp, Matias",Gonzaga College,1096.91,M
-2021,29,"Weissman, Easy",Sidwell Friends,1098.26,M
-2021,30,"Whitley, Daniel",Jackson-Reed,1102.05,M
-2021,31,"Rhee, John",St. Albans,1103.35,M
-2021,32,"Ogada, Thomas",Georgetown Day,1106.1,M
-2021,33,"Gamble, Jeremiah",St. John's College,1123.53,M
-2021,34,"Liu, Nathaniel",BASIS DC,1126.16,M
-2021,36,"Goodman, Nate",Maret,1148.39,M
-2021,37,"Holden, Lucas",Sidwell Friends,1149.94,M
-2021,38,"Nolde, Kit",Sidwell Friends,1152.49,M
-2021,39,"Bolanis, Henry",Jackson-Reed,1163.72,M
-2021,40,"Milberg, Asher",Maret,1166.71,M
-2021,41,"Pierre, Aiden",Banneker Hig,1183.14,M
-2021,43,"White, Jakobi",McKinley Technology,1198.48,M
-2021,44,"Burgess, Alan",Jackson-Reed,1202.72,M
-2021,45,"Ash, Andrew",Jackson-Reed,1222.95,M
-2021,46,"Tanner, Miles",Edmund Burke,1225.76,M
-2021,47,"Lucas, Evan",Field,1235.32,M
-2021,48,"Tichy, Michael",Washington Latin,1246.13,M
-2021,49,"Pinkerton, John",Maret,1246.74,M
-2021,50,"Bonner, Joshua",Jackson-Reed,1259.88,M
-2021,51,"Mills, Carter",Field,1264.68,M
-2021,52,"Pomper, Charles",Maret,1269.7,M
-2021,53,"Holt, Isaac",BASIS DC,1272.2,M
-2021,55,"Mayo, Bradley",McKinley Technology,1279.47,M
-2021,56,"Singleton, Ian",Edmund Burke,1280.8,M
-2021,57,"Braxton, Isrial",McKinley Technology,1306.49,M
-2021,58,"Swaby, Simeon",Field,1312.9,M
-2021,59,"Oppenheimer, Adam",Edmund Burke,1318.21,M
-2021,60,"Lunde, Charles",Edmund Burke,1321.39,M
-2021,61,"Kempf, Nicholas",Washington Latin,1342.27,M
-2021,62,"Armagh, Aidan",Field,1361.2,M
-2021,63,"Batkin, William",Washington Latin,1366.57,M
-2021,64,"Bowman, Isaiah",Banneker Hig,1382.2,M
-2021,66,"Byndon, Kaleb",Ron Brown School,1407.88,M
-2021,68,"Swann, Ethan",McKinley Technology,1424.66,M
-2021,69,"Wiseman, Charlie",Edmund Burke,1426.43,M
-2021,70,"Kirk, Brendan",Washington Latin,1442.21,M
-2021,71,"Wilson III, Carl",Ron Brown School,1570.67,M
-2021,73,"Commissiong, Jacob",Roosevelt,1655.82,M
-2021,75,"Powell, Jakari",Friendship C,1900.78,M
-2021,77,"Taylor, Sean",Ron Brown School,1989.62,M
-2021,79,"Wooton, Monte",KIPP DC College Prep,2209.85,M
-2021,81,"Buchannan, Tylleal",Friendship C,2367.62,M
-2022,1,Pierre Attiogbe,St. Albans,952.3,M
-2022,2,Sebi Hume,St. Albans,1003.9,M
-2022,3,Matthew Podratsky,Gonzaga College,1009.2,M
-2022,4,William Strong,St. Albans,1010.9,M
-2022,5,Lucas Rohde,Gonzaga College,1012.6,M
-2022,6,Paul Robinson,St. John's College,1025.0,M
-2022,7,Luke Cohen,Georgetown Day,1045.9,M
-2022,8,Liam Thomson,Gonzaga College,1056.9,M
-2022,9,Ethan Wolin,Georgetown Day,1057.0,M
-2022,10,Laszlo Wolfe,St. Albans,1063.4,M
-2022,11,Finley Tobin,St. John's College,1071.1,M
-2022,12,Easy Weissman,Sidwell Friends,1076.7,M
-2022,13,John Rhee,St. Albans,1081.5,M
-2022,14,Jack Thomas,St. Albans,1083.4,M
-2022,15,Daniel Whitley,Jackson-Reed,1090.1,M
-2022,16,Karil Arnold,St. John's College,1090.6,M
-2022,17,John McMurray,Sidwell Friends,1095.3,M
-2022,18,William Buckley,Gonzaga College,1096.4,M
-2022,19,Marc Luchtefeld,St. John's College,1106.4,M
-2022,20,John Hirko,Gonzaga College,1109.7,M
-2022,21,Liam Quinn,St. Albans,1115.4,M
-2022,22,Ollie Alfonso-Frank,Georgetown Day,1121.0,M
-2022,23,Arjun Pathiyal,Georgetown Day,1122.2,M
-2022,24,Tim Barloon,Gonzaga College,1131.4,M
-2022,25,Mac Penniman,Georgetown Day,1135.1,M
-2022,26,Navin Desai,Georgetown Day,1137.8,M
-2022,27,Nate Bazemore,Georgetown Day,1138.1,M
-2022,28,Michael Razavi,Sidwell Friends,1141.9,M
-2022,29,Tyler Kenney,Jackson-Reed,1145.4,M
-2022,30,Mark Suardi,Jackson-Reed,1148.0,M
-2022,31,Elie Fisher,Sidwell Friends,1149.7,M
-2022,32,Anthony Sarro,Gonzaga College,1163.1,M
-2022,33,James Barnacle,St. John's College,1173.2,M
-2022,34,Charles Lunde,Edmund Burke,1176.1,M
-2022,35,Marcelles Crockett,Phelps Career,1181.3,M
-2022,36,Sajan Shah,Sidwell Friends,1186.6,M
-2022,37,Asher Milberg,Maret,1186.9,M
-2022,38,Samuel Schick,Maret,1194.2,M
-2022,39,Charles Cleveland,Field,1197.6,M
-2022,40,John Pinkerton,Maret,1202.9,M
-2022,41,Kenji Ishi,Sidwell Friends,1207.3,M
-2022,42,John WIDOR,Maret,1218.2,M
-2022,43,Joshua Bonner,Jackson-Reed,1219.8,M
-2022,44,August Taylor,Jackson-Reed,1221.0,M
-2022,45,Aidan Delaney,DC International,1226.1,M
-2022,46,Reese Kaercher,McKinley Technology,1235.7,M
-2022,47,Cillian Lyster,Washington Latin,1237.8,M
-2022,48,Ian Singleton,Edmund Burke,1238.9,M
-2022,49,Matt Kaczor,St. John's College,1241.7,M
-2022,50,Adam Oppenheimer,Edmund Burke,1255.2,M
-2022,51,Evan Lucas,Field,1260.4,M
-2022,52,Leo Farina,Maret,1263.3,M
-2022,53,Andrew Ash,Jackson-Reed,1264.3,M
-2022,54,Eli Williams,DC International,1267.1,M
-2022,55,Michael Tichy,Washington Latin,1270.2,M
-2022,56,Xavier Jackson,Phelps Career,1273.9,M
-2022,57,Alonzo Miles,KIPP DC College Prep,1281.0,M
-2022,58,Alexander Harris,DC International,1290.2,M
-2022,59,Jordan Lawrence,DC International,1290.6,M
-2022,60,Cassius Fiorill,Edmund Burke,1305.7,M
-2022,61,Caedmon Peterson,DC International,1310.2,M
-2022,62,Jack Pearson,Washington Latin,1310.7,M
-2022,63,Owen Franklin,Edmund Burke,1331.1,M
-2022,64,Charles Pomper,Maret,1331.9,M
-2022,65,Zachary Robertson,DC International,1336.7,M
-2022,66,Dhani Young,KIPP DC College Prep,1340.2,M
-2022,67,Keith Harris,KIPP DC College Prep,1340.6,M
-2022,68,Josh Googglick,Field,1342.3,M
-2022,69,Jack Jezior,Edmund Burke,1351.9,M
-2022,70,William Batkin,Washington Latin,1355.5,M
-2022,71,Sean Robinson,Field,1371.6,M
-2022,72,Michael Terrell,McKinley Technology,1395.3,M
-2022,73,Mehki Watts,Phelps Career,1397.1,M
-2022,74,Charles West,Phelps Career,1407.8,M
-2022,75,Jackson Trinca,Washington Latin,1414.7,M
-2022,76,Noah Goldstein,DC International,1434.3,M
-2022,77,Giovanni Gaines,Paul Public Charter School,1439.0,M
-2022,78,Jasper Hughes,Maret,1440.3,M
-2022,79,Jayden Harrod-Daniels,Roosevelt,1446.5,M
-2022,80,Mason Ewers,KIPP DC College Prep,1469.7,M
-2022,81,Jerry Dunlap,KIPP DC College Prep,1472.6,M
-2022,82,Zion Fields,KIPP DC College Prep,1498.3,M
-2022,83,Markell Yarborough,KIPP DC College Prep,1523.6,M
-2022,84,Zach Geyer,Field,1523.8,M
-2022,85,Milo Harris,Washington Latin,1559.6,M
-2023,1,"Hume, Sebi",St. Albans,945.5,M
-2023,2,"Sarro, Anthony",Gonzaga College,951.09,M
-2023,3,"Strong, William",St. Albans,969.11,M
-2023,4,"Arnold, Karil",St. John's College,977.01,M
-2023,5,"Buckley, William",Gonzaga College,992.03,M
-2023,6,"Rock, Caleb",St. John's College,1003.02,M
-2023,7,"Wolfe, Laszlo",St. Albans,1004.74,M
-2023,8,"Rohde, Lucas",Gonzaga College,1007.77,M
-2023,9,"Podratsky, Matthew",Gonzaga College,1009.36,M
-2023,10,"Hirko, John",Gonzaga College,1012.34,M
-2023,11,"Shea, Noah",St. John's College,1015.71,M
-2023,12,"Robinson, Paul",St. John's College,1015.8,M
-2023,13,"Tobin, Finley",St. John's College,1018.08,M
-2023,14,"Mickle, Cameron",St. John's College,1018.12,M
-2023,15,"Palmore, Charlie",St. Albans,1018.32,M
-2023,16,"Rock, Kai",Gonzaga College,1031.87,M
-2023,17,"Quinn, Liam",St. Albans,1035.38,M
-2023,18,"Kessler, Simon",Georgetown Day,1041.96,M
-2023,19,"Bhat, Arjun",Jackson-Reed,1055.97,M
-2023,20,"Suardi, Mark",Jackson-Reed,1056.99,M
-2023,21,"Kolker, Noah",Georgetown Day,1060.13,M
-2023,22,"Bhatia, Alex",Georgetown Day,1060.78,M
-2023,23,"Wolin, Oliver",Georgetown Day,1063.29,M
-2023,24,"Martinez, Ramon",DC International,1065.12,M
-2023,25,"Hume, Rafi",St. Albans,1066.97,M
-2023,26,"Weissman, Easy",Sidwell Friends,1068.93,M
-2023,27,"Kulik, Keller",St. John's College,1071.71,M
-2023,28,"Harry, Tyler",Gonzaga College,1072.95,M
-2023,29,"Fisher, Elie",Sidwell Friends,1081.91,M
-2023,30,"Lyster, Cillian",Washington Latin,1088.36,M
-2023,31,"Desai, Navin",Georgetown Day,1093.53,M
-2023,32,"Crockett, Marcelles",Phelps Career,1095.44,M
-2023,33,"Hamilton, Declan",St. Albans,1109.37,M
-2023,34,"Hellman, Teigan",Sidwell Friends,1117.44,M
-2023,35,"Leopold, Andrew",Georgetown Day,1118.07,M
-2023,36,"Pinkerton, John",Maret,1120.82,M
-2023,37,"Goldstein, Noah",DC International,1123.37,M
-2023,38,"Fochler, Ryan",BASIS DC,1132.46,M
-2023,39,"Kochenderfer, Nathaniel",Sidwell Friends,1134.13,M
-2023,40,"Dunlop, Christopher",DC International,1136.81,M
-2023,41,"Siff, Gideon",Georgetown Day,1142.09,M
-2023,42,"Tichy, Michael",Washington Latin,1146.67,M
-2023,43,"Hall, Adam",DC International,1147.39,M
-2023,44,"McCauley, Saadiq",McKinley Technology,1151.18,M
-2023,45,"Jackson, Xavier",Phelps Career,1153.71,M
-2023,46,"Orlove-Rodriguez, Alvaro",Jackson-Reed,1156.95,M
-2023,47,"Schick, Samuel",Maret,1159.26,M
-2023,48,"Kaercher, Reese",McKinley Technology,1163.95,M
-2023,49,"Marelli, Daniel",Sidwell Friends,1165.9,M
-2023,50,"King, Myles",Sidwell Friends,1167.41,M
-2023,51,"Roessner, Augustus",Eastern,1167.69,M
-2023,53,"Lucia, Jacob",School Without Walls,1176.03,M
-2023,54,"Delaney, Aidan",DC International,1183.84,M
-2023,55,"Clarke, Jeffrey",School Without Walls,1189.33,M
-2023,56,"Schwendinger, William",Jackson-Reed,1194.38,M
-2023,57,"Young, Liam",School Without Walls,1194.59,M
-2023,58,"Laskowski, Malcolm",School Without Walls,1195.6,M
-2023,59,"Widor, John",Maret,1196.32,M
-2023,60,"MACAULEY, Henry",Maret,1198.94,M
-2023,61,"Elliot, Brandon",BASIS DC,1205.25,M
-2023,62,"George, Adegoke",BASIS DC,1218.82,M
-2023,63,"Haileselassie, Fikreab",McKinley Technology,1222.19,M
-2023,64,"Gonzalez-Winthrop, Santi",BASIS DC,1222.49,M
-2023,65,"Harris, Keith",KIPP DC College Prep,1225.55,M
-2023,66,"Dunlop, Lucas",DC International,1227.98,M
-2023,67,"Prosser, Jackson",DC International,1235.27,M
-2023,68,"Batkin, William",Washington Latin,1245.56,M
-2023,69,"Chapman, Josiah",McKinley Technology,1246.71,M
-2023,70,"West, Charles",Phelps Career,1255.53,M
-2023,71,"Miles, Alonzo",KIPP DC College Prep,1264.16,M
-2023,72,"Wetzner, Matthew",School Without Walls,1266.69,M
-2023,73,"Pfaffenroth, Wiliam",Jackson-Reed,1268.75,M
-2023,74,"Fields, Zion",KIPP DC College Prep,1277.4,M
-2023,75,"Pyburn, Ehren",Washington Latin,1280.87,M
-2023,76,"Pearson, Jack",Washington Latin,1281.66,M
-2023,77,"Rubin, Dean",BASIS DC,1286.21,M
-2023,78,"Beeson, Benjamin",Maret,1306.51,M
-2023,79,"Harrod-Daniels, Jayden",Roosevelt,1316.68,M
-2023,81,"Abbott, Adeniji",McKinley Technology,1344.75,M
-2023,82,"Potts, Khalil",KIPP DC College Prep,1344.81,M
-2023,83,"Hayes, Cy",KIPP DC College Prep,1345.77,M
-2023,84,"Trinca, Jackson",Washington Latin,1352.43,M
-2023,85,"Langley, Nathan",KIPP DC College Prep,1366.82,M
-2023,86,"Wright, Kevin",Archbishop Carroll,1397.05,M
-2023,88,"President, Lawson",Maret,1422.39,M
-2023,89,"Hughes, James",BASIS DC,1442.08,M
-2023,90,"Ford, Aaron",BASIS DC,1467.16,M
-2023,91,"Perdomo, Erik",Bell Multicultural,1467.45,M
-2023,93,"Wadsworth, Theodore",Eastern,1522.36,M
-2023,95,"Pitts, Jhamari",Phelps Career,1580.91,M
-2023,96,"Escobar-Ventura, Aaron",Phelps Career,1699.9,M
-2023,97,"Knowles, Tyler",Phelps Career,1963.08,M
-2023,98,"Burl, Brian",Bell Multicultural,1988.94,M
-2024,1,Karil Arnold,St. John's College,916.27,M
-2024,2,William Strong,St. Albans,923.43,M
-2024,3,Sebi Hume,St. Albans,924.15,M
-2024,4,Anthony Sarro,Gonzaga College,951.36,M
-2024,5,Liam Quinn,St. Albans,966.43,M
-2024,6,Laszlo Wolfe,St. Albans,970.3,M
-2024,7,Arjun Bhat,Jackson-Reed,971.63,M
-2024,8,Caleb Rock,St. John's College,978.13,M
-2024,9,Rafi Hume,St. Albans,981.48,M
-2024,10,Andrew Bennett,Georgetown Day,988.55,M
-2024,11,William Buckley,Gonzaga College,990.29,M
-2024,12,Kai Rock,Gonzaga College,991.02,M
-2024,13,Quinn Langan,St. John's College,994.96,M
-2024,14,Oliver Wolin,Georgetown Day,996.11,M
-2024,15,Thomas Power,St. Albans,1008.05,M
-2024,16,Charlie Palmore,St. Albans,1016.63,M
-2024,17,Cillian Lyster,Washington Latin,1018.76,M
-2024,18,Declan Musselman,Gonzaga College,1028.03,M
-2024,19,Teddy Fritz,Gonzaga College,1028.36,M
-2024,20,Indiana Owings,St. John's College,1029.83,M
-2024,21,Mark Suardi,Jackson-Reed,1032.78,M
-2024,22,Jennings Davis,Gonzaga College,1034.55,M
-2024,23,Gavin Solomon,Georgetown Day,1037.59,M
-2024,24,Ramon Martinez,DC International,1041.06,M
-2024,25,Noah Shea,St. John's College,1042.93,M
-2024,26,Cameron Mickle,St. John's College,1048.09,M
-2024,27,Harrison Bertsch,Jackson-Reed,1063.16,M
-2024,28,Ian Catanzano,Gonzaga College,1064.17,M
-2024,29,Noah Kolker,Georgetown Day,1066.64,M
-2024,30,Teigan Hellman,Sidwell Friends,1067.38,M
-2024,31,Parker Medlin,Sidwell Friends,1067.81,M
-2024,32,James Fitzgibbons,Georgetown Day,1075.44,M
-2024,33,Fikreab Haileselassie,McKinley Technology,1076.38,M
-2024,34,Andrew Leopold,Georgetown Day,1077.86,M
-2024,35,John Widor,Maret,1079.17,M
-2024,36,Ryan Fochler,BASIS DC,1086.18,M
-2024,37,Conrad Day,Jackson-Reed,1086.53,M
-2024,38,Jack Laws,Field,1090.06,M
-2024,39,Henry Macauley,Maret,1095.14,M
-2024,40,Michael Tichy,Washington Latin,1096.57,M
-2024,41,Justin Shaya,Jackson-Reed,1097.05,M
-2024,42,Christopher Dunlop,DC International,1099.99,M
-2024,43,Santiago Gonzalez-Winth,BASIS DC,1104.74,M
-2024,44,Charlie Smith,Field,1105.28,M
-2024,45,Alvaro Orlove Rodriguez,Jackson-Reed,1105.52,M
-2024,46,Brandon Elliot,BASIS DC,1106.04,M
-2024,47,Aidan Schick,Maret,1111.06,M
-2024,48,Saadiq McCauley,McKinley Technology,1117.82,M
-2024,49,Leo Johnson-Goldfrank,Georgetown Day,1120.94,M
-2024,50,Alonzo Miles,KIPP DC College Prep,1121.72,M
-2024,51,Robby Matsui,Sidwell Friends,1128.26,M
-2024,52,Harold Wyatt,Sidwell Friends,1128.69,M
-2024,53,Rowan Dobranski,Sidwell Friends,1131.12,M
-2024,54,Rafae Niazi,Sidwell Friends,1132.88,M
-2024,55,Daniel Marelli,Sidwell Friends,1137.9,M
-2024,56,Josiah Chapman,McKinley Technology,1151.06,M
-2024,57,Jack Jezior,Edmund Burke,1154.94,M
-2024,58,Maccabi Epstein,Washington Latin,1158.59,M
-2024,59,Nehemaih McGee,DC International,1165.06,M
-2024,60,Herman Buckman,KIPP DC College Prep,1175.7,M
-2024,61,Wilson McPhatter,McKinley Technology,1175.73,M
-2024,62,Diarrah Fletcher,Archbishop Carroll,1182.46,M
-2024,63,William Batkin,Washington Latin,1183.83,M
-2024,64,Dean Rubin,BASIS DC,1184.91,M
-2024,65,Bram Schestopol,Maret,1196.19,M
-2024,66,Milo Harris,Washington Latin,1197.64,M
-2024,67,Benjamin Beeson,Maret,1202.02,M
-2024,68,Stephen Orzechowski,BASIS DC,1202.95,M
-2024,69,Bobby Lyons,DC International,1203.72,M
-2024,70,Zachary Robertson,DC International,1222.22,M
-2024,71,Josh Goodglick,Field,1226.74,M
-2024,72,Jack Pearson,Washington Latin,1228.08,M
-2024,73,Nicholas Premysler,BASIS DC,1240.73,M
-2024,74,Isaac Weissman,Edmund Burke,1263.53,M
-2024,75,Isaac Harder,Maret,1263.86,M
-2024,76,Erik Perdomo,Bell Multicultural,1271.52,M
-2024,77,Jayson Ingram,McKinley Technology,1278.68,M
-2024,78,Felix Pezalla-Werth,Edmund Burke,1278.83,M
-2024,79,Camden Branch,Archbishop Carroll,1288.73,M
-2024,80,Manny Capellan,DC International,1296.86,M
-2024,81,Colonius Gwaltney,KIPP DC College Prep,1307.14,M
-2024,82,Patrick Kirshbaum,Maret,1321.13,M
-2024,83,Ibrahim Buriah,Roosevelt,1324.13,M
-2024,84,Luke Shih,DC International,1325.6,M
-2024,85,Wade Romhilt,Field,1336.38,M
-2024,86,Elijah Riggs,Field,1345.78,M
-2024,87,Ethan Kozolchyk,BASIS DC,1363.22,M
-2024,88,Chatman Nichols,Washington Latin,1369.78,M
-2024,89,William Buck,St. Jerome Institute,1372.83,M
-2024,90,Theodore Cofield,KIPP DC College Prep,1377.8,M
-2024,91,Simeon Ellis,Bell Multicultural,1416.79,M
-2024,92,Jonah Levine,Field,1524.11,M
-2024,93,Kiduse Alemsah,Bell Multicultural,1541.47,M
-2024,94,Daniel Cruz-Rodezno,Bell Multicultural,1645.94,M
-2024,95,Mazin Brake,Bell Multicultural,1658.33,M
-2024,96,Robert Carroll,Friendship Tech Prep,1818.58,M
-2024,97,Donell Gray III,Friendship Tech Prep,2057.43,M
-2024,98,Zachery Harper,Friendship Tech Prep,2219.36,M
-2024,1,Vivian Kelly,Georgetown Visitation,1081.26,M
-2024,2,Abigail Anstett,Georgetown Visitation,1082.03,M
-2024,3,Shira Wenthe,Georgetown Day,1099.99,M
-2024,4,Whitney Bruch,National Cathedral,1132.68,M
-2024,5,Hannah O'Neill,St. John's College,1140.64,M
-2024,6,Emilia Natalucci,St. John's College,1143.39,M
-2024,7,Callie Wallace,Maret,1147.19,M
-2024,8,Cecilia Wright,National Cathedral,1149.58,M
-2024,9,Lily Carr,Jackson-Reed,1184.83,M
-2024,10,Helena Kelly,Georgetown Visitation,1187.07,M
-2024,11,Luca Brennan,Georgetown Visitation,1187.34,M
-2024,12,Nora Gormsen,Georgetown Visitation,1188.86,M
-2024,13,Alana Templeman,Sidwell Friends,1195.28,M
-2024,14,Lily Laroski,National Cathedral,1197.04,M
-2024,15,Carla Flabbi-Fruttero,BASIS DC,1199.74,M
-2024,16,Madeline Stevenson,BASIS DC,1199.93,M
-2024,17,Caroline Lee,National Cathedral,1214.23,M
-2024,18,Sabrina Brennan,Georgetown Visitation,1214.62,M
-2024,19,Hailey Caldwell,St. John's College,1219.74,M
-2024,21,Alexandra Ezrow,Georgetown Day,1221.47,M
-2024,22,Sasha Darlan,St. John's College,1225.87,M
-2024,23,Margot Benelli,National Cathedral,1228.77,M
-2024,24,Solveig Wartchow,McKinley Technology,1232.35,M
-2024,25,Isabel Limao,Sidwell Friends,1237.33,M
-2024,27,Marta Flabbi-Fruttero,BASIS DC,1242.2,M
-2024,28,Naomi Borek,Georgetown Day,1253.3,M
-2024,29,Campbell Dwight,Sidwell Friends,1256.12,M
-2024,30,Sadie Boyle,Georgetown Day,1260.07,M
-2024,32,Avery Mascott,National Cathedral,1274.38,M
-2024,33,Zoe Wolin,Georgetown Day,1278.34,M
-2024,34,Anya Vogel,Maret,1285.26,M
-2024,35,Jasmine Singh,Sidwell Friends,1293.06,M
-2024,36,Madelyn Zeller,Washington Latin,1294.49,M
-2024,37,Claire Farina,Maret,1305.58,M
-2024,38,Charlotte Glendinning,Georgetown Day,1307.45,M
-2024,39,Hannah Schneider,National Cathedral,1318.54,M
-2024,40,Anya Finkelstein,Georgetown Day,1319.3,M
-2024,41,Magdalena Reminga,St. Jerome Institute,1320.6,M
-2024,42,Katherine Izenberg,BASIS DC,1363.66,M
-2024,44,Lillian Leber,Jackson-Reed,1379.56,M
-2024,46,Tykara Mcclain,McKinley Technology,1421.22,M
-2024,47,Nora Goldwasser,Jackson-Reed,1426.22,M
-2024,48,Sophie Minkiewicz,Georgetown Visitation,1435.34,M
-2024,49,Susanna Orr,Jackson-Reed,1439.84,M
-2024,50,Lyla Kramer,Washington Latin,1453.8,M
-2024,51,Elsa Harper,Edmund Burke,1463.98,M
-2024,52,Madison Turner,McKinley Technology,1464.69,M
-2024,53,Bri Alvarez Silva,Maret,1466.66,M
-2024,54,Kailani Hartwell,KIPP DC College Prep,1486.06,M
-2024,55,Logan Arthur,McKinley Technology,1492.12,M
-2024,56,Lydia Park,Washington Latin,1498.8,M
-2024,57,Addisyn Lemus,DC International,1501.34,M
-2024,58,Leyu Fikru,Edmund Burke,1506.78,M
-2024,59,Renate Weber,BASIS DC,1518.49,M
-2024,60,Emilie Allen,Maret,1527.77,M
-2024,61,Anna Puryear,Maret,1529.7,M
-2024,62,Lillian Goldstein,Field,1535.03,M
-2024,63,Hazel Jeffords-Molvak,McKinley Technology,1546.84,M
-2024,64,Sarah Smith,DC International,1554.1,M
-2024,65,Eliza Gulley,Edmund Burke,1567.37,M
-2024,66,Ines Reminga,St. Jerome Institute,1575.29,M
-2024,67,Rae Marzilli,Sidwell Friends,1587.84,M
-2024,68,Maya Vogt,DC International,1610.11,M
-2024,69,Violet Lockwood,BASIS DC,1655.86,M
-2024,70,Natalie Lobel,Maret,1659.14,M
-2024,71,Laren Johnson,DC International,1697.21,M
-2024,72,Anyah Salvi,DC International,1785.07,M
-2024,1,John Hirko,Gonzaga College,1042.7,M
-2024,2,Kyle Bretting,St. John's College,1053.8,M
-2024,3,Eben Tyre,St. John's College,1058.92,M
-2024,6,Wesley Barentzen,Gonzaga College,1066.18,M
-2024,7,William Cantrell,St. Albans,1077.13,M
-2024,8,Peter Allen,Gonzaga College,1082.01,M
-2024,10,Humphrey Wolfe,St. Albans,1087.16,M
-2024,11,Henry Barnett,St. Albans,1091.54,M
-2024,13,Wyatt Grace,Georgetown Day,1101.41,M
-2024,15,Bodi De,Georgetown Day,1107.33,M
-2024,16,Ahadu Seyoum,St. John's College,1113.46,M
-2024,17,Adnan Gunja,St. Albans,1115.8,M
-2024,18,Willem Cohn,St. Albans,1115.89,M
-2024,19,Larry Mosoti,St. Albans,1119.29,M
-2024,20,Declan Ewald,Gonzaga College,1120.04,M
-2024,22,James Denney,St. Albans,1131.4,M
-2024,23,Elias Weetjens,St. John's College,1135.73,M
-2024,24,Jude Buchanan,St. John's College,1137.08,M
-2024,25,Simon Loftus,Georgetown Day,1139.21,M
-2024,26,Oliver Dashwood,Washington International,1144.36,M
-2024,27,Mateo Levey,Washington International,1145.6,M
-2024,28,Ben Place,St. John's College,1147.34,M
-2024,29,Hayden Burnside,Gonzaga College,1151.02,M
-2024,30,Paul Liles,Gonzaga College,1151.22,M
-2024,31,Alex Acosta,St. Albans,1156.35,M
-2024,32,Tommy Morgenfeld,St. John's College,1167.68,M
-2024,33,Tyler Nguyen,Sidwell Friends,1171.37,M
-2024,34,Lincoln Eyer,St. Albans,1177.49,M
-2024,35,Alex Mathai,St. Albans,1181.95,M
-2024,36,Bryan Guerra,Jackson-Reed,1190.33,M
-2024,37,William Panner,Sidwell Friends,1192.41,M
-2024,39,Cyrus Powell,School Without Walls,1197.24,M
-2024,40,Jerry O'Connell,St. Albans,1201.33,M
-2024,41,Matthew Karrels,St. Albans,1202.02,M
-2024,42,Grant Davis,St. Albans,1203.32,M
-2024,43,Andrew Gorman,Sidwell Friends,1215.8,M
-2024,44,Henry Fragale,Georgetown Day,1227.32,M
-2024,45,Finn Kramer,Gonzaga College,1236.82,M
-2024,46,Yonas Harris,Jackson-Reed,1243.76,M
-2024,47,Irby Thomson,Gonzaga College,1248.75,M
-2024,48,Matthew Stern,Georgetown Day,1256.18,M
-2024,49,Thomas Duckenfield,St. Albans,1263.21,M
-2024,50,Nico Abbate,Georgetown Day,1263.23,M
-2024,51,Parker Mew,Jackson-Reed,1282.73,M
-2024,52,Skylar Luebbert,Jackson-Reed,1291.39,M
-2024,53,Jacob Gagosian,Jackson-Reed,1304.83,M
-2024,54,Jackson Trinca,Washington Latin,1309.08,M
-2024,55,Will Prisco,Gonzaga College,1309.67,M
-2024,56,Christopher Beavers,St. John's College,1312.38,M
-2024,57,Lucas Flaherty,Maret,1322.09,M
-2024,58,Maurice Shanks,Jackson-Reed,1352.23,M
-2024,59,Ilias Janus,St. Albans,1360.95,M
-2024,60,Huckle Shea,Jackson-Reed,1367.66,M
-2024,61,Hugo Bonelli,School Without Walls,1368.19,M
-2024,62,Lucas Qi,Georgetown Day,1407.8,M
-2024,64,Brady Shipe,Georgetown Day,1439.19,M
-2024,65,Kevin Xia,Georgetown Day,1464.82,M
-2024,66,Nathan Aguiar,Sidwell Friends,1478.39,M
-2024,67,Sawyer Thompson,Georgetown Day,1487.95,M
-2024,71,Alexander Novikov,Washington International,1660.69,M
-2024,72,Ben Bellavia-Cortezi,Georgetown Day,1909.02,M
-2024,2,Colleen Leavitt,School Without Walls,1268.16,M
-2024,4,Ava Dion,St. John's College,1397.88,M
-2024,5,Malia Smith,National Cathedral,1400.24,M
-2024,7,Zoe Fayyad,St. John's College,1409.53,M
-2024,8,Georgia Kaufman,Georgetown Day,1410.27,M
-2024,9,Evie Cushnie,Washington International,1421.01,M
-2024,10,Olivia Purce,Jackson-Reed,1437.72,M
-2024,11,Nura Idriss,Georgetown Day,1445.66,M
-2024,12,Sydney Monroe,St. John's College,1447.34,M
-2024,13,Julia Wang,National Cathedral,1472.89,M
-2024,14,Leila Ackil,Jackson-Reed,1518.11,M
-2024,15,Quinn Van Konynenburg,National Cathedral,1526.59,M
-2024,16,Eliana Green,Georgetown Day,1541.63,M
-2024,17,Emma Renigar,Georgetown Day,1562.76,M
-2024,18,Mia Spector,National Cathedral,1562.77,M
-2024,19,Sabine Hletko Wood,Georgetown Day,1567.66,M
-2024,20,Sid Debgupta,Georgetown Day,1572.14,M
-2024,22,Elizabeth Smith,Georgetown Visitation,1593.43,M
-2024,23,Sofia Hashemi,Washington International,1600.58,M
-2024,24,Elena Rossi,Georgetown Visitation,1640.7,M
-2024,27,Marissa Fernandez,Maret,1687.6,M
-2024,30,Elizabeth Boyd,National Cathedral,1719.96,M
-2024,31,Sophia Smith,Maret,1751.41,M
-2024,32,Maya Cook,Maret,1755.84,M
-2024,33,Annie Regen,Georgetown Visitation,1760.01,M
-2024,34,Catherine Paci,Washington Latin,1798.47,M
-2024,35,Ameilia Gormsen,Georgetown Visitation,1806.96,M
-2024,36,Ava Bell,Georgetown Visitation,1809.76,M
-2024,37,Amiyah Mackell,Archbishop Carroll,1831.39,M
-2024,38,Sofia Vakis,Washington International,1853.2,M
-2024,39,Avery Mullen,Sidwell Friends,1860.17,M
-2024,40,Maya Sturdivant,National Cathedral,1867.77,M
-2024,41,Esme Takacs,School Without Walls,1916.88,M
-2024,42,Ethan Deleon,Washington Latin,1932.59,M
-2024,43,Emma Stifel,National Cathedral,1941.07,M
-2024,44,Oleena Fonseka,Georgetown Visitation,1959.01,M
-2024,45,Molly Doster,National Cathedral,1976.65,M
-2024,46,Naomi Milberg,Maret,2195.95,M
-2024,47,Sade Allen,KIPP DC College Prep,2302.4,M
-2024,48,Gabrielle Williams,Maret,2415.68,M
-2024,49,Vivian Ross,Maret,2433.49,M
-2024,1,Declan Hamilton,St. Albans,1039.52,M
-2024,3,Malcolm Laskowski,School Without Walls,1066.81,M
-2024,4,Benjamin Shepard,School Without Walls,1079.02,M
-2024,7,Jack Coogan,Gonzaga College,1105.16,M
-2024,8,Sorya Chung,Sidwell Friends,1124.71,M
-2024,10,Louie Merriam,Sidwell Friends,1130.81,M
-2024,12,Evan Campbell,St. Albans,1137.68,M
-2024,13,Brent Cruz,Gonzaga College,1140.05,M
-2024,15,Chase Dejardins,Gonzaga College,1144.84,M
-2024,16,Ben Bakshi,Gonzaga College,1145.44,M
-2024,21,Andrew Kim,Sidwell Friends,1152.52,M
-2024,23,Milo Gavin,Jackson-Reed,1155.62,M
-2024,24,Tyler Mitroff,Sidwell Friends,1160.7,M
-2024,26,Oliver Grossi,Georgetown Day,1168.78,M
-2024,27,Alex Hauser,Georgetown Day,1170.34,M
-2024,28,Samuel Schauer,School Without Walls,1172.98,M
-2024,30,Nolan Spangeberg,School Without Walls,1183.63,M
-2024,31,Daniel Stern,Georgetown Day,1192.42,M
-2024,32,Alistair Maul,Gonzaga College,1193.8,M
-2024,34,Tomas Socias,St. John's College,1199.24,M
-2024,36,Simon Nguyen,Gonzaga College,1206.91,M
-2024,37,Dex Canavan,Georgetown Day,1234.13,M
-2024,39,Declan Heil,Gonzaga College,1236.29,M
-2024,40,Alexander Speece,Sidwell Friends,1242.68,M
-2024,41,Justin Gaul,Gonzaga College,1244.62,M
-2024,42,Parker Dunbar,Georgetown Day,1245.2,M
-2024,43,Mack Walker,Gonzaga College,1245.84,M
-2024,44,Mike Melluzzo,Gonzaga College,1253.24,M
-2024,45,Jacob Menkes,St. Albans,1255.62,M
-2024,48,Finn Bailey,St. Albans,1263.64,M
-2024,51,Trey Miller,Gonzaga College,1268.22,M
-2024,52,William Wildermuth,Gonzaga College,1268.4,M
-2024,56,John Migliaccio,Gonzaga College,1278.05,M
-2024,57,Julian Jean-Francois,St. John's College,1279.1,M
-2024,58,Antuan Queen,McKinley Technology,1279.77,M
-2024,59,Jason Rodriguez-Orellan,McKinley Technology,1282.97,M
-2024,60,Julian Moraczewski,St. Albans,1284.63,M
-2024,61,Minh Pham,Jackson-Reed,1284.63,M
-2024,62,Sebastian Linnel-Simmon,School Without Walls,1286.5,M
-2024,63,Carter Holley,St. Albans,1289.47,M
-2024,64,Tristan Pomponi,Sidwell Friends,1289.79,M
-2024,65,Spencer Weiss,St. Albans,1293.33,M
-2024,66,Nicholas Terry,St. Albans,1296.71,M
-2024,67,Diego Herrera,St. John's College,1299.8,M
-2024,68,Sebastian Amador,St. John's College,1300.57,M
-2024,69,Jake Gregory,St. John's College,1304.31,M
-2024,70,Leo Lynn,Sidwell Friends,1304.59,M
-2024,71,Elliott Etter,Georgetown Day,1304.97,M
-2024,72,Kit Beeson,St. Albans,1310.62,M
-2024,73,Aiden Moazzez,St. Albans,1311.39,M
-2024,74,Alistair Chapel,St. Albans,1312.27,M
-2024,75,Shiv Patel,St. Albans,1317.35,M
-2024,76,Charlie Miller,St. Albans,1318.09,M
-2024,77,Graham Farrand,Gonzaga College,1324.13,M
-2024,78,Asher Rothenberg,Jackson-Reed,1333.78,M
-2024,79,Nick Barac,Sidwell Friends,1336.14,M
-2024,80,Jonathan Thibault,Washington International,1339.51,M
-2024,81,Will Kinney,St. Albans,1340.27,M
-2024,82,Kierin McBride,Gonzaga College,1355.27,M
-2024,83,Damond Green,Sidwell Friends,1355.66,M
-2024,84,Zach Berres,Georgetown Day,1358.11,M
-2024,85,Anthony Zhuang,Washington International,1358.71,M
-2024,86,Jude Brenan,Jackson-Reed,1367.41,M
-2024,87,Rajan Patel,St. Albans,1367.88,M
-2024,88,Yannick Toedtman,Jackson-Reed,1369.49,M
-2024,89,EJ Caldwell,St. John's College,1372.3,M
-2024,90,Nico Gatti Roaf,Washington International,1374.28,M
-2024,91,Evan Kendall,Jackson-Reed,1385.81,M
-2024,92,Samuel Lerner,Georgetown Day,1394.53,M
-2024,93,Cameron Holden,Georgetown Day,1395.08,M
-2024,94,Benjamin Baptiste,Washington Latin,1404.83,M
-2024,95,Teddy Sachse,Georgetown Day,1414.31,M
-2024,96,Alexandre Mousset,Washington International,1426.43,M
-2024,97,Hoban Lampard,Sidwell Friends,1429.46,M
-2024,98,Ulysse Harasty,St. John's College,1432.14,M
-2024,99,Ezra Okon,McKinley Technology,1437.36,M
-2024,100,Thomas Presler,Gonzaga College,1448.91,M
-2024,101,Gavin Wang,Georgetown Day,1452.96,M
-2024,102,Thomas Brown,McKinley Technology,1453.16,M
-2024,103,Will McAllister,Maret,1454.92,M
-2024,104,Justin Damas,St. Albans,1472.38,M
-2024,105,Gabe Levine,Georgetown Day,1473.49,M
-2024,106,Maceo Lindsey,Georgetown Day,1473.5,M
-2024,107,Brendan Shaffer,St. John's College,1491.24,M
-2024,108,David Cai,St. Albans,1492.66,M
-2024,109,William Brewer,Gonzaga College,1498.07,M
-2024,110,Lukas O'Neill,St. John's College,1502.51,M
-2024,111,Matthew Guzman,McKinley Technology,1504.15,M
-2024,112,Izak Richman,Jackson-Reed,1504.55,M
-2024,113,Wyatt Ross,Maret,1533.24,M
-2024,114,Miles Johnson,Washington Latin,1554.43,M
-2024,115,Thomas Arias,Gonzaga College,1566.94,M
-2024,116,Grant Cummins,Sidwell Friends,1577.78,M
-2024,117,Randy Zhu,Georgetown Day,1579.63,M
-2024,118,Jibrael Sheikh,St. Albans,1655.89,M
-2024,119,Devin Boakeye,St. Albans,1656.0,M
-2024,120,Sammy Rosenthal,Maret,1675.05,M
-2024,121,Eyas Hardan,Sidwell Friends,1686.63,M
-2024,122,Otto Weiner,School Without Walls,1722.79,M
-2024,123,Joel Maupin,KIPP DC College Prep,1738.55,M
-2024,124,Brendon Chu,Georgetown Day,1751.68,M
-2024,125,Eli Babbitt,St. Albans,1815.31,M
-2024,126,Zayvion Wallace,Archbishop Carroll,2031.01,M
-2024,1,Shiloh Wallace,Washington International,1290.19,M
-2024,2,Calla Privor,National Cathedral,1295.86,M
-2024,6,Ophelia Calhoun,National Cathedral,1345.32,M
-2024,7,Charlotte Cleary,National Cathedral,1360.39,M
-2024,9,Zoey Fedele,School Without Walls,1368.59,M
-2024,12,Kinjal Kapoor,Field,1428.73,M
-2024,16,Emelie Shearer,Georgetown Visitation,1453.66,M
-2024,17,Talia Vitberg,Jackson-Reed,1467.62,M
-2024,18,Liya Fairfax,Georgetown Day,1483.54,M
-2024,19,Olivia Rankin,Georgetown Visitation,1490.38,M
-2024,20,Ruth Eliot,National Cathedral,1496.18,M
-2024,21,Cecilia Comar,School Without Walls,1500.03,M
-2024,22,Audrey Hayes,School Without Walls,1512.88,M
-2024,23,Alicia Bautista,Georgetown Visitation,1537.76,M
-2024,25,Wilhelmina Nichols,Georgetown Visitation,1562.44,M
-2024,27,Anna Doyle,National Cathedral,1595.89,M
-2024,28,Sabella Osborn,Eastern,1622.82,M
-2024,29,Mai Pham,Jackson-Reed,1641.25,M
-2024,30,Catherine Riley,Georgetown Visitation,1649.71,M
-2024,31,Makayla Crew,St. John's College,1678.28,M
-2024,33,Maddy Westbrook,Jackson-Reed,1734.8,M
-2024,34,Sophie Schooley,Georgetown Visitation,1756.32,M
-2024,36,Junnah Sheikh,Sidwell Friends,1805.81,M
-2024,37,Jessica Taylor,St. John's College,1847.26,M
-2024,38,Mary Bell,Georgetown Visitation,1898.49,M
-2024,39,London Kennedy,Georgetown Visitation,1924.82,M
-2024,40,Abigail King,Jackson-Reed,1934.0,M
-2024,41,Jisoo Brown,Georgetown Visitation,1939.62,M
-2024,42,Mary McGreevy,Georgetown Visitation,1963.64,M
-2024,43,Adele Abouchar,Georgetown Visitation,1978.83,M
-2024,44,Ariel Pollard,Maret,2010.85,M
-2024,45,Ann Pascal,Georgetown Visitation,2057.11,M
-2024,46,Veronica Vaky,National Cathedral,2132.2,M
-2024,47,Jane Volmer,Georgetown Visitation,2165.06,M
-2025,1,Anthony Sarro,Gonzaga College,916.76,M
-2025,2,Karil Arnold,St. John's College,921.8,M
-2025,3,Charlie Palmore,St. Albans,937.28,M
-2025,4,Cillian Lyster,Washington Latin,941.88,M
-2025,5,Arjun Bhat,Jackson-Reed,945.11,M
-2025,6,Ian Rosenberg,St. John's College,956.99,M
-2025,7,Oliver Wolin,Georgetown Day,957.65,M
-2025,8,Caleb Rock,St. John's College,968.16,M
-2025,9,Rafi Hume,St. Albans,969.57,M
-2025,10,Thomas Power,St. Albans,975.25,M
-2025,11,Kai Rock,Gonzaga College,979.49,M
-2025,12,Ian Catanzano,Gonzaga College,988.8,M
-2025,13,Keller Kulik,St. John's College,992.68,M
-2025,14,Oliver Gruner,St. John's College,993.85,M
-2025,15,Edward Fritz,Gonzaga College,994.01,M
-2025,16,Indiana Owings,St. John's College,1005.54,M
-2025,17,Jennings Davis,Gonzaga College,1008.8,M
-2025,18,Lars Kearney,School Without Walls,1013.26,M
-2025,19,Simon Kessler,Georgetown Day,1013.46,M
-2025,20,Christopher Dunlop,DC International,1014.3,M
-2025,21,Ryan Fochler,BASIS DC,1019.49,M
-2025,22,Humphrey Wolfe,St. Albans,1028.5,M
-2025,23,Gavin Solomon,Georgetown Day,1032.3,M
-2025,24,Noah Shea,St. John's College,1036.81,M
-2025,25,Henry Macauley,Maret,1048.19,M
-2025,26,Jack Laws,Field,1057.66,M
-2025,27,Willem Cohn,St. Albans,1058.38,M
-2025,28,Rafae Niazi,Sidwell Friends,1058.41,M
-2025,29,Declan Musselman,Gonzaga College,1063.54,M
-2025,30,Brendan Fochler,BASIS DC,1068.25,M
-2025,31,Parker Medlin,Sidwell Friends,1075.43,M
-2025,32,Amika Bibolov,Sidwell Friends,1078.75,M
-2025,33,Reylouson Vilmenay,Coolidge,1079.07,M
-2025,34,Sorya Chung,Sidwell Friends,1079.97,M
-2025,35,Miguel Souto Learman,BASIS DC,1079.97,M
-2025,36,John Widor,Maret,1081.05,M
-2025,37,Wanja Koch,Banneker,1088.26,M
-2025,38,Santiago Gonzalez-Winth,BASIS DC,1089.85,M
-2025,39,Andrew Kim,Sidwell Friends,1090.43,M
-2025,40,Holden Consentino,School Without Walls,1091.72,M
-2025,41,Liam Young,School Without Walls,1092.99,M
-2025,42,Malcolm Laskowski,School Without Walls,1094.02,M
-2025,43,Noah Kolker,Georgetown Day,1095.42,M
-2025,44,Samuel Schauer,School Without Walls,1096.34,M
-2025,45,Dean Rubin,BASIS DC,1098.17,M
-2025,46,Noah Rowe,Banneker,1099.39,M
-2025,47,Colin Olsen,BASIS DC,1102.76,M
-2025,48,Leo Johnson-Goldfrank,Georgetown Day,1104.2,M
-2025,49,Ben Altschuler,Georgetown Day,1106.03,M
-2025,50,William Cantrell,St. Albans,1107.14,M
-2025,51,Arlo McWhorter,MacArthur,1108.19,M
-2025,52,Charlie Smith,Field,1110.19,M
-2025,53,Tyler Mitroff,Sidwell Friends,1120.38,M
-2025,54,Teigan Hellman,Sidwell Friends,1120.4,M
-2025,55,Oliver Malkin,Georgetown Day,1121.76,M
-2025,56,Brandon Elliot,BASIS DC,1126.49,M
-2025,57,Peter Clausen,Washington Latin,1143.39,M
-2025,58,Sajan Torchia,School Without Walls,1147.23,M
-2025,59,Henry Hall,St. Albans,1151.49,M
-2025,60,Ruark Jennings,Washington Latin,1159.12,M
-2025,61,Owain Williams,DC International,1169.02,M
-2025,62,Benjamin Hitt,Washington Latin,1179.27,M
-2025,63,Zachary Robertson,DC International,1195.92,M
-2025,64,Arijua McCarter,Eastern,1198.27,M
-2025,65,Milo Harris,Washington Latin,1199.51,M
-2025,66,Bobby Lyons,DC International,1201.5,M
-2025,67,Benjamin Beeson,Maret,1203.84,M
-2025,68,Frederick Tan,DC International,1205.27,M
-2025,69,Theodore Cofield,KIPP DC College Prep,1221.14,M
-2025,70,Luke Shih,DC International,1226.85,M
-2025,71,Isaac Harder,Maret,1228.13,M
-2025,72,Robert Edwards,Banneker,1228.32,M
-2025,73,Charles Appenzeller,MacArthur,1238.55,M
-2025,74,Jackson Trinca,Washington Latin,1245.27,M
-2025,75,Henry Stearns,Banneker,1255.61,M
-2025,76,Essohame Vianney Fawie,Roosevelt,1291.27,M
-2025,77,Lucas Miller,Edmund Burke,1298.96,M
-2025,78,Nathan Langley,KIPP DC College Prep,1302.93,M
-2025,79,Patrick Kirshbaum,Maret,1306.72,M
-2025,80,Javiel Duran,Washington Latin,1316.24,M
-2025,81,Ryan Banks,MacArthur,1328.91,M
-2025,82,Ulyses Stewart-Torres,MacArthur,1329.42,M
-2025,83,Earl Adams III,Field,1333.78,M
-2025,84,Will McAllister,Maret,1336.24,M
-2025,85,Wyatt Ross,Maret,1341.26,M
-2025,86,Javonte Broadwater,KIPP DC College Prep,1342.62,M
-2025,87,Rupert Pijpers,MacArthur,1346.77,M
-2025,88,Jack Herrmann,Banneker,1348.12,M
-2025,89,Felix Pezalla-Werth,Edmund Burke,1356.51,M
-2025,90,Aaron Sokolov,DC International,1382.21,M
-2025,91,Jonah Levine,Field,1396.93,M
-2025,92,Markell Robinson,KIPP DC College Prep,1407.31,M
-2025,93,Thomas Kaliel,Field,1408.42,M
-2025,94,Benjamin Ellis,Bell Multicultural,1412.77,M
-2025,95,Micah Sager,Edmund Burke,1439.31,M
-2025,96,Jordan Mathis,Bell Multicultural,1452.64,M
-2025,97,Zachary Evans,KIPP DC College Prep,1461.03,M
-2025,98,Abdias Matos Jacinto,Roosevelt,1469.83,M
-2025,99,Bailey Feng,MacArthur,1498.85,M
-2025,100,Loren Davis,MacArthur,1507.03,M
-2025,101,Brando Rameriz-Deleon,Bell Multicultural,1554.23,M
-2025,102,Joel Maupin,KIPP DC College Prep,1584.13,M
-2025,103,Benjamin Levine,Edmund Burke,1715.92,M
+season,place,athlete,school,time_sec,sex,grade
+2018,2,Cullen Capuano,Gonzaga College,996.0,M,
+2018,3,Gavin McElhennon,Gonzaga College,1005.0,M,
+2018,10,Patrick Donnelly,Gonzaga College,1051.0,M,
+2018,14,Luke Francese,Gonzaga College,1073.0,M,
+2018,18,Daniel Roginski,Gonzaga College,1088.0,M,
+2018,20,Seamus O'Connor,Gonzaga College,1092.0,M,
+2018,33,David Giannini,Gonzaga College,1112.0,M,
+2018,4,Dylan Blumenthal,Jackson-Reed,1017.0,M,
+2018,6,Vincent Kamani,Jackson-Reed,1024.0,M,
+2018,21,Robin Handley,Jackson-Reed,1094.0,M,
+2018,25,Luca Ciagne,Jackson-Reed,1103.0,M,
+2018,26,Jose Najera,Jackson-Reed,1104.0,M,
+2018,29,Joe Himmelfarb,Jackson-Reed,1110.0,M,
+2018,44,Oskar Floman,Jackson-Reed,1159.0,M,
+2018,5,Arjun Thillairajah,Sidwell Friends,1024.0,M,
+2018,11,Mitchell Jubeir,Sidwell Friends,1056.0,M,
+2018,13,Micah Lachman,Sidwell Friends,1071.0,M,
+2018,23,Wibb Marzilli,Sidwell Friends,1099.0,M,
+2018,31,Ali Hakim-Florian,Sidwell Friends,1111.0,M,
+2018,36,Jack Leonard,Sidwell Friends,1138.0,M,
+2018,46,Earnest Williams,Sidwell Friends,1170.0,M,
+2018,8,Damian Hackett,St. Albans,1032.0,M,
+2018,9,Jack Tongour,St. Albans,1034.0,M,
+2018,17,Jonathan Merril,St. Albans,1085.0,M,
+2018,24,Nick Maguigad,St. Albans,1102.0,M,
+2018,35,Ben St. Germain,St. Albans,1137.0,M,
+2018,38,Jack Kelly,St. Albans,1144.0,M,
+2018,42,Kyle Morin,St. Albans,1158.0,M,
+2018,7,Liam De Beaufort,St. John's College,1028.0,M,
+2018,15,Michael Penafiel,St. John's College,1074.0,M,
+2018,16,Matias Facchinato-Sitja,St. John's College,1079.0,M,
+2018,27,Reese Smith,St. John's College,1108.0,M,
+2018,30,Chris Teter,St. John's College,1110.0,M,
+2018,34,Daniel Beck,St. John's College,1129.0,M,
+2018,37,William Heinle,St. John's College,1138.0,M,
+2018,1,Luke Tewalt,Washington Latin,988.0,M,
+2018,12,Oliver Spiva,Washington Latin,1066.0,M,
+2018,22,Nicholas Geist,Washington Latin,1096.0,M,
+2018,40,Casey Montrey,Washington Latin,1155.0,M,
+2018,45,Max Regardie,Washington Latin,1165.0,M,
+2018,49,Rob Mirabello,Washington Latin,1186.0,M,
+2018,59,Jasper Ferncrombie,Washington Latin,1252.0,M,
+2018,28,Corbin Buchwald,Georgetown Day,1108.0,M,
+2018,32,Charlie Baar,Georgetown Day,1111.0,M,
+2018,43,Tyler Litmans,Georgetown Day,1158.0,M,
+2018,48,Alex Wellisch,Georgetown Day,1180.0,M,
+2018,53,Matthew Siff,Georgetown Day,1199.0,M,
+2018,56,Jeff Elias,Georgetown Day,1218.0,M,
+2018,62,Ben Fleurence,Georgetown Day,1262.0,M,
+2018,19,Adrian Stuphan,Field,1089.0,M,
+2018,47,Wesley Nostrand,Field,1179.0,M,
+2018,55,David Englund,Field,1213.0,M,
+2018,65,Ben Williams,Field,1269.0,M,
+2018,68,Jack Cantor,Field,1302.0,M,
+2018,70,Adam Bressler,Field,1332.0,M,
+2018,72,Nick McClure,Field,1351.0,M,
+2018,39,Lucien Anderson,School Without Walls,1152.0,M,
+2018,41,Nicholas Cassol-Pawson,School Without Walls,1156.0,M,
+2018,50,Levi Berger,School Without Walls,1190.0,M,
+2018,60,Lachlan Bond,School Without Walls,1255.0,M,
+2018,64,Becket See,School Without Walls,1264.0,M,
+2018,66,Ryan Nock,School Without Walls,1296.0,M,
+2018,51,Chris Sherman,St. Anselm's Abbey,1191.0,M,
+2018,54,Ian Patzman-Rivard,St. Anselm's Abbey,1206.0,M,
+2018,57,Joseph Paci,St. Anselm's Abbey,1224.0,M,
+2018,63,Peter Clark,St. Anselm's Abbey,1262.0,M,
+2018,69,William Stubner,St. Anselm's Abbey,1305.0,M,
+2018,75,Austine Levan,St. Anselm's Abbey,1423.0,M,
+2018,52,Nate Petersen,BASIS DC,1192.0,M,
+2018,58,Kai Moeller,BASIS DC,1242.0,M,
+2018,61,James Stewart,BASIS DC,1258.0,M,
+2018,67,Isaac Holt,BASIS DC,1300.0,M,
+2018,71,Caden Kowalski,BASIS DC,1345.0,M,
+2018,73,Carlos Sheehan-Martinez,BASIS DC,1386.0,M,
+2018,74,Frederick Parse,BASIS DC,1389.0,M,
+2019,1,"Capuano, Cullen",Gonzaga College,995.01,M,12.0
+2019,2,"Hackett, Damian",St. Albans,1007.32,M,11.0
+2019,3,"Donnelly, Patrick",Gonzaga College,1011.94,M,11.0
+2019,4,"Spiva, Oliver",Washington Latin,1013.38,M,12.0
+2019,5,"Thillairajah, Arjun",Sidwell Friends,1013.86,M,12.0
+2019,6,"Blumenthal, Dylan",Jackson-Reed,1016.56,M,12.0
+2019,7,"Himmelfarb, Joe",Jackson-Reed,1020.76,M,12.0
+2019,8,"Facchinato-Sitja, Matias",St. John's College,1030.79,M,10.0
+2019,9,"McElhennon, Gavin",Gonzaga College,1039.91,M,12.0
+2019,10,"Angevine, Sam",St. John's College,1044.68,M,12.0
+2019,11,"Lachman, Micah",Sidwell Friends,1044.97,M,10.0
+2019,12,"Grabarz, Nicolas",St. John's College,1048.82,M,10.0
+2019,13,"Stuphan, Adrian",Field,1050.93,M,12.0
+2019,14,"Kamani, Vincent",Jackson-Reed,1052.02,M,11.0
+2019,15,"Teter, Chris",St. John's College,1052.68,M,12.0
+2019,16,"Tyler, Donald",St. John's College,1059.69,M,11.0
+2019,17,"Satola, Oliver",Georgetown Day,1061.78,M,12.0
+2019,18,"Francese, Luke",Gonzaga College,1066.5,M,12.0
+2019,19,"Leonard, Jack",Sidwell Friends,1068.48,M,10.0
+2019,20,"Attiogbe, Pierre",St. Albans,1076.9,M,9.0
+2019,21,"Marzilli, Wibb",Sidwell Friends,1082.12,M,11.0
+2019,22,"Edmondson, Liam",St. John's College,1083.6,M,11.0
+2019,23,"Montrey, Casey",Washington Latin,1084.35,M,10.0
+2019,24,"Najera, Jose",Jackson-Reed,1089.19,M,11.0
+2019,25,"Urbina, Aidan",St. Albans,1089.3,M,10.0
+2019,26,"Buchwald, Corbin",Georgetown Day,1090.97,M,11.0
+2019,27,"Baar, Charlie",Georgetown Day,1096.53,M,10.0
+2019,28,"Kramarenko, Anthony",British Inte,1098.4,M,11.0
+2019,30,"Regardie, Max",Washington Latin,1099.32,M,11.0
+2019,31,"Kirchner, Quinn",Gonzaga College,1102.97,M,10.0
+2019,32,"Cassol-Pawson, Nicholas",School Without Walls,1107.67,M,11.0
+2019,33,"Fant, Henry",Sidwell Friends,1110.03,M,12.0
+2019,34,"McLenaghan, Ben",Edmund Burke,1113.67,M,12.0
+2019,36,"Massad, Emil",Maret,1123.45,M,11.0
+2019,38,"O'Connor, Seamus",Gonzaga College,1127.83,M,10.0
+2019,39,"Bolanis, Peter",Jackson-Reed,1132.11,M,9.0
+2019,40,"Dereje, Sammy",St. Albans,1133.57,M,11.0
+2019,41,"Rhee, John",St. Albans,1133.64,M,9.0
+2019,42,"Berger, Levi",School Without Walls,1135.32,M,12.0
+2019,43,"Cohen, Luke",Georgetown Day,1138.17,M,9.0
+2019,44,"Tignor, Niky",Sidwell Friends,1138.29,M,12.0
+2019,45,"Harbers, Luc",St. Albans,1139.05,M,11.0
+2019,46,"Mirabello, Steve",School Without Walls,1144.34,M,11.0
+2019,47,"Bond, Lachlan",School Without Walls,1151.7,M,11.0
+2019,48,"Otto-Manzano, Daniel",Georgetown Day,1153.7,M,9.0
+2019,49,"Wellisz, Antos",St. Anselm's Abbey,1154.22,M,12.0
+2019,50,"Floman, Oskar",Jackson-Reed,1154.95,M,12.0
+2019,51,"Banerjee, Aiden",Georgetown Day,1156.04,M,11.0
+2019,52,"Freymann, Daniel",Washington International,1157.2,M,12.0
+2019,54,"Bush, Sebastian",DC International,1183.06,M,10.0
+2019,56,"Lee-Kane, Amadi",Roosevelt,1204.12,M,12.0
+2019,58,"Handley, Robin",Jackson-Reed,1213.09,M,10.0
+2019,59,"Goodman, Nate",Maret,1214.52,M,10.0
+2019,61,"Holdridge, Aidan",Edmund Burke,1217.33,M,12.0
+2019,63,"Manier, Amir",Ron Brown School,1226.3,M,12.0
+2019,65,"Nolia, Ivan",Washington International,1235.89,M,10.0
+2019,67,"Tanner, Miles",Edmund Burke,1245.38,M,10.0
+2019,69,"Hicks, Arthur",St. Anselm's Abbey,1254.28,M,10.0
+2019,70,"Robison, Harry",Sidwell Friends,1256.39,M,11.0
+2019,71,"Neubauer, Gavin",Washington Latin,1256.46,M,9.0
+2019,72,"See, Becket",School Without Walls,1267.13,M,11.0
+2019,73,"Petersen, Nate",BASIS DC,1276.01,M,12.0
+2019,74,"Richmond, Kevin",KIPP DC College Prep,1313.24,M,11.0
+2019,76,"Singleton, Ian",Edmund Burke,1328.52,M,9.0
+2019,78,"Williams, Ben",Field,1338.83,M,12.0
+2019,79,"Tschudin, Jack",Field,1338.86,M,11.0
+2019,80,"Tampe, Jp",St. Anselm's Abbey,1343.1,M,10.0
+2019,81,"Piper, Hugo",British Inte,1375.77,M,12.0
+2019,83,"Holt, Isaac",BASIS DC,1401.33,M,10.0
+2019,84,"Nguele, Arnold",KIPP DC College Prep,1415.27,M,11.0
+2019,86,"Lott, Steven",St. Anselm's Abbey,1421.82,M,11.0
+2019,87,"Waymack, John Henry",BASIS DC,1425.31,M,12.0
+2019,88,"Sales, Omarion",KIPP DC College Prep,1556.45,M,11.0
+2021,1,"Attiogbe, Pierre",St. Albans,960.87,M,11.0
+2021,2,"Grabarz, Nicolas",St. John's College,970.64,M,12.0
+2021,3,"Lachman, Micah",Sidwell Friends,991.07,M,12.0
+2021,4,"Hume, Sebi",St. Albans,1027.67,M,9.0
+2021,5,"Tobin, Finley",St. John's College,1027.79,M,10.0
+2021,6,"Cohen, Luke",Georgetown Day,1031.98,M,11.0
+2021,7,"Robinson, Paul",St. John's College,1033.75,M,10.0
+2021,8,"McMurray, John",Sidwell Friends,1036.29,M,9.0
+2021,9,"Mickle, Cameron",St. John's College,1036.89,M,9.0
+2021,10,"Thomson, Liam",Gonzaga College,1038.95,M,11.0
+2021,11,"Baar, Charlie",Georgetown Day,1045.23,M,12.0
+2021,12,"Rohde, Lucas",Gonzaga College,1046.51,M,10.0
+2021,13,"Strong, William",St. Albans,1049.96,M,9.0
+2021,14,"Montrey, Casey",Washington Latin,1050.78,M,12.0
+2021,15,"Otto-Manzano, Daniel",Georgetown Day,1050.94,M,11.0
+2021,16,"Cooper, Leo",Georgetown Day,1050.96,M,12.0
+2021,17,"Wolin, Ethan",Georgetown Day,1051.14,M,11.0
+2021,18,"Rios-Colon, Austin",St. John's College,1051.74,M,11.0
+2021,19,"McGrath, Flynn",Sidwell Friends,1060.14,M,12.0
+2021,20,"Podratsky, Matt",Gonzaga College,1062.52,M,9.0
+2021,21,"Urbina, Aidan",St. Albans,1064.18,M,12.0
+2021,22,"Kirchner, Quinn",Gonzaga College,1072.85,M,12.0
+2021,23,"Norman, Ethan",Gonzaga College,1074.86,M,12.0
+2021,24,"Kuzichev, Venya",St. Albans,1077.34,M,11.0
+2021,25,"Thomas, Jack",St. Albans,1085.15,M,11.0
+2021,26,"Luchtefeld, Marc",St. John's College,1089.12,M,11.0
+2021,27,"Kenney, Tyler",Jackson-Reed,1093.11,M,11.0
+2021,28,"Camp, Matias",Gonzaga College,1096.91,M,12.0
+2021,29,"Weissman, Easy",Sidwell Friends,1098.26,M,10.0
+2021,30,"Whitley, Daniel",Jackson-Reed,1102.05,M,11.0
+2021,31,"Rhee, John",St. Albans,1103.35,M,11.0
+2021,32,"Ogada, Thomas",Georgetown Day,1106.1,M,10.0
+2021,33,"Gamble, Jeremiah",St. John's College,1123.53,M,9.0
+2021,34,"Liu, Nathaniel",BASIS DC,1126.16,M,12.0
+2021,36,"Goodman, Nate",Maret,1148.39,M,12.0
+2021,37,"Holden, Lucas",Sidwell Friends,1149.94,M,11.0
+2021,38,"Nolde, Kit",Sidwell Friends,1152.49,M,12.0
+2021,39,"Bolanis, Henry",Jackson-Reed,1163.72,M,9.0
+2021,40,"Milberg, Asher",Maret,1166.71,M,11.0
+2021,41,"Pierre, Aiden",Banneker Hig,1183.14,M,11.0
+2021,43,"White, Jakobi",McKinley Technology,1198.48,M,11.0
+2021,44,"Burgess, Alan",Jackson-Reed,1202.72,M,10.0
+2021,45,"Ash, Andrew",Jackson-Reed,1222.95,M,10.0
+2021,46,"Tanner, Miles",Edmund Burke,1225.76,M,12.0
+2021,47,"Lucas, Evan",Field,1235.32,M,10.0
+2021,48,"Tichy, Michael",Washington Latin,1246.13,M,9.0
+2021,49,"Pinkerton, John",Maret,1246.74,M,10.0
+2021,50,"Bonner, Joshua",Jackson-Reed,1259.88,M,11.0
+2021,51,"Mills, Carter",Field,1264.68,M,10.0
+2021,52,"Pomper, Charles",Maret,1269.7,M,11.0
+2021,53,"Holt, Isaac",BASIS DC,1272.2,M,12.0
+2021,55,"Mayo, Bradley",McKinley Technology,1279.47,M,9.0
+2021,56,"Singleton, Ian",Edmund Burke,1280.8,M,11.0
+2021,57,"Braxton, Isrial",McKinley Technology,1306.49,M,9.0
+2021,58,"Swaby, Simeon",Field,1312.9,M,12.0
+2021,59,"Oppenheimer, Adam",Edmund Burke,1318.21,M,11.0
+2021,60,"Lunde, Charles",Edmund Burke,1321.39,M,9.0
+2021,61,"Kempf, Nicholas",Washington Latin,1342.27,M,9.0
+2021,62,"Armagh, Aidan",Field,1361.2,M,11.0
+2021,63,"Batkin, William",Washington Latin,1366.57,M,9.0
+2021,64,"Bowman, Isaiah",Banneker Hig,1382.2,M,12.0
+2021,66,"Byndon, Kaleb",Ron Brown School,1407.88,M,9.0
+2021,68,"Swann, Ethan",McKinley Technology,1424.66,M,9.0
+2021,69,"Wiseman, Charlie",Edmund Burke,1426.43,M,9.0
+2021,70,"Kirk, Brendan",Washington Latin,1442.21,M,12.0
+2021,71,"Wilson III, Carl",Ron Brown School,1570.67,M,10.0
+2021,73,"Commissiong, Jacob",Roosevelt,1655.82,M,11.0
+2021,75,"Powell, Jakari",Friendship C,1900.78,M,11.0
+2021,77,"Taylor, Sean",Ron Brown School,1989.62,M,11.0
+2021,79,"Wooton, Monte",KIPP DC College Prep,2209.85,M,12.0
+2021,81,"Buchannan, Tylleal",Friendship C,2367.62,M,12.0
+2022,1,Pierre Attiogbe,St. Albans,952.3,M,12.0
+2022,2,Sebi Hume,St. Albans,1003.9,M,10.0
+2022,3,Matthew Podratsky,Gonzaga College,1009.2,M,10.0
+2022,4,William Strong,St. Albans,1010.9,M,10.0
+2022,5,Lucas Rohde,Gonzaga College,1012.6,M,11.0
+2022,6,Paul Robinson,St. John's College,1025.0,M,11.0
+2022,7,Luke Cohen,Georgetown Day,1045.9,M,12.0
+2022,8,Liam Thomson,Gonzaga College,1056.9,M,12.0
+2022,9,Ethan Wolin,Georgetown Day,1057.0,M,12.0
+2022,10,Laszlo Wolfe,St. Albans,1063.4,M,10.0
+2022,11,Finley Tobin,St. John's College,1071.1,M,11.0
+2022,12,Easy Weissman,Sidwell Friends,1076.7,M,11.0
+2022,13,John Rhee,St. Albans,1081.5,M,12.0
+2022,14,Jack Thomas,St. Albans,1083.4,M,12.0
+2022,15,Daniel Whitley,Jackson-Reed,1090.1,M,12.0
+2022,16,Karil Arnold,St. John's College,1090.6,M,9.0
+2022,17,John McMurray,Sidwell Friends,1095.3,M,10.0
+2022,18,William Buckley,Gonzaga College,1096.4,M,10.0
+2022,19,Marc Luchtefeld,St. John's College,1106.4,M,12.0
+2022,20,John Hirko,Gonzaga College,1109.7,M,10.0
+2022,21,Liam Quinn,St. Albans,1115.4,M,10.0
+2022,22,Ollie Alfonso-Frank,Georgetown Day,1121.0,M,11.0
+2022,23,Arjun Pathiyal,Georgetown Day,1122.2,M,12.0
+2022,24,Tim Barloon,Gonzaga College,1131.4,M,12.0
+2022,25,Mac Penniman,Georgetown Day,1135.1,M,10.0
+2022,26,Navin Desai,Georgetown Day,1137.8,M,11.0
+2022,27,Nate Bazemore,Georgetown Day,1138.1,M,12.0
+2022,28,Michael Razavi,Sidwell Friends,1141.9,M,12.0
+2022,29,Tyler Kenney,Jackson-Reed,1145.4,M,12.0
+2022,30,Mark Suardi,Jackson-Reed,1148.0,M,9.0
+2022,31,Elie Fisher,Sidwell Friends,1149.7,M,9.0
+2022,32,Anthony Sarro,Gonzaga College,1163.1,M,9.0
+2022,33,James Barnacle,St. John's College,1173.2,M,12.0
+2022,34,Charles Lunde,Edmund Burke,1176.1,M,10.0
+2022,35,Marcelles Crockett,Phelps Career,1181.3,M,10.0
+2022,36,Sajan Shah,Sidwell Friends,1186.6,M,11.0
+2022,37,Asher Milberg,Maret,1186.9,M,12.0
+2022,38,Samuel Schick,Maret,1194.2,M,11.0
+2022,39,Charles Cleveland,Field,1197.6,M,10.0
+2022,40,John Pinkerton,Maret,1202.9,M,11.0
+2022,41,Kenji Ishi,Sidwell Friends,1207.3,M,12.0
+2022,42,John WIDOR,Maret,1218.2,M,9.0
+2022,43,Joshua Bonner,Jackson-Reed,1219.8,M,12.0
+2022,44,August Taylor,Jackson-Reed,1221.0,M,11.0
+2022,45,Aidan Delaney,DC International,1226.1,M,11.0
+2022,46,Reese Kaercher,McKinley Technology,1235.7,M,11.0
+2022,47,Cillian Lyster,Washington Latin,1237.8,M,9.0
+2022,48,Ian Singleton,Edmund Burke,1238.9,M,12.0
+2022,49,Matt Kaczor,St. John's College,1241.7,M,11.0
+2022,50,Adam Oppenheimer,Edmund Burke,1255.2,M,12.0
+2022,51,Evan Lucas,Field,1260.4,M,11.0
+2022,52,Leo Farina,Maret,1263.3,M,12.0
+2022,53,Andrew Ash,Jackson-Reed,1264.3,M,12.0
+2022,54,Eli Williams,DC International,1267.1,M,10.0
+2022,55,Michael Tichy,Washington Latin,1270.2,M,10.0
+2022,56,Xavier Jackson,Phelps Career,1273.9,M,11.0
+2022,57,Alonzo Miles,KIPP DC College Prep,1281.0,M,10.0
+2022,58,Alexander Harris,DC International,1290.2,M,12.0
+2022,59,Jordan Lawrence,DC International,1290.6,M,11.0
+2022,60,Cassius Fiorill,Edmund Burke,1305.7,M,9.0
+2022,61,Caedmon Peterson,DC International,1310.2,M,11.0
+2022,62,Jack Pearson,Washington Latin,1310.7,M,10.0
+2022,63,Owen Franklin,Edmund Burke,1331.1,M,11.0
+2022,64,Charles Pomper,Maret,1331.9,M,12.0
+2022,66,Dhani Young,KIPP DC College Prep,1340.2,M,12.0
+2022,67,Keith Harris,KIPP DC College Prep,1340.6,M,10.0
+2022,68,Josh Googglick,Field,1342.3,M,12.0
+2022,69,Jack Jezior,Edmund Burke,1351.9,M,9.0
+2022,70,William Batkin,Washington Latin,1355.5,M,10.0
+2022,71,Sean Robinson,Field,1371.6,M,12.0
+2022,72,Michael Terrell,McKinley Technology,1395.3,M,10.0
+2022,73,Mehki Watts,Phelps Career,1397.1,M,12.0
+2022,74,Charles West,Phelps Career,1407.8,M,11.0
+2022,75,Jackson Trinca,Washington Latin,1414.7,M,9.0
+2022,76,Noah Goldstein,DC International,1434.3,M,11.0
+2022,77,Giovanni Gaines,Paul Public Charter School,1439.0,M,11.0
+2022,78,Jasper Hughes,Maret,1440.3,M,11.0
+2022,79,Jayden Harrod-Daniels,Roosevelt,1446.5,M,10.0
+2022,80,Mason Ewers,KIPP DC College Prep,1469.7,M,10.0
+2022,81,Jerry Dunlap,KIPP DC College Prep,1472.6,M,11.0
+2022,82,Zion Fields,KIPP DC College Prep,1498.3,M,10.0
+2022,83,Markell Yarborough,KIPP DC College Prep,1523.6,M,11.0
+2022,84,Zach Geyer,Field,1523.8,M,10.0
+2022,85,Milo Harris,Washington Latin,1559.6,M,9.0
+2023,1,"Hume, Sebi",St. Albans,945.5,M,11.0
+2023,2,"Sarro, Anthony",Gonzaga College,951.09,M,10.0
+2023,3,"Strong, William",St. Albans,969.11,M,11.0
+2023,4,"Arnold, Karil",St. John's College,977.01,M,10.0
+2023,5,"Buckley, William",Gonzaga College,992.03,M,11.0
+2023,6,"Rock, Caleb",St. John's College,1003.02,M,10.0
+2023,7,"Wolfe, Laszlo",St. Albans,1004.74,M,11.0
+2023,8,"Rohde, Lucas",Gonzaga College,1007.77,M,12.0
+2023,9,"Podratsky, Matthew",Gonzaga College,1009.36,M,11.0
+2023,10,"Hirko, John",Gonzaga College,1012.34,M,11.0
+2023,11,"Shea, Noah",St. John's College,1015.71,M,10.0
+2023,12,"Robinson, Paul",St. John's College,1015.8,M,12.0
+2023,13,"Tobin, Finley",St. John's College,1018.08,M,12.0
+2023,14,"Mickle, Cameron",St. John's College,1018.12,M,11.0
+2023,15,"Palmore, Charlie",St. Albans,1018.32,M,10.0
+2023,16,"Rock, Kai",Gonzaga College,1031.87,M,10.0
+2023,17,"Quinn, Liam",St. Albans,1035.38,M,11.0
+2023,18,"Kessler, Simon",Georgetown Day,1041.96,M,10.0
+2023,19,"Bhat, Arjun",Jackson-Reed,1055.97,M,9.0
+2023,20,"Suardi, Mark",Jackson-Reed,1056.99,M,10.0
+2023,21,"Kolker, Noah",Georgetown Day,1060.13,M,10.0
+2023,22,"Bhatia, Alex",Georgetown Day,1060.78,M,11.0
+2023,23,"Wolin, Oliver",Georgetown Day,1063.29,M,10.0
+2023,24,"Martinez, Ramon",DC International,1065.12,M,11.0
+2023,25,"Hume, Rafi",St. Albans,1066.97,M,9.0
+2023,26,"Weissman, Easy",Sidwell Friends,1068.93,M,12.0
+2023,27,"Kulik, Keller",St. John's College,1071.71,M,10.0
+2023,28,"Harry, Tyler",Gonzaga College,1072.95,M,11.0
+2023,29,"Fisher, Elie",Sidwell Friends,1081.91,M,10.0
+2023,30,"Lyster, Cillian",Washington Latin,1088.36,M,10.0
+2023,31,"Desai, Navin",Georgetown Day,1093.53,M,12.0
+2023,32,"Crockett, Marcelles",Phelps Career,1095.44,M,11.0
+2023,33,"Hamilton, Declan",St. Albans,1109.37,M,9.0
+2023,34,"Hellman, Teigan",Sidwell Friends,1117.44,M,9.0
+2023,35,"Leopold, Andrew",Georgetown Day,1118.07,M,10.0
+2023,36,"Pinkerton, John",Maret,1120.82,M,12.0
+2023,37,"Goldstein, Noah",DC International,1123.37,M,12.0
+2023,38,"Fochler, Ryan",BASIS DC,1132.46,M,10.0
+2023,39,"Kochenderfer, Nathaniel",Sidwell Friends,1134.13,M,12.0
+2023,40,"Dunlop, Christopher",DC International,1136.81,M,10.0
+2023,41,"Siff, Gideon",Georgetown Day,1142.09,M,11.0
+2023,42,"Tichy, Michael",Washington Latin,1146.67,M,11.0
+2023,43,"Hall, Adam",DC International,1147.39,M,12.0
+2023,44,"McCauley, Saadiq",McKinley Technology,1151.18,M,9.0
+2023,45,"Jackson, Xavier",Phelps Career,1153.71,M,12.0
+2023,46,"Orlove-Rodriguez, Alvaro",Jackson-Reed,1156.95,M,11.0
+2023,47,"Schick, Samuel",Maret,1159.26,M,12.0
+2023,48,"Kaercher, Reese",McKinley Technology,1163.95,M,12.0
+2023,49,"Marelli, Daniel",Sidwell Friends,1165.9,M,11.0
+2023,50,"King, Myles",Sidwell Friends,1167.41,M,12.0
+2023,51,"Roessner, Augustus",Eastern,1167.69,M,11.0
+2023,53,"Lucia, Jacob",School Without Walls,1176.03,M,9.0
+2023,54,"Delaney, Aidan",DC International,1183.84,M,12.0
+2023,55,"Clarke, Jeffrey",School Without Walls,1189.33,M,12.0
+2023,56,"Schwendinger, William",Jackson-Reed,1194.38,M,12.0
+2023,57,"Young, Liam",School Without Walls,1194.59,M,9.0
+2023,58,"Laskowski, Malcolm",School Without Walls,1195.6,M,9.0
+2023,59,"Widor, John",Maret,1196.32,M,10.0
+2023,60,"MACAULEY, Henry",Maret,1198.94,M,10.0
+2023,61,"Elliot, Brandon",BASIS DC,1205.25,M,10.0
+2023,62,"George, Adegoke",BASIS DC,1218.82,M,12.0
+2023,63,"Haileselassie, Fikreab",McKinley Technology,1222.19,M,11.0
+2023,64,"Gonzalez-Winthrop, Santi",BASIS DC,1222.49,M,10.0
+2023,65,"Harris, Keith",KIPP DC College Prep,1225.55,M,11.0
+2023,66,"Dunlop, Lucas",DC International,1227.98,M,9.0
+2023,67,"Prosser, Jackson",DC International,1235.27,M,9.0
+2023,68,"Batkin, William",Washington Latin,1245.56,M,11.0
+2023,69,"Chapman, Josiah",McKinley Technology,1246.71,M,10.0
+2023,70,"West, Charles",Phelps Career,1255.53,M,12.0
+2023,71,"Miles, Alonzo",KIPP DC College Prep,1264.16,M,11.0
+2023,72,"Wetzner, Matthew",School Without Walls,1266.69,M,10.0
+2023,73,"Pfaffenroth, Wiliam",Jackson-Reed,1268.75,M,10.0
+2023,74,"Fields, Zion",KIPP DC College Prep,1277.4,M,11.0
+2023,75,"Pyburn, Ehren",Washington Latin,1280.87,M,11.0
+2023,76,"Pearson, Jack",Washington Latin,1281.66,M,11.0
+2023,77,"Rubin, Dean",BASIS DC,1286.21,M,9.0
+2023,78,"Beeson, Benjamin",Maret,1306.51,M,10.0
+2023,79,"Harrod-Daniels, Jayden",Roosevelt,1316.68,M,11.0
+2023,81,"Abbott, Adeniji",McKinley Technology,1344.75,M,11.0
+2023,82,"Potts, Khalil",KIPP DC College Prep,1344.81,M,10.0
+2023,83,"Hayes, Cy",KIPP DC College Prep,1345.77,M,11.0
+2023,84,"Trinca, Jackson",Washington Latin,1352.43,M,10.0
+2023,85,"Langley, Nathan",KIPP DC College Prep,1366.82,M,9.0
+2023,86,"Wright, Kevin",Archbishop Carroll,1397.05,M,11.0
+2023,88,"President, Lawson",Maret,1422.39,M,12.0
+2023,89,"Hughes, James",BASIS DC,1442.08,M,11.0
+2023,90,"Ford, Aaron",BASIS DC,1467.16,M,11.0
+2023,91,"Perdomo, Erik",Bell Multicultural,1467.45,M,11.0
+2023,93,"Wadsworth, Theodore",Eastern,1522.36,M,11.0
+2023,95,"Pitts, Jhamari",Phelps Career,1580.91,M,11.0
+2023,96,"Escobar-Ventura, Aaron",Phelps Career,1699.9,M,10.0
+2023,97,"Knowles, Tyler",Phelps Career,1963.08,M,10.0
+2023,98,"Burl, Brian",Bell Multicultural,1988.94,M,11.0
+2024,1,Karil Arnold,St. John's College,916.27,M,11.0
+2024,2,William Strong,St. Albans,923.43,M,12.0
+2024,3,Sebi Hume,St. Albans,924.15,M,12.0
+2024,4,Anthony Sarro,Gonzaga College,951.36,M,11.0
+2024,5,Liam Quinn,St. Albans,966.43,M,12.0
+2024,6,Laszlo Wolfe,St. Albans,970.3,M,12.0
+2024,7,Arjun Bhat,Jackson-Reed,971.63,M,10.0
+2024,8,Caleb Rock,St. John's College,978.13,M,11.0
+2024,9,Rafi Hume,St. Albans,981.48,M,10.0
+2024,10,Andrew Bennett,Georgetown Day,988.55,M,11.0
+2024,11,William Buckley,Gonzaga College,990.29,M,12.0
+2024,12,Kai Rock,Gonzaga College,991.02,M,11.0
+2024,13,Quinn Langan,St. John's College,994.96,M,11.0
+2024,14,Oliver Wolin,Georgetown Day,996.11,M,11.0
+2024,15,Thomas Power,St. Albans,1008.05,M,10.0
+2024,16,Charlie Palmore,St. Albans,1016.63,M,11.0
+2024,17,Cillian Lyster,Washington Latin,1018.76,M,11.0
+2024,18,Declan Musselman,Gonzaga College,1028.03,M,10.0
+2024,19,Teddy Fritz,Gonzaga College,1028.36,M,11.0
+2024,20,Indiana Owings,St. John's College,1029.83,M,9.0
+2024,21,Mark Suardi,Jackson-Reed,1032.78,M,11.0
+2024,22,Jennings Davis,Gonzaga College,1034.55,M,10.0
+2024,23,Gavin Solomon,Georgetown Day,1037.59,M,9.0
+2024,24,Ramon Martinez,DC International,1041.06,M,12.0
+2024,25,Noah Shea,St. John's College,1042.93,M,11.0
+2024,26,Cameron Mickle,St. John's College,1048.09,M,12.0
+2024,27,Harrison Bertsch,Jackson-Reed,1063.16,M,12.0
+2024,28,Ian Catanzano,Gonzaga College,1064.17,M,11.0
+2024,29,Noah Kolker,Georgetown Day,1066.64,M,11.0
+2024,30,Teigan Hellman,Sidwell Friends,1067.38,M,10.0
+2024,31,Parker Medlin,Sidwell Friends,1067.81,M,11.0
+2024,32,James Fitzgibbons,Georgetown Day,1075.44,M,10.0
+2024,33,Fikreab Haileselassie,McKinley Technology,1076.38,M,12.0
+2024,34,Andrew Leopold,Georgetown Day,1077.86,M,11.0
+2024,35,John Widor,Maret,1079.17,M,11.0
+2024,36,Ryan Fochler,BASIS DC,1086.18,M,11.0
+2024,37,Conrad Day,Jackson-Reed,1086.53,M,10.0
+2024,38,Jack Laws,Field,1090.06,M,9.0
+2024,39,Henry Macauley,Maret,1095.14,M,11.0
+2024,40,Michael Tichy,Washington Latin,1096.57,M,12.0
+2024,41,Justin Shaya,Jackson-Reed,1097.05,M,11.0
+2024,42,Christopher Dunlop,DC International,1099.99,M,11.0
+2024,43,Santiago Gonzalez-Winth,BASIS DC,1104.74,M,11.0
+2024,44,Charlie Smith,Field,1105.28,M,10.0
+2024,45,Alvaro Orlove Rodriguez,Jackson-Reed,1105.52,M,12.0
+2024,46,Brandon Elliot,BASIS DC,1106.04,M,11.0
+2024,47,Aidan Schick,Maret,1111.06,M,10.0
+2024,48,Saadiq McCauley,McKinley Technology,1117.82,M,10.0
+2024,49,Leo Johnson-Goldfrank,Georgetown Day,1120.94,M,11.0
+2024,50,Alonzo Miles,KIPP DC College Prep,1121.72,M,12.0
+2024,51,Robby Matsui,Sidwell Friends,1128.26,M,12.0
+2024,52,Harold Wyatt,Sidwell Friends,1128.69,M,10.0
+2024,53,Rowan Dobranski,Sidwell Friends,1131.12,M,10.0
+2024,54,Rafae Niazi,Sidwell Friends,1132.88,M,9.0
+2024,55,Daniel Marelli,Sidwell Friends,1137.9,M,12.0
+2024,56,Josiah Chapman,McKinley Technology,1151.06,M,11.0
+2024,57,Jack Jezior,Edmund Burke,1154.94,M,11.0
+2024,58,Maccabi Epstein,Washington Latin,1158.59,M,12.0
+2024,59,Nehemaih McGee,DC International,1165.06,M,11.0
+2024,60,Herman Buckman,KIPP DC College Prep,1175.7,M,12.0
+2024,61,Wilson McPhatter,McKinley Technology,1175.73,M,11.0
+2024,62,Diarrah Fletcher,Archbishop Carroll,1182.46,M,12.0
+2024,63,William Batkin,Washington Latin,1183.83,M,12.0
+2024,64,Dean Rubin,BASIS DC,1184.91,M,10.0
+2024,65,Bram Schestopol,Maret,1196.19,M,9.0
+2024,66,Milo Harris,Washington Latin,1197.64,M,11.0
+2024,67,Benjamin Beeson,Maret,1202.02,M,11.0
+2024,68,Stephen Orzechowski,BASIS DC,1202.95,M,9.0
+2024,69,Bobby Lyons,DC International,1203.72,M,11.0
+2024,70,Zachary Robertson,DC International,1222.22,M,9.0
+2024,71,Josh Goodglick,Field,1226.74,M,12.0
+2024,72,Jack Pearson,Washington Latin,1228.08,M,12.0
+2024,73,Nicholas Premysler,BASIS DC,1240.73,M,11.0
+2024,74,Isaac Weissman,Edmund Burke,1263.53,M,10.0
+2024,75,Isaac Harder,Maret,1263.86,M,10.0
+2024,76,Erik Perdomo,Bell Multicultural,1271.52,M,12.0
+2024,77,Jayson Ingram,McKinley Technology,1278.68,M,9.0
+2024,78,Felix Pezalla-Werth,Edmund Burke,1278.83,M,10.0
+2024,79,Camden Branch,Archbishop Carroll,1288.73,M,12.0
+2024,80,Manny Capellan,DC International,1296.86,M,9.0
+2024,81,Colonius Gwaltney,KIPP DC College Prep,1307.14,M,11.0
+2024,82,Patrick Kirshbaum,Maret,1321.13,M,10.0
+2024,83,Ibrahim Buriah,Roosevelt,1324.13,M,12.0
+2024,84,Luke Shih,DC International,1325.6,M,10.0
+2024,85,Wade Romhilt,Field,1336.38,M,10.0
+2024,86,Elijah Riggs,Field,1345.78,M,10.0
+2024,87,Ethan Kozolchyk,BASIS DC,1363.22,M,9.0
+2024,88,Chatman Nichols,Washington Latin,1369.78,M,10.0
+2024,89,William Buck,St. Jerome Institute,1372.83,M,9.0
+2024,90,Theodore Cofield,KIPP DC College Prep,1377.8,M,10.0
+2024,91,Simeon Ellis,Bell Multicultural,1416.79,M,12.0
+2024,92,Jonah Levine,Field,1524.11,M,9.0
+2024,93,Kiduse Alemsah,Bell Multicultural,1541.47,M,11.0
+2024,94,Daniel Cruz-Rodezno,Bell Multicultural,1645.94,M,12.0
+2024,95,Mazin Brake,Bell Multicultural,1658.33,M,10.0
+2024,96,Robert Carroll,Friendship Tech Prep,1818.58,M,10.0
+2024,97,Donell Gray III,Friendship Tech Prep,2057.43,M,11.0
+2024,98,Zachery Harper,Friendship Tech Prep,2219.36,M,10.0
+2025,1,Anthony Sarro,Gonzaga College,916.76,M,12.0
+2025,2,Karil Arnold,St. John's College,921.8,M,12.0
+2025,3,Charlie Palmore,St. Albans,937.28,M,12.0
+2025,4,Cillian Lyster,Washington Latin,941.88,M,12.0
+2025,5,Arjun Bhat,Jackson-Reed,945.11,M,11.0
+2025,6,Ian Rosenberg,St. John's College,956.99,M,11.0
+2025,7,Oliver Wolin,Georgetown Day,957.65,M,12.0
+2025,8,Caleb Rock,St. John's College,968.16,M,12.0
+2025,9,Rafi Hume,St. Albans,969.57,M,11.0
+2025,10,Thomas Power,St. Albans,975.25,M,11.0
+2025,11,Kai Rock,Gonzaga College,979.49,M,12.0
+2025,12,Ian Catanzano,Gonzaga College,988.8,M,12.0
+2025,13,Keller Kulik,St. John's College,992.68,M,12.0
+2025,14,Oliver Gruner,St. John's College,993.85,M,10.0
+2025,15,Edward Fritz,Gonzaga College,994.01,M,12.0
+2025,16,Indiana Owings,St. John's College,1005.54,M,10.0
+2025,17,Jennings Davis,Gonzaga College,1008.8,M,11.0
+2025,18,Lars Kearney,School Without Walls,1013.26,M,10.0
+2025,19,Simon Kessler,Georgetown Day,1013.46,M,12.0
+2025,20,Christopher Dunlop,DC International,1014.3,M,12.0
+2025,21,Ryan Fochler,BASIS DC,1019.49,M,12.0
+2025,22,Humphrey Wolfe,St. Albans,1028.5,M,12.0
+2025,23,Gavin Solomon,Georgetown Day,1032.3,M,10.0
+2025,24,Noah Shea,St. John's College,1036.81,M,12.0
+2025,25,Henry Macauley,Maret,1048.19,M,12.0
+2025,26,Jack Laws,Field,1057.66,M,10.0
+2025,27,Willem Cohn,St. Albans,1058.38,M,12.0
+2025,28,Rafae Niazi,Sidwell Friends,1058.41,M,10.0
+2025,29,Declan Musselman,Gonzaga College,1063.54,M,11.0
+2025,30,Brendan Fochler,BASIS DC,1068.25,M,9.0
+2025,31,Parker Medlin,Sidwell Friends,1075.43,M,12.0
+2025,32,Amika Bibolov,Sidwell Friends,1078.75,M,11.0
+2025,33,Reylouson Vilmenay,Coolidge,1079.07,M,12.0
+2025,34,Sorya Chung,Sidwell Friends,1079.97,M,11.0
+2025,35,Miguel Souto Learman,BASIS DC,1079.97,M,9.0
+2025,36,John Widor,Maret,1081.05,M,12.0
+2025,37,Wanja Koch,Banneker,1088.26,M,11.0
+2025,38,Santiago Gonzalez-Winth,BASIS DC,1089.85,M,12.0
+2025,39,Andrew Kim,Sidwell Friends,1090.43,M,10.0
+2025,40,Holden Consentino,School Without Walls,1091.72,M,9.0
+2025,41,Liam Young,School Without Walls,1092.99,M,12.0
+2025,42,Malcolm Laskowski,School Without Walls,1094.02,M,11.0
+2025,43,Noah Kolker,Georgetown Day,1095.42,M,12.0
+2025,44,Samuel Schauer,School Without Walls,1096.34,M,10.0
+2025,45,Dean Rubin,BASIS DC,1098.17,M,11.0
+2025,46,Noah Rowe,Banneker,1099.39,M,10.0
+2025,47,Colin Olsen,BASIS DC,1102.76,M,9.0
+2025,48,Leo Johnson-Goldfrank,Georgetown Day,1104.2,M,12.0
+2025,49,Ben Altschuler,Georgetown Day,1106.03,M,10.0
+2025,50,William Cantrell,St. Albans,1107.14,M,12.0
+2025,51,Arlo McWhorter,MacArthur,1108.19,M,12.0
+2025,52,Charlie Smith,Field,1110.19,M,11.0
+2025,53,Tyler Mitroff,Sidwell Friends,1120.38,M,11.0
+2025,54,Teigan Hellman,Sidwell Friends,1120.4,M,11.0
+2025,55,Oliver Malkin,Georgetown Day,1121.76,M,12.0
+2025,56,Brandon Elliot,BASIS DC,1126.49,M,12.0
+2025,57,Peter Clausen,Washington Latin,1143.39,M,9.0
+2025,58,Sajan Torchia,School Without Walls,1147.23,M,10.0
+2025,59,Henry Hall,St. Albans,1151.49,M,10.0
+2025,60,Ruark Jennings,Washington Latin,1159.12,M,10.0
+2025,61,Owain Williams,DC International,1169.02,M,9.0
+2025,62,Benjamin Hitt,Washington Latin,1179.27,M,10.0
+2025,63,Zachary Robertson,DC International,1195.92,M,10.0
+2025,64,Arijua McCarter,Eastern,1198.27,M,12.0
+2025,65,Milo Harris,Washington Latin,1199.51,M,12.0
+2025,66,Bobby Lyons,DC International,1201.5,M,10.0
+2025,67,Benjamin Beeson,Maret,1203.84,M,12.0
+2025,68,Frederick Tan,DC International,1205.27,M,9.0
+2025,69,Theodore Cofield,KIPP DC College Prep,1221.14,M,11.0
+2025,70,Luke Shih,DC International,1226.85,M,11.0
+2025,71,Isaac Harder,Maret,1228.13,M,11.0
+2025,72,Robert Edwards,Banneker,1228.32,M,9.0
+2025,73,Charles Appenzeller,MacArthur,1238.55,M,12.0
+2025,74,Jackson Trinca,Washington Latin,1245.27,M,12.0
+2025,75,Henry Stearns,Banneker,1255.61,M,9.0
+2025,76,Essohame Vianney Fawie,Roosevelt,1291.27,M,10.0
+2025,77,Lucas Miller,Edmund Burke,1298.96,M,11.0
+2025,78,Nathan Langley,KIPP DC College Prep,1302.93,M,11.0
+2025,79,Patrick Kirshbaum,Maret,1306.72,M,11.0
+2025,80,Javiel Duran,Washington Latin,1316.24,M,12.0
+2025,81,Ryan Banks,MacArthur,1328.91,M,10.0
+2025,82,Ulyses Stewart-Torres,MacArthur,1329.42,M,9.0
+2025,83,Earl Adams III,Field,1333.78,M,9.0
+2025,84,Will McAllister,Maret,1336.24,M,11.0
+2025,85,Wyatt Ross,Maret,1341.26,M,10.0
+2025,86,Javonte Broadwater,KIPP DC College Prep,1342.62,M,12.0
+2025,87,Rupert Pijpers,MacArthur,1346.77,M,10.0
+2025,88,Jack Herrmann,Banneker,1348.12,M,9.0
+2025,89,Felix Pezalla-Werth,Edmund Burke,1356.51,M,11.0
+2025,91,Jonah Levine,Field,1396.93,M,10.0
+2025,92,Markell Robinson,KIPP DC College Prep,1407.31,M,11.0
+2025,93,Thomas Kaliel,Field,1408.42,M,10.0
+2025,94,Benjamin Ellis,Bell Multicultural,1412.77,M,9.0
+2025,95,Micah Sager,Edmund Burke,1439.31,M,9.0
+2025,96,Jordan Mathis,Bell Multicultural,1452.64,M,9.0
+2025,97,Zachary Evans,KIPP DC College Prep,1461.03,M,9.0
+2025,98,Abdias Matos Jacinto,Roosevelt,1469.83,M,11.0
+2025,99,Bailey Feng,MacArthur,1498.85,M,10.0
+2025,100,Loren Davis,MacArthur,1507.03,M,10.0
+2025,101,Brando Rameriz-Deleon,Bell Multicultural,1554.23,M,9.0
+2025,102,Joel Maupin,KIPP DC College Prep,1584.13,M,11.0
+2025,103,Benjamin Levine,Edmund Burke,1715.92,M,10.0

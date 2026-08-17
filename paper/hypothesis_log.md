@@ -1,9 +1,7 @@
-# Hypothesis log
+# What I changed
 
-Do not change H1/H2 without a dated entry here.
-
-| Date | Change | Reason |
+| Date | Change | Why |
 | --- | --- | --- |
-| 2026-08-15 | Locked H1/H2 (Sprint 0) | DC boys DCSAA census; no classification system |
-| 2026-08-15 | Seasons extended to Kenilworth 2016–2025 (skip 2020); 2025 holdout | Increase N without leaving DC |
-| 2026-08-15 | Operationalize star/depth as **lagged** prior-year Kenilworth within-meet z | Avoid leakage; invitational scrape is incomplete |
+| 2026-08-15 | Locked the main comparison (fifth runner vs first runner) | DC boys championship only; DCSAA has no classifications |
+| 2026-08-15 | Kenilworth years 2016–2025, skip 2020; 2025 held out | More years without leaving DC |
+| 2026-08-15 | Star/depth = lagged prior championship within-meet z | Avoid using the same race as the outcome |

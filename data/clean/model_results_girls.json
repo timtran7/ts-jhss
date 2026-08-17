@@ -1,593 +1,901 @@
 {
   "controls": {
-    "n": 18,
-    "rsquared": 0.6581683473428432,
-    "rsquared_adj": 0.5849187074877382,
-    "aic": 72.01159331900561,
+    "n": 14,
+    "rsquared": 0.23960292293807872,
+    "rsquared_adj": 0.10134890892682025,
+    "aic": 56.18715998396092,
     "params": {
-      "Intercept": 28.476215624922215,
-      "C(sector)[T.private]": -7.354183037593841,
-      "C(sector)[T.public]": -0.16851913213542957,
-      "log_enrollment": -2.8203311026561835
+      "Intercept": 22.90207891014043,
+      "C(sector)[T.public]": 5.305134814726104,
+      "log_enrollment": -3.1045857524935747
     },
     "pvalues": {
-      "Intercept": 0.0006792977190933511,
-      "C(sector)[T.private]": 5.291642209843322e-44,
-      "C(sector)[T.public]": 0.9065513073341016,
-      "log_enrollment": 0.02748256530591156
+      "Intercept": 2.6077550266731905e-09,
+      "C(sector)[T.public]": 2.97389473427214e-17,
+      "log_enrollment": 1.089049367989012e-07
     },
     "bse": {
-      "Intercept": 8.380777513545507,
-      "C(sector)[T.private]": 0.5285886789317967,
-      "C(sector)[T.public]": 1.4355539159313426,
-      "log_enrollment": 1.2792970143740146
+      "Intercept": 3.8461424989977973,
+      "C(sector)[T.public]": 0.6280060636028614,
+      "log_enrollment": 0.5845355052292617
     },
     "ci_low": {
-      "Intercept": 12.050193535929878,
-      "C(sector)[T.private]": -8.390197810935769,
-      "C(sector)[T.public]": -2.9821531052263017,
-      "log_enrollment": -5.327707176358872
+      "Intercept": 15.363778132695865,
+      "C(sector)[T.public]": 4.074265547991725,
+      "log_enrollment": -4.250254290427852
     },
     "ci_high": {
-      "Intercept": 44.90223771391455,
-      "C(sector)[T.private]": -6.318168264251913,
-      "C(sector)[T.public]": 2.6451148409554426,
-      "log_enrollment": -0.31295502895349525
+      "Intercept": 30.440379687584993,
+      "C(sector)[T.public]": 6.536004081460483,
+      "log_enrollment": -1.9589172145592975
     }
   },
   "star": {
-    "n": 18,
-    "rsquared": 0.7125904247109536,
-    "rsquared_adj": 0.6241567092374007,
-    "aic": 70.89021184036415,
+    "n": 14,
+    "rsquared": 0.5348182096430497,
+    "rsquared_adj": 0.3952636725359646,
+    "aic": 51.307385117420424,
     "params": {
-      "Intercept": 23.942652432881722,
-      "C(sector)[T.private]": -1.6641657037619026,
-      "C(sector)[T.public]": 5.093765922715656,
-      "log_enrollment": -2.6749070150711987,
-      "lag_star_z": 2.2415929743203087
+      "Intercept": 23.33209359036562,
+      "C(sector)[T.public]": 5.340483065028116,
+      "log_enrollment": -2.7754737905311204,
+      "lag_star_z": 3.0059771939826376
     },
     "pvalues": {
-      "Intercept": 0.01711565318573732,
-      "C(sector)[T.private]": 0.6616214570809017,
-      "C(sector)[T.public]": 0.17473581591909415,
-      "log_enrollment": 0.0553866971172572,
-      "lag_star_z": 0.15361093495246056
+      "Intercept": 3.204573000943919e-23,
+      "C(sector)[T.public]": 3.7755759827304356e-31,
+      "log_enrollment": 9.063369696565879e-07,
+      "lag_star_z": 0.12163424445175652
     },
     "bse": {
-      "Intercept": 10.042158111895063,
-      "C(sector)[T.private]": 3.8022811653848847,
-      "C(sector)[T.public]": 3.753301142694316,
-      "log_enrollment": 1.3962129044477847,
-      "lag_star_z": 1.5709615528015057
+      "Intercept": 2.350573420838779,
+      "C(sector)[T.public]": 0.46008959333845006,
+      "log_enrollment": 0.5651596394138092,
+      "lag_star_z": 1.9419079833268498
     },
     "ci_low": {
-      "Intercept": 4.2603842065106505,
-      "C(sector)[T.private]": -9.116499847011262,
-      "C(sector)[T.public]": -2.2625691400982335,
-      "log_enrollment": -5.41143402253892,
-      "lag_star_z": -0.837435090267761
+      "Intercept": 18.7250543425045,
+      "C(sector)[T.public]": 4.438724032423075,
+      "log_enrollment": -3.88316632929783,
+      "lag_star_z": -0.8000925146287958
     },
     "ci_high": {
-      "Intercept": 43.624920659252794,
-      "C(sector)[T.private]": 5.788168439487456,
-      "C(sector)[T.public]": 12.450100985529545,
-      "log_enrollment": 0.06161999239652305,
-      "lag_star_z": 5.320621038908378
+      "Intercept": 27.93913283822674,
+      "C(sector)[T.public]": 6.242242097633158,
+      "log_enrollment": -1.6677812517644108,
+      "lag_star_z": 6.812046902594071
     }
   },
   "depth": {
-    "n": 18,
-    "rsquared": 0.7005156783567241,
-    "rsquared_adj": 0.6083666563126393,
-    "aic": 71.63097983927318,
+    "n": 14,
+    "rsquared": 0.3191289815677021,
+    "rsquared_adj": 0.11486767603801273,
+    "aic": 56.64060968224354,
     "params": {
-      "Intercept": 17.72077348692068,
-      "C(sector)[T.private]": -3.532012940818162,
-      "C(sector)[T.public]": 1.727700245059161,
-      "log_enrollment": -1.690744597890102,
-      "lag_depth_z": 1.2165730246477076
+      "Intercept": 19.158602193659878,
+      "C(sector)[T.public]": 4.533744134069028,
+      "log_enrollment": -2.4935627140493537,
+      "lag_depth_z": 1.2089279706594782
     },
     "pvalues": {
-      "Intercept": 0.1313935509389716,
-      "C(sector)[T.private]": 0.29942946156218786,
-      "C(sector)[T.public]": 0.39785323161877306,
-      "log_enrollment": 0.22354252723535362,
-      "lag_depth_z": 0.2920800433728683
+      "Intercept": 0.0231198550500014,
+      "C(sector)[T.public]": 0.0038657330403523683,
+      "log_enrollment": 0.06269547444532014,
+      "lag_depth_z": 0.5057446087812132
     },
     "bse": {
-      "Intercept": 11.746274508650348,
-      "C(sector)[T.private]": 3.4038325584566014,
-      "C(sector)[T.public]": 2.0434996611905207,
-      "log_enrollment": 1.3890873908107355,
-      "lag_depth_z": 1.1547154550749403
+      "Intercept": 8.43453158658604,
+      "C(sector)[T.public]": 1.5693586745316945,
+      "log_enrollment": 1.3396563965702053,
+      "lag_depth_z": 1.8166301487684784
     },
     "ci_low": {
-      "Intercept": -5.30150150255492,
-      "C(sector)[T.private]": -10.203402164797929,
-      "C(sector)[T.public]": -2.277485493294063,
-      "log_enrollment": -4.413305855257859,
-      "lag_depth_z": -1.0466276796909544
+      "Intercept": 2.6272240574857584,
+      "C(sector)[T.public]": 1.4578576531613905,
+      "log_enrollment": -5.119241002985664,
+      "lag_depth_z": -2.35160169415638
     },
     "ci_high": {
-      "Intercept": 40.74304847639628,
-      "C(sector)[T.private]": 3.1393762831616048,
-      "C(sector)[T.public]": 5.732885983412385,
-      "log_enrollment": 1.0318166594776543,
-      "lag_depth_z": 3.4797737289863697
+      "Intercept": 35.689980329834,
+      "C(sector)[T.public]": 7.609630614976666,
+      "log_enrollment": 0.13211557488695647,
+      "lag_depth_z": 4.769457635475336
     }
   },
   "pack_gap": {
-    "n": 18,
-    "rsquared": 0.6648677207723496,
-    "rsquared_adj": 0.5617500963946109,
-    "aic": 73.65531833035169,
+    "n": 14,
+    "rsquared": 0.2997607780591248,
+    "rsquared_adj": 0.08968901147686226,
+    "aic": 57.03329756281772,
     "params": {
-      "Intercept": 24.138459045675326,
-      "C(sector)[T.private]": -6.9703226659849635,
-      "C(sector)[T.public]": -0.6704177001786942,
-      "log_enrollment": -2.2708993882541257,
-      "lag_pack_gap": 0.6361936433238928
+      "Intercept": 28.91205108715248,
+      "C(sector)[T.public]": 6.5106944966878135,
+      "log_enrollment": -3.8391214187264104,
+      "lag_pack_gap": -1.8551707066799994
     },
     "pvalues": {
-      "Intercept": 0.016774348529486706,
-      "C(sector)[T.private]": 4.94433556391664e-18,
-      "C(sector)[T.public]": 0.6304147249856593,
-      "log_enrollment": 0.09806749709244492,
-      "lag_pack_gap": 0.640937411378645
+      "Intercept": 0.00012390432831855313,
+      "C(sector)[T.public]": 1.4671618280687782e-05,
+      "log_enrollment": 0.00012210284985564264,
+      "lag_pack_gap": 0.3331215715523417
     },
     "bse": {
-      "Intercept": 10.092946188408622,
-      "C(sector)[T.private]": 0.8053848473469155,
-      "C(sector)[T.public]": 1.3933849568316918,
-      "log_enrollment": 1.3727290301916844,
-      "lag_pack_gap": 1.364085061664841
+      "Intercept": 7.532574060534973,
+      "C(sector)[T.public]": 1.5023888090789719,
+      "log_enrollment": 0.9992857981610929,
+      "lag_pack_gap": 1.91680474033772
     },
     "ci_low": {
-      "Intercept": 4.356648018493612,
-      "C(sector)[T.private]": -8.548847960479208,
-      "C(sector)[T.public]": -3.401402032168708,
-      "log_enrollment": -4.961398847962423,
-      "lag_pack_gap": -2.0373639493882942
+      "Intercept": 14.1484772176233,
+      "C(sector)[T.public]": 3.566066540117005,
+      "log_enrollment": -5.797685593384514,
+      "lag_pack_gap": -5.61203896313758
     },
     "ci_high": {
-      "Intercept": 43.920270072857036,
-      "C(sector)[T.private]": -5.3917973714907195,
-      "C(sector)[T.public]": 2.06056663181132,
-      "log_enrollment": 0.4196000714541719,
-      "lag_pack_gap": 3.30975123603608
-    }
-  },
-  "star_gap": {
-    "n": 18,
-    "rsquared": 0.7176623569592309,
-    "rsquared_adj": 0.6000216723589104,
-    "aic": 72.56972868833847,
-    "params": {
-      "Intercept": 20.22797447311512,
-      "C(sector)[T.private]": -1.4096268003391907,
-      "C(sector)[T.public]": 4.582791659052102,
-      "log_enrollment": -2.1983814196376796,
-      "lag_star_z": 2.2101513938762847,
-      "lag_pack_gap": 0.554136653686002
-    },
-    "pvalues": {
-      "Intercept": 0.08292260808021136,
-      "C(sector)[T.private]": 0.7452476416095521,
-      "C(sector)[T.public]": 0.1791802415954189,
-      "log_enrollment": 0.10464087773960243,
-      "lag_star_z": 0.17696279916679636,
-      "lag_pack_gap": 0.7200215014139957
-    },
-    "bse": {
-      "Intercept": 11.665670108191943,
-      "C(sector)[T.private]": 4.33848737995782,
-      "C(sector)[T.public]": 3.41163438205543,
-      "log_enrollment": 1.354718147749297,
-      "lag_star_z": 1.6369481144097415,
-      "lag_pack_gap": 1.5460105605002301
-    },
-    "ci_low": {
-      "Intercept": -2.6363187944665647,
-      "C(sector)[T.private]": -9.912905812438058,
-      "C(sector)[T.public]": -2.103888858195103,
-      "log_enrollment": -4.853580198429114,
-      "lag_star_z": -0.9982079549275604,
-      "lag_pack_gap": -2.4759883646130314
-    },
-    "ci_high": {
-      "Intercept": 43.0922677406968,
-      "C(sector)[T.private]": 7.093652211759676,
-      "C(sector)[T.public]": 11.269472176299306,
-      "log_enrollment": 0.4568173591537543,
-      "lag_star_z": 5.41851074268013,
-      "lag_pack_gap": 3.5842616719850353
+      "Intercept": 43.67562495668166,
+      "C(sector)[T.public]": 9.455322453258622,
+      "log_enrollment": -1.8805572440683067,
+      "lag_pack_gap": 1.9016975497775819
     }
   },
   "both": {
-    "n": 18,
-    "rsquared": 0.7176623569592309,
-    "rsquared_adj": 0.6000216723589104,
-    "aic": 72.56972868833847,
+    "n": 14,
+    "rsquared": 0.6217899721740255,
+    "rsquared_adj": 0.45369662647359243,
+    "aic": 50.40968463751428,
     "params": {
-      "Intercept": 20.227974473115097,
-      "C(sector)[T.private]": -1.409626800339197,
-      "C(sector)[T.public]": 4.58279165905209,
-      "log_enrollment": -2.1983814196376956,
-      "lag_star_z": 1.656014740190278,
-      "lag_depth_z": 0.5541366536860071
+      "Intercept": 30.60820425491735,
+      "C(sector)[T.public]": 6.797546979849875,
+      "log_enrollment": -3.6462045451452347,
+      "lag_star_z": 5.391641365463323,
+      "lag_depth_z": -2.2395529956987588
     },
     "pvalues": {
-      "Intercept": 0.08292260808022898,
-      "C(sector)[T.private]": 0.7452476416095323,
-      "C(sector)[T.public]": 0.17918024159539103,
-      "log_enrollment": 0.1046408777396453,
-      "lag_star_z": 0.37616462051460275,
-      "lag_depth_z": 0.7200215014140084
+      "Intercept": 0.00020205089579294295,
+      "C(sector)[T.public]": 3.468117969232443e-05,
+      "log_enrollment": 0.0027318507524326805,
+      "lag_star_z": 0.0037651289906184483,
+      "lag_depth_z": 0.3504450677864406
     },
     "bse": {
-      "Intercept": 11.6656701081926,
-      "C(sector)[T.private]": 4.3384873799574875,
-      "C(sector)[T.public]": 3.411634382055202,
-      "log_enrollment": 1.3547181477494745,
-      "lag_star_z": 1.871234415983669,
-      "lag_depth_z": 1.5460105605003178
+      "Intercept": 8.235897165239825,
+      "C(sector)[T.public]": 1.6417900703826203,
+      "log_enrollment": 1.2168605035101796,
+      "lag_star_z": 1.8609852313356372,
+      "lag_depth_z": 2.398511072778708
     },
     "ci_low": {
-      "Intercept": -2.6363187944678756,
-      "C(sector)[T.private]": -9.912905812437414,
-      "C(sector)[T.public]": -2.1038888581946695,
-      "log_enrollment": -4.853580198429477,
-      "lag_star_z": -2.0115373217695547,
-      "lag_depth_z": -2.4759883646131984
+      "Intercept": 14.466142430671766,
+      "C(sector)[T.public]": 3.5796975717244583,
+      "log_enrollment": -6.031207306234463,
+      "lag_star_z": 1.7441773362845328,
+      "lag_depth_z": -6.940548314865555
     },
     "ci_high": {
-      "Intercept": 43.09226774069807,
-      "C(sector)[T.private]": 7.09365221175902,
-      "C(sector)[T.public]": 11.269472176298848,
-      "log_enrollment": 0.45681735915408606,
-      "lag_star_z": 5.32356680215011,
-      "lag_depth_z": 3.584261671985212
+      "Intercept": 46.750266079162934,
+      "C(sector)[T.public]": 10.01539638797529,
+      "log_enrollment": -1.2612017840560066,
+      "lag_star_z": 9.039105394642112,
+      "lag_depth_z": 2.461442323468037
     }
   },
   "wcac": {
-    "n": 18,
-    "rsquared": 0.8209582505842096,
-    "rsquared_adj": 0.7232991145392329,
-    "aic": 66.37100490068414,
+    "n": 14,
+    "rsquared": 0.6920690858495888,
+    "rsquared_adj": 0.4996122645055818,
+    "aic": 49.531645594235634,
     "params": {
-      "Intercept": 103.64113590035451,
-      "C(sector)[T.private]": -6.151089812414651,
-      "C(sector)[T.public]": 19.054625203324147,
-      "log_enrollment": -14.624436264929942,
-      "lag_star_z": 4.305890445413413,
-      "lag_depth_z": -1.7090791451758385,
-      "wcac": 10.109244694620696
+      "Intercept": -100.63859124337557,
+      "C(sector)[T.public]": -22.750288854406563,
+      "log_enrollment": 17.56734594948647,
+      "lag_star_z": 5.463192398494226,
+      "lag_depth_z": -2.3744035205502354,
+      "wcac": -17.465168810835852
     },
     "pvalues": {
-      "Intercept": 0.009409391747991052,
-      "C(sector)[T.private]": 0.17244340250710788,
-      "C(sector)[T.public]": 0.0001893964655896148,
-      "log_enrollment": 0.009415554078239604,
-      "lag_star_z": 0.0025642658594328682,
-      "lag_depth_z": 0.36427057170386445,
-      "wcac": 0.00965666342934253
+      "Intercept": 0.03773685253316055,
+      "C(sector)[T.public]": 0.03681013974047219,
+      "log_enrollment": 0.025452034032630796,
+      "lag_star_z": 0.0020195499097620737,
+      "lag_depth_z": 0.343157674057198,
+      "wcac": 0.007547627385432658
     },
     "bse": {
-      "Intercept": 39.91094083347141,
-      "C(sector)[T.private]": 4.508292362582539,
-      "C(sector)[T.public]": 5.104707636544481,
-      "log_enrollment": 5.632180313424586,
-      "lag_star_z": 1.4278468170535217,
-      "lag_depth_z": 1.8837859048351573,
-      "wcac": 3.9063701113692995
+      "Intercept": 48.43746172884167,
+      "C(sector)[T.public]": 10.896443984417836,
+      "log_enrollment": 7.861967429870671,
+      "lag_star_z": 1.7695454909960924,
+      "lag_depth_z": 2.5047915234140374,
+      "wcac": 6.5371886263248005
     },
     "ci_low": {
-      "Intercept": 25.41712927764155,
-      "C(sector)[T.private]": -14.987180474853417,
-      "C(sector)[T.public]": 9.049582084090384,
-      "log_enrollment": -25.663306833677645,
-      "lag_star_z": 1.5073621085483588,
-      "lag_depth_z": -5.4012316732369445,
-      "wcac": 2.452899966053149
+      "Intercept": -195.57427173444245,
+      "C(sector)[T.public]": -44.10692662342365,
+      "log_enrollment": 2.1581729393130207,
+      "lag_star_z": 1.9949469671366389,
+      "lag_depth_z": -7.283704695222964,
+      "wcac": -30.27782307857733
     },
     "ci_high": {
-      "Intercept": 181.86514252306748,
-      "C(sector)[T.private]": 2.6850008500241165,
-      "C(sector)[T.public]": 29.05966832255791,
-      "log_enrollment": -3.5855656961822397,
-      "lag_star_z": 7.104418782278467,
-      "lag_depth_z": 1.9830733828852676,
-      "wcac": 17.765589423188242
+      "Intercept": -5.702910752308682,
+      "C(sector)[T.public]": -1.3936510853894788,
+      "log_enrollment": 32.97651895965992,
+      "lag_star_z": 8.931437829851813,
+      "lag_depth_z": 2.5348976541224935,
+      "wcac": -4.652514543094373
     }
   },
   "score_controls": {
-    "n": 18,
-    "rsquared": 0.7269029889037254,
-    "rsquared_adj": 0.6683822008116667,
-    "aic": 183.88664307328938,
+    "n": 14,
+    "rsquared": 0.30321488125828233,
+    "rsquared_adj": 0.1765266778506973,
+    "aic": 139.53572007075894,
     "params": {
-      "Intercept": 713.1914313587051,
-      "C(sector)[T.private]": -211.51099759253185,
-      "C(sector)[T.public]": -49.31196892066933,
-      "log_enrollment": -65.66725018734711
+      "Intercept": 398.55238436150034,
+      "C(sector)[T.public]": 104.41575223045099,
+      "log_enrollment": -50.3309447279683
     },
     "pvalues": {
-      "Intercept": 0.0009374493199942938,
-      "C(sector)[T.private]": 5.938741626711848e-58,
-      "C(sector)[T.public]": 0.18169388934636643,
-      "log_enrollment": 0.04596058051666061
+      "Intercept": 3.985678995902795e-06,
+      "C(sector)[T.public]": 2.3995617793808905e-21,
+      "log_enrollment": 7.626350360901809e-05
     },
     "bse": {
-      "Intercept": 215.55321088602304,
-      "C(sector)[T.private]": 13.180200252776912,
-      "C(sector)[T.public]": 36.9223804687395,
-      "log_enrollment": 32.90346017174974
+      "Intercept": 86.4139949968168,
+      "C(sector)[T.public]": 11.007295766755876,
+      "log_enrollment": 12.723173189648742
     },
     "ci_low": {
-      "Intercept": 290.7149012701329,
-      "C(sector)[T.private]": -237.34371539700032,
-      "C(sector)[T.public]": -121.67850486288387,
-      "log_enrollment": -130.1568470907247
+      "Intercept": 229.184066407515,
+      "C(sector)[T.public]": 82.84184896042927,
+      "log_enrollment": -75.26790594874544
     },
     "ci_high": {
-      "Intercept": 1135.6679614472773,
-      "C(sector)[T.private]": -185.67827978806338,
-      "C(sector)[T.public]": 23.05456702154521,
-      "log_enrollment": -1.177653283969505
+      "Intercept": 567.9207023154856,
+      "C(sector)[T.public]": 125.98965550047271,
+      "log_enrollment": -25.393983507191162
     }
   },
   "score_star": {
-    "n": 18,
-    "rsquared": 0.7670086499243751,
-    "rsquared_adj": 0.6953190037472597,
-    "aic": 183.02777947742564,
+    "n": 14,
+    "rsquared": 0.5784673132440332,
+    "rsquared_adj": 0.45200750721724314,
+    "aic": 134.49960363159386,
     "params": {
-      "Intercept": 615.7971089323959,
-      "C(sector)[T.private]": -89.27262584214502,
-      "C(sector)[T.public]": 63.73745062445414,
-      "log_enrollment": -62.543111430514415,
-      "lag_star_z": 48.15603525121254
+      "Intercept": 407.0643430112028,
+      "C(sector)[T.public]": 105.11545588882957,
+      "log_enrollment": -43.81631269289492,
+      "lag_star_z": 59.50204668298653
     },
     "pvalues": {
-      "Intercept": 0.017011344696008884,
-      "C(sector)[T.private]": 0.3871158818401548,
-      "C(sector)[T.public]": 0.5234655412041634,
-      "log_enrollment": 0.08064470896336233,
-      "lag_star_z": 0.24883108916468832
+      "Intercept": 1.0308593027771753e-13,
+      "C(sector)[T.public]": 1.0691744542151968e-50,
+      "log_enrollment": 0.00013516408196183089,
+      "lag_star_z": 0.16131992738851297
     },
     "bse": {
-      "Intercept": 258.03762804506476,
-      "C(sector)[T.private]": 103.22210804141459,
-      "C(sector)[T.public]": 99.90000246451183,
-      "log_enrollment": 35.80116351326083,
-      "lag_star_z": 41.758861188122225
+      "Intercept": 54.735854145327394,
+      "C(sector)[T.public]": 7.019381368418852,
+      "log_enrollment": 11.479693063911247,
+      "lag_star_z": 42.481856464685755
     },
     "ci_low": {
-      "Intercept": 110.05265130792634,
-      "C(sector)[T.private]": -291.5842400116199,
-      "C(sector)[T.public]": -132.0629562614517,
-      "log_enrollment": -132.7121025211351,
-      "lag_star_z": -33.689828712914505
+      "Intercept": 299.7840402233237,
+      "C(sector)[T.public]": 91.35772121297714,
+      "log_enrollment": -66.31609765173522,
+      "lag_star_z": -23.760861984197618
     },
     "ci_high": {
-      "Intercept": 1121.5415665568653,
-      "C(sector)[T.private]": 113.03898832732988,
-      "C(sector)[T.public]": 259.53785751035997,
-      "log_enrollment": 7.625879660106278,
-      "lag_star_z": 130.0018992153396
+      "Intercept": 514.344645799082,
+      "C(sector)[T.public]": 118.873190564682,
+      "log_enrollment": -21.31652773405461,
+      "lag_star_z": 142.76495535017068
     }
   },
   "score_depth": {
-    "n": 18,
-    "rsquared": 0.7683238075977316,
-    "rsquared_adj": 0.6970388253201105,
-    "aic": 182.92588769816962,
+    "n": 14,
+    "rsquared": 0.42433162896161236,
+    "rsquared_adj": 0.25163111765009605,
+    "aic": 138.862485610729,
     "params": {
-      "Intercept": 446.9943613698733,
-      "C(sector)[T.private]": -116.91233138189597,
-      "C(sector)[T.public]": -2.380561007480736,
-      "log_enrollment": -37.70999710472037,
-      "lag_depth_z": 30.11016845550569
+      "Intercept": 303.8474584564289,
+      "C(sector)[T.public]": 84.90060553971004,
+      "log_enrollment": -34.872883688776,
+      "lag_depth_z": 30.5842516348049
     },
     "pvalues": {
-      "Intercept": 0.12794644425480575,
-      "C(sector)[T.private]": 0.17995268316486457,
-      "C(sector)[T.public]": 0.9640666052704987,
-      "log_enrollment": 0.2787114748237699,
-      "lag_depth_z": 0.30167165087021464
+      "Intercept": 0.08213702597820446,
+      "C(sector)[T.public]": 0.007488593029929187,
+      "log_enrollment": 0.2072900363498359,
+      "lag_depth_z": 0.4391659578185775
     },
     "bse": {
-      "Intercept": 293.6405671226469,
-      "C(sector)[T.private]": 87.189400544073,
-      "C(sector)[T.public]": 52.8413910280597,
-      "log_enrollment": 34.812920055599925,
-      "lag_depth_z": 29.152360817295136
+      "Intercept": 174.7837967216642,
+      "C(sector)[T.public]": 31.746878392673878,
+      "log_enrollment": 27.65379843264989,
+      "lag_depth_z": 39.534846320692864
     },
     "ci_low": {
-      "Intercept": -128.53057459043094,
-      "C(sector)[T.private]": -287.800416281916,
-      "C(sector)[T.public]": -105.94778431547569,
-      "log_enrollment": -105.94206661036836,
-      "lag_depth_z": -27.027408810709435
+      "Intercept": -38.72248819920287,
+      "C(sector)[T.public]": 22.6778672684964,
+      "log_enrollment": -89.07333265249997,
+      "lag_depth_z": -46.902623288078985
     },
     "ci_high": {
-      "Intercept": 1022.5192973301776,
-      "C(sector)[T.private]": 53.975753518124094,
-      "C(sector)[T.public]": 101.18666230051421,
-      "log_enrollment": 30.522072400927613,
-      "lag_depth_z": 87.24774572172082
+      "Intercept": 646.4174051120607,
+      "C(sector)[T.public]": 147.1233438109237,
+      "log_enrollment": 19.32756527494798,
+      "lag_depth_z": 108.07112655768879
     }
   },
   "score_pack_gap": {
-    "n": 18,
-    "rsquared": 0.7380512046714589,
-    "rsquared_adj": 0.6574515753396001,
-    "aic": 185.13643840584837,
+    "n": 14,
+    "rsquared": 0.31387354678412793,
+    "rsquared_adj": 0.1080356108193663,
+    "aic": 141.31990833661482,
     "params": {
-      "Intercept": 573.1587347753423,
-      "C(sector)[T.private]": -199.11910746087875,
-      "C(sector)[T.public]": -65.51440181666851,
-      "log_enrollment": -47.93033868700239,
-      "lag_pack_gap": 20.5377848655827
+      "Intercept": 450.4118178747942,
+      "C(sector)[T.public]": 114.81840308000683,
+      "log_enrollment": -56.66917765554286,
+      "lag_pack_gap": -16.008077755646685
     },
     "pvalues": {
-      "Intercept": 0.018282291431661143,
-      "C(sector)[T.private]": 5.76321211387841e-25,
-      "C(sector)[T.public]": 0.05192732360859678,
-      "log_enrollment": 0.14787375838643113,
-      "lag_pack_gap": 0.5250232953562335
+      "Intercept": 0.0017572915379108647,
+      "C(sector)[T.public]": 2.1047259413194285e-05,
+      "log_enrollment": 0.00345576877496286,
+      "lag_pack_gap": 0.6315930455342025
     },
     "bse": {
-      "Intercept": 242.87923623762526,
-      "C(sector)[T.private]": 19.295765642505668,
-      "C(sector)[T.public]": 33.70540536591635,
-      "log_enrollment": 33.12204490876084,
-      "lag_pack_gap": 32.311355011137444
+      "Intercept": 143.97270078088536,
+      "C(sector)[T.public]": 26.993983761295304,
+      "log_enrollment": 19.380776138551273,
+      "lag_pack_gap": 33.385924485695625
     },
     "ci_low": {
-      "Intercept": 97.12417915700121,
-      "C(sector)[T.private]": -236.93811317431522,
-      "C(sector)[T.public]": -131.57578241818763,
-      "log_enrollment": -112.8483538024919,
-      "lag_pack_gap": -42.79130724793448
+      "Intercept": 168.2305095872972,
+      "C(sector)[T.public]": 61.91116710860897,
+      "log_enrollment": -94.65480087953662,
+      "lag_pack_gap": -81.44328733818404
     },
     "ci_high": {
-      "Intercept": 1049.1932903936834,
-      "C(sector)[T.private]": -161.30010174744228,
-      "C(sector)[T.public]": 0.5469787848506087,
-      "log_enrollment": 16.98767642848712,
-      "lag_pack_gap": 83.86687697909989
+      "Intercept": 732.5931261622912,
+      "C(sector)[T.public]": 167.7256390514047,
+      "log_enrollment": -18.683554431549105,
+      "lag_pack_gap": 49.42713182689067
     }
   },
   "score_both": {
-    "n": 18,
-    "rsquared": 0.776319964984662,
-    "rsquared_adj": 0.6831199503949379,
-    "aic": 184.2936546407239,
+    "n": 14,
+    "rsquared": 0.601158902211586,
+    "rsquared_adj": 0.423896192083402,
+    "aic": 135.72492431814112,
     "params": {
-      "Intercept": 489.841171823494,
-      "C(sector)[T.private]": -80.6418141113501,
-      "C(sector)[T.public]": 46.41152280100462,
-      "log_enrollment": -46.38525640800918,
-      "lag_star_z": 28.300463374112955,
-      "lag_depth_z": 18.78946230531301
+      "Intercept": 483.2534136177384,
+      "C(sector)[T.public]": 120.37255554035467,
+      "log_enrollment": -52.93384402261713,
+      "lag_star_z": 84.48263650413193,
+      "lag_depth_z": -23.45064130864015
     },
     "pvalues": {
-      "Intercept": 0.08223898281800036,
-      "C(sector)[T.private]": 0.4851738327863565,
-      "C(sector)[T.public]": 0.6209741498892016,
-      "log_enrollment": 0.15611899555060085,
-      "lag_star_z": 0.5574073323299847,
-      "lag_depth_z": 0.6010278890029473
+      "Intercept": 0.001548045208303333,
+      "C(sector)[T.public]": 3.655500344216237e-05,
+      "log_enrollment": 0.02349982629038507,
+      "lag_star_z": 0.01852820704562902,
+      "lag_depth_z": 0.5820952488609328
     },
     "bse": {
-      "Intercept": 281.8677944107443,
-      "C(sector)[T.private]": 115.53179534946051,
-      "C(sector)[T.public]": 93.86111271451162,
-      "log_enrollment": 32.70607554475771,
-      "lag_star_z": 48.23694552271325,
-      "lag_depth_z": 35.931609289416656
+      "Intercept": 152.66148493637456,
+      "C(sector)[T.public]": 29.158321129620553,
+      "log_enrollment": 23.36818910707155,
+      "lag_star_z": 35.875412057693296,
+      "lag_depth_z": 42.612210617445065
     },
     "ci_low": {
-      "Intercept": -62.6095536233052,
-      "C(sector)[T.private]": -307.0799720655448,
-      "C(sector)[T.public]": -137.5528776682927,
-      "log_enrollment": -110.48798655138052,
-      "lag_star_z": -66.24221257462563,
-      "lag_depth_z": -51.63519780850848
+      "Intercept": 184.04240131604024,
+      "C(sector)[T.public]": 63.223296276645115,
+      "log_enrollment": -98.73465305639857,
+      "lag_star_z": 14.168120940519074,
+      "lag_depth_z": -106.96903942046777
     },
     "ci_high": {
-      "Intercept": 1042.2918972702932,
-      "C(sector)[T.private]": 145.7963438428446,
-      "C(sector)[T.public]": 230.37592327030194,
-      "log_enrollment": 17.717473735362155,
-      "lag_star_z": 122.84313932285153,
-      "lag_depth_z": 89.2141224191345
+      "Intercept": 782.4644259194365,
+      "C(sector)[T.public]": 177.5218148040642,
+      "log_enrollment": -7.133034988835682,
+      "lag_star_z": 154.79715206774478,
+      "lag_depth_z": 60.06775680318747
     }
   },
   "delta_aic": {
-    "controls": 5.640588418321471,
-    "star": 4.519206939680004,
-    "depth": 5.259974938589039,
-    "pack_gap": 7.284313429667549,
-    "star_gap": 6.19872378765433,
-    "both": 6.19872378765433,
+    "controls": 6.655514389725283,
+    "star": 1.7757395231847894,
+    "depth": 7.108964088007909,
+    "pack_gap": 7.501651968582088,
+    "both": 0.8780390432786476,
     "wcac": 0.0
   },
   "score_delta_aic": {
-    "score_controls": 0.96075537511976,
-    "score_star": 0.10189177925602166,
-    "score_depth": 0.0,
-    "score_pack_gap": 2.210550707678749,
-    "score_both": 1.367766942554283
+    "score_controls": 5.036116439165085,
+    "score_star": 0.0,
+    "score_depth": 4.362881979135153,
+    "score_pack_gap": 6.820304705020959,
+    "score_both": 1.2253206865472634
   },
-  "n_clusters": 8,
+  "software": {
+    "python": "3.11.9",
+    "pandas": "2.3.0",
+    "numpy": "1.26.4",
+    "statsmodels": "0.14.6",
+    "matplotlib": "3.10.8",
+    "seed": 2025
+  },
+  "confirmatory_estimand": {
+    "hypothesis": "Among schools with an eligible prior championship result, prior fifth-runner relative time (within-meet z; higher = slower) predicts next championship team place more accurately than prior first-runner relative time after adjustment for log enrollment and school sector.",
+    "primary_outcome": "state_place",
+    "primary_comparison": "holdout_rmse_and_mae_depth_vs_star_and_controls",
+    "secondary": [
+      "in_sample_r2",
+      "aic",
+      "state_score",
+      "spearman"
+    ],
+    "exploratory": [
+      "wcac",
+      "pack_gap",
+      "ordered_logit",
+      "girls_panel",
+      "sensitivities"
+    ]
+  },
+  "n_clusters": 6,
   "seasons_fit": [
+    2019,
     2021,
-    2023,
-    2024
+    2023
   ],
-  "star_depth_corr": 0.8723108080271227,
-  "holdout_by_model": {},
+  "star_depth_corr": 0.8021173982957233,
+  "partial_corr_star_depth": 0.8254245859224485,
+  "vif_joint": {
+    "lag_star_z": {
+      "r_squared_aux": 0.6967816880242713,
+      "vif": 3.2979538520748894
+    },
+    "lag_depth_z": {
+      "r_squared_aux": 0.7033337049961028,
+      "vif": 3.37079073976659
+    }
+  },
+  "lag_gap_counts": {
+    "1": 4,
+    "2": 10
+  },
+  "holdout_coverage": {
+    "year": 2024,
+    "scoring_teams": 13,
+    "with_usable_lag": 7
+  },
+  "holdout_by_model": {
+    "controls": {
+      "n": 7,
+      "rmse": 2.0267033858176786,
+      "mae": 1.8368588182446148,
+      "spearman": 0.7783117824941563
+    },
+    "star": {
+      "n": 7,
+      "rmse": 1.8687816671099826,
+      "mae": 1.6365533791895739,
+      "spearman": 0.8571428571428573
+    },
+    "depth": {
+      "n": 7,
+      "rmse": 1.773120635990867,
+      "mae": 1.6547292927279729,
+      "spearman": 0.7857142857142859
+    },
+    "pack_gap": {
+      "n": 7,
+      "rmse": 2.480048601711905,
+      "mae": 2.1371718090428073,
+      "spearman": 0.28571428571428575
+    },
+    "both": {
+      "n": 7,
+      "rmse": 2.5153032136596125,
+      "mae": 1.9752269097042903,
+      "spearman": 0.42857142857142866
+    },
+    "wcac": {
+      "n": 7,
+      "rmse": 5.784622555542864,
+      "mae": 3.655369745996339,
+      "spearman": 0.21428571428571433
+    }
+  },
+  "holdout_score_by_model": {
+    "score_controls": {
+      "n": 7,
+      "rmse": 46.63492313675964,
+      "mae": 43.16477090125422,
+      "spearman": 0.8153742483272114
+    },
+    "score_star": {
+      "n": 7,
+      "rmse": 46.680061792674046,
+      "mae": 39.7324362317175,
+      "spearman": 0.8571428571428573
+    },
+    "score_depth": {
+      "n": 7,
+      "rmse": 41.048946306249505,
+      "mae": 38.55713887211861,
+      "spearman": 0.8214285714285715
+    },
+    "score_pack_gap": {
+      "n": 7,
+      "rmse": 50.49222799092542,
+      "mae": 44.50973805199584,
+      "spearman": 0.7142857142857144
+    }
+  },
+  "holdout_rmse_bootstrap": {
+    "mean": 1.7625857080970677,
+    "ci_low": 1.2654517843701512,
+    "ci_high": 2.2142256776242113,
+    "n_boot": 2000
+  },
+  "holdout_rmse_diff": {
+    "depth_minus_star": {
+      "observed": -0.09566103111911572,
+      "ci_low": -0.4896819129051665,
+      "ci_high": 0.4406010528073558,
+      "n_boot": 2000,
+      "note": "negative favors model a (lower RMSE)"
+    },
+    "depth_minus_controls": {
+      "observed": -0.2535827498268117,
+      "ci_low": -0.20834152436515277,
+      "ci_high": 0.5554758514636499,
+      "n_boot": 2000,
+      "note": "negative favors model a (lower RMSE)"
+    }
+  },
+  "holdout": {
+    "n": 7,
+    "rmse": 1.773120635990867,
+    "mae": 1.6547292927279729,
+    "spearman": 0.7857142857142859
+  },
+  "rolling_origin": {
+    "years": [
+      {
+        "test_year": 2024,
+        "n_train": 14,
+        "n_test": 7,
+        "rmse_controls": 2.0267033858176786,
+        "rmse_star": 1.8687816671099826,
+        "rmse_depth": 1.773120635990867
+      }
+    ],
+    "mean_rmse_controls": 2.0267033858176786,
+    "mean_rmse_star": 1.8687816671099826,
+    "mean_rmse_depth": 1.773120635990867,
+    "depth_beats_star_years": 1,
+    "n_years": 1
+  },
+  "sensitivity_no_enrollment": {
+    "n": 14,
+    "rsquared": 0.22868431237373887,
+    "rsquared_adj": 0.0884450964416913,
+    "aic": 56.386757637824104,
+    "params": {
+      "Intercept": 3.562021278886248,
+      "C(sector)[T.public]": 1.2558110974218915,
+      "lag_depth_z": 1.545835899312926
+    },
+    "pvalues": {
+      "Intercept": 3.255062803206082e-42,
+      "C(sector)[T.public]": 0.0004001271473227998,
+      "lag_depth_z": 0.3615670096418596
+    },
+    "bse": {
+      "Intercept": 0.26162201740200086,
+      "C(sector)[T.public]": 0.3547489051982991,
+      "lag_depth_z": 1.6942835348425331
+    },
+    "ci_low": {
+      "Intercept": 3.049251547215615,
+      "C(sector)[T.public]": 0.5605160196782113,
+      "lag_depth_z": -1.774898808577653
+    },
+    "ci_high": {
+      "Intercept": 4.074791010556881,
+      "C(sector)[T.public]": 1.9511061751655716,
+      "lag_depth_z": 4.866570607203505
+    }
+  },
+  "sensitivity_gap1_only": {
+    "skipped": true,
+    "n_rows": 4
+  },
+  "sensitivity_raw_times": {
+    "depth": {
+      "n": 14,
+      "rsquared": 0.31362981470666573,
+      "rsquared_adj": 0.10771875911866546,
+      "aic": 56.753228803143074,
+      "params": {
+        "Intercept": 7.577905748987552,
+        "C(sector)[T.public]": 4.26410376816613,
+        "log_enrollment": -2.3089688281746428,
+        "lag_depth_time": 0.007425978568980448
+      },
+      "pvalues": {
+        "Intercept": 0.7704332034536298,
+        "C(sector)[T.public]": 0.03197624238338109,
+        "log_enrollment": 0.15517926511950786,
+        "lag_depth_time": 0.5143192413568665
+      },
+      "bse": {
+        "Intercept": 25.968781237709695,
+        "C(sector)[T.public]": 1.9881983001149413,
+        "log_enrollment": 1.624349282321026,
+        "lag_depth_time": 0.01138731943262471
+      },
+      "ci_low": {
+        "Intercept": -43.31997019932294,
+        "C(sector)[T.public]": 0.3673067058170876,
+        "log_enrollment": -5.492634919837338,
+        "lag_depth_time": -0.014892757399417067
+      },
+      "ci_high": {
+        "Intercept": 58.475781697298046,
+        "C(sector)[T.public]": 8.160900830515173,
+        "log_enrollment": 0.8746972634880525,
+        "lag_depth_time": 0.02974471453737796
+      }
+    },
+    "star": {
+      "n": 14,
+      "rsquared": 0.5225474790061487,
+      "rsquared_adj": 0.3793117227079933,
+      "aic": 51.67189536578502,
+      "params": {
+        "Intercept": -2.200285681439614,
+        "C(sector)[T.public]": 5.032845553896131,
+        "log_enrollment": -2.571557658551394,
+        "lag_star_time": 0.017409737600688358
+      },
+      "pvalues": {
+        "Intercept": 0.8878922904625376,
+        "C(sector)[T.public]": 4.378941551666869e-15,
+        "log_enrollment": 8.917632404070528e-05,
+        "lag_star_time": 0.06724958924489621
+      },
+      "bse": {
+        "Intercept": 15.607994436572348,
+        "C(sector)[T.public]": 0.6416519201841274,
+        "log_enrollment": 0.656294517308672,
+        "lag_star_time": 0.00951350566058548
+      },
+      "ci_low": {
+        "Intercept": -32.79139264802295,
+        "C(sector)[T.public]": 3.7752308997242716,
+        "log_enrollment": -3.8578712757274904,
+        "lag_star_time": -0.0012363908607771201
+      },
+      "ci_high": {
+        "Intercept": 28.390821285143723,
+        "C(sector)[T.public]": 6.29046020806799,
+        "log_enrollment": -1.285244041375298,
+        "lag_star_time": 0.03605586606215384
+      }
+    }
+  },
   "loo_school_depth_coef": {
-    "n": 8,
-    "mean": 1.126144288225634,
-    "min": 0.3918382909481899,
-    "max": 2.106030603095788
+    "n": 6,
+    "mean": 1.3059610614474724,
+    "min": 0.09456456260806911,
+    "max": 3.299406174101119
   },
   "loo_school_place_rmse": {
-    "n": 14,
-    "rmse": 2.6333045527849754,
-    "mae": 2.213533075835115,
+    "n": 11,
+    "rmse": 5.271850193440922,
+    "mae": 2.8926862437636207,
     "by_school": {
-      "Georgetown Day": 0.780281144120684,
-      "Georgetown Visitation": 2.4389880364743894,
-      "Maret": 2.196325310237352,
-      "National Cathedral": 2.3262195152386886,
-      "Sidwell Friends": 1.6301886331871729,
-      "St. John's College": 5.051476502126887
+      "Georgetown Day": 0.5970279957853228,
+      "Georgetown Visitation": 1.5278534466926927,
+      "National Cathedral": 2.922589571004821,
+      "Sidwell Friends": 1.1259768624800386,
+      "St. John's College": 16.454534330678232
     }
   },
   "loo_school_score_rmse": {
-    "n": 14,
-    "rmse": 65.72672693753364,
-    "mae": 54.17296243688022,
+    "n": 11,
+    "rmse": 68.6110220900501,
+    "mae": 45.36260699348998,
     "by_school": {
-      "Georgetown Day": 28.476523094537498,
-      "Georgetown Visitation": 57.339356075806464,
-      "Maret": 59.47899530081929,
-      "National Cathedral": 43.614351401850826,
-      "Sidwell Friends": 39.582597949488644,
-      "St. John's College": 133.80198907191368
+      "Georgetown Day": 13.367049858496998,
+      "Georgetown Visitation": 29.374834902529695,
+      "National Cathedral": 57.04352243636958,
+      "Sidwell Friends": 25.935149270800522,
+      "St. John's College": 195.50702470422644
     }
   },
   "wild_cluster_depth": {
     "term": "lag_depth_z",
-    "observed": 1.2165730246477076,
-    "n_boot": 399,
-    "ci_low": -0.46050537747405834,
-    "ci_high": 2.89207328423463,
-    "excludes_zero": false
+    "observed": 1.2089279706594782,
+    "n_boot": 999,
+    "ci_low": -1.346980730051191,
+    "ci_high": 3.6000860599645077,
+    "excludes_zero": false,
+    "method": "wild_cluster_residual_sign_flip"
   },
   "wild_cluster_pack_gap": {
     "term": "lag_pack_gap",
-    "observed": 0.6361936433238928,
-    "n_boot": 399,
-    "ci_low": -1.4339054880881634,
-    "ci_high": 2.701371789382295,
-    "excludes_zero": false
+    "observed": -1.8551707066799994,
+    "n_boot": 999,
+    "ci_low": -4.443283325430027,
+    "ci_high": 1.139515214811448,
+    "excludes_zero": false,
+    "method": "wild_cluster_residual_sign_flip"
   },
   "loo_season_rmse": {
-    "2021": 1.8435520371760614,
-    "2024": 1.7503930883880743
+    "2019": 2.168284127255294,
+    "2021": 1.8905516916151663,
+    "2023": 12.195280902804042
   },
   "permutation_depth_r2": {
-    "observed": 0.7005156783567241,
-    "p": 0.185
+    "observed": 0.3191289815677021,
+    "n_perm": 999,
+    "p": 0.304
   },
   "permutation_depth_minus_star_r2": {
-    "observed": -0.012074746354229449,
-    "p": 0.58
+    "observed": -0.21568922807534763,
+    "n_perm": 999,
+    "p": 0.888
+  },
+  "ordered_logit": {
+    "controls": {
+      "n": 14,
+      "llf": -22.198870028096813,
+      "aic": 60.397740056193626,
+      "params": {
+        "C(sector)[T.public]": 15.48612817565087,
+        "log_enrollment": -10.078728883788978,
+        "1.0/2.0": -67.70267370465334,
+        "2.0/3.0": 1.4531002592008024,
+        "3.0/4.0": 0.03743552620063185,
+        "4.0/5.0": -0.3985258012589255,
+        "5.0/6.0": 0.2801905365969726,
+        "6.0/7.0": -0.17284911435961167
+      },
+      "pvalues": {
+        "C(sector)[T.public]": 0.14590946450857173,
+        "log_enrollment": 0.1755601116218818,
+        "1.0/2.0": 0.16800315655754539,
+        "2.0/3.0": 0.1443082507722649,
+        "3.0/4.0": 0.9440135282599165,
+        "4.0/5.0": 0.5476370962286583,
+        "5.0/6.0": 0.6033938117352611,
+        "6.0/7.0": 0.8590428823446016
+      }
+    },
+    "star": {
+      "n": 14,
+      "llf": -18.97473214907806,
+      "aic": 55.94946429815612,
+      "params": {
+        "C(sector)[T.public]": 15.626651349290226,
+        "log_enrollment": -9.376617816677964,
+        "lag_star_z": 4.949749734280396,
+        "1.0/2.0": -67.79666170616917,
+        "2.0/3.0": 1.4463644726372193,
+        "3.0/4.0": 0.42021184116975213,
+        "4.0/5.0": -0.06851684447897367,
+        "5.0/6.0": 0.5001981718341414,
+        "6.0/7.0": 0.17599119701612906
+      },
+      "pvalues": {
+        "C(sector)[T.public]": 0.06901986324195551,
+        "log_enrollment": 0.1192777984899138,
+        "lag_star_z": 0.026041602207602717,
+        "1.0/2.0": 0.08826533085472447,
+        "2.0/3.0": 0.0750878389338582,
+        "3.0/4.0": 0.4368799078100233,
+        "4.0/5.0": 0.9173165740651686,
+        "5.0/6.0": 0.3465245702373474,
+        "6.0/7.0": 0.8550568872416764
+      }
+    },
+    "depth": {
+      "n": 14,
+      "llf": -21.47301391455716,
+      "aic": 60.94602782911432,
+      "params": {
+        "C(sector)[T.public]": 14.395911178532378,
+        "log_enrollment": -9.125213299580187,
+        "lag_depth_z": 1.5195070887551945,
+        "1.0/2.0": -61.82535002344833,
+        "2.0/3.0": 1.44996762526702,
+        "3.0/4.0": 0.12445854958175492,
+        "4.0/5.0": -0.3568667255944789,
+        "5.0/6.0": 0.2905608887734236,
+        "6.0/7.0": -0.062464951423837976
+      },
+      "pvalues": {
+        "C(sector)[T.public]": 0.15454120352628628,
+        "log_enrollment": 0.19870842006127643,
+        "lag_depth_z": 0.24413787932522213,
+        "1.0/2.0": 0.18659846025445026,
+        "2.0/3.0": 0.12630285480253062,
+        "3.0/4.0": 0.8153451763801107,
+        "4.0/5.0": 0.5906374320318776,
+        "5.0/6.0": 0.5936716997003455,
+        "6.0/7.0": 0.9487098069333807
+      }
+    },
+    "pack_gap": {
+      "n": 14,
+      "llf": -21.734483133281838,
+      "aic": 61.468966266563676,
+      "params": {
+        "C(sector)[T.public]": 16.795862052692602,
+        "log_enrollment": -10.889109297475814,
+        "lag_pack_gap": -2.104036950986625,
+        "1.0/2.0": -74.4252606533211,
+        "2.0/3.0": 1.4425422157913474,
+        "3.0/4.0": 0.06515512276166407,
+        "4.0/5.0": -0.30652698233130266,
+        "5.0/6.0": 0.358735044106388,
+        "6.0/7.0": -0.17590253771605716
+      },
+      "pvalues": {
+        "C(sector)[T.public]": 0.1077538842415657,
+        "log_enrollment": 0.13364581234330988,
+        "lag_pack_gap": 0.355207611606946,
+        "1.0/2.0": 0.12196724679022294,
+        "2.0/3.0": 0.13754681808266003,
+        "3.0/4.0": 0.9028376473500076,
+        "4.0/5.0": 0.6455489542650027,
+        "5.0/6.0": 0.49847392796469303,
+        "6.0/7.0": 0.8559680952347669
+      }
+    },
+    "both": {
+      "n": 14,
+      "llf": -18.118120653936078,
+      "aic": 56.236241307872156,
+      "params": {
+        "C(sector)[T.public]": 18.184090868920205,
+        "log_enrollment": -10.925775477567742,
+        "lag_star_z": 8.282166231149429,
+        "lag_depth_z": -3.1207420305139575,
+        "1.0/2.0": -80.36650719752382,
+        "2.0/3.0": 1.501344633759476,
+        "3.0/4.0": 0.4367923556832631,
+        "4.0/5.0": 0.07352846877713096,
+        "5.0/6.0": 0.600263526335702,
+        "6.0/7.0": 0.10209988685542896
+      },
+      "pvalues": {
+        "C(sector)[T.public]": 0.03752091440166155,
+        "log_enrollment": 0.06977399391665977,
+        "lag_star_z": 0.02196364514855284,
+        "lag_depth_z": 0.23227746449408093,
+        "1.0/2.0": 0.04688120385187575,
+        "2.0/3.0": 0.04772477727699424,
+        "3.0/4.0": 0.4184314533734106,
+        "4.0/5.0": 0.9118154084711302,
+        "5.0/6.0": 0.24476408811653494,
+        "6.0/7.0": 0.9151817088783298
+      }
+    }
+  },
+  "ordered_logit_delta_aic": {
+    "controls": 4.448275758037504,
+    "star": 0.0,
+    "depth": 4.996563530958198,
+    "pack_gap": 5.519501968407553,
+    "both": 0.28677700971603315
   }
 }

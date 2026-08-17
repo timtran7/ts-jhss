@@ -1,0 +1,7 @@
+{
+  "n_overlap": 67,
+  "score_exact_match_rate": 0.3880597014925373,
+  "place_exact_match_rate": 0.8208955223880597,
+  "mean_abs_score_diff": 6.940298507462686,
+  "mean_abs_place_diff": 0.1791044776119403
+}

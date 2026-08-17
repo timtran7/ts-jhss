@@ -1,0 +1,44 @@
+season,school,prev_season,lag_gap_years,lag_star_z,lag_depth_z,lag_pack_gap,enrollment_9_12,enrollment_source,sector,wcac,state_place,state_score,score_source
+2019,Gonzaga College,2018.0,1.0,-1.6259801476132514,-0.7116147834297599,0.9143653641834916,960,static schools.csv fallback,private,1,1,59,posted_team_table
+2019,St. John's College,2018.0,1.0,-1.3079400209407326,-0.4929621963424032,0.8149778245983293,1100,static schools.csv fallback,private,1,2,61,posted_team_table
+2019,Jackson-Reed,2018.0,1.0,-1.4172663144844109,-0.5525947200935005,0.8646715943909103,1867,DCPS audit SY2019-20 sheet=Sheet1,public,0,3,87,posted_team_table
+2019,Sidwell Friends,2018.0,1.0,-1.3476950367747975,-0.483023442383887,0.8646715943909105,470,static schools.csv fallback,private,0,4,88,posted_team_table
+2019,St. Albans,2018.0,1.0,-1.268185005106668,-0.2246158394624655,1.0435691656442023,375,static schools.csv fallback,private,0,5,117,posted_team_table
+2019,Georgetown Day,2018.0,1.0,-0.5128397042594356,0.3915869059655397,0.9044266102249752,490,static schools.csv fallback,private,0,6,144,posted_team_table
+2019,School Without Walls,2018.0,1.0,-0.0755345300847223,1.0376059132690931,1.1131404433538157,591,DCPS audit SY2019-20 sheet=Sheet1,public,0,8,210,posted_team_table
+2021,St. John's College,2019.0,2.0,-1.0627858254003533,-0.8232253314998298,0.2395604939005234,1100,static schools.csv fallback,private,1,1,41,posted_team_table
+2021,St. Albans,2019.0,2.0,-1.2573354721770056,-0.2102323029896681,1.0471031691873374,375,static schools.csv fallback,private,0,2,63,posted_team_table
+2021,Georgetown Day,2019.0,2.0,-0.8059007144668862,-0.043949136635188,0.7619515778316981,490,static schools.csv fallback,private,0,3,65,posted_team_table
+2021,Gonzaga College,2019.0,2.0,-1.3593766375720038,-0.4644648409802928,0.894911796591711,960,static schools.csv fallback,private,1,4,87,posted_team_table
+2021,Sidwell Friends,2019.0,2.0,-1.203123512657649,-0.405942450428816,0.7971810622288329,470,static schools.csv fallback,private,0,5,95,posted_team_table
+2021,Jackson-Reed,2019.0,2.0,-1.1807424284524102,-0.2229149173726386,0.9578275110797716,2050,DCPS audit SY2021-22 sheet=SY2021-22,public,0,6,180,posted_team_table
+2022,St. Albans,2021.0,1.0,-1.0185085884343374,-0.5762242874786984,0.4422843009556391,375,static schools.csv fallback,private,0,1,30,reconstructed_from_individuals
+2022,Gonzaga College,2021.0,1.0,-0.7220068436192234,-0.5856418633898343,0.1363649802293891,960,static schools.csv fallback,private,1,2,54,reconstructed_from_individuals
+2022,St. John's College,2021.0,1.0,-0.9814078962360324,-0.6734379743033256,0.3079699219327068,1100,static schools.csv fallback,private,1,3,85,reconstructed_from_individuals
+2022,Georgetown Day,2021.0,1.0,-0.748474788821085,-0.6757164200882775,0.0727583687328075,490,static schools.csv fallback,private,0,4,86,reconstructed_from_individuals
+2022,Sidwell Friends,2021.0,1.0,-0.9038268172584096,-0.3005323474994807,0.6032944697589289,470,static schools.csv fallback,private,0,5,124,reconstructed_from_individuals
+2022,Jackson-Reed,2021.0,1.0,-0.5163391374308712,-0.0232834695672129,0.4930556678636583,2139,DCPS audit SY2022-23 sheet=SY2022-23,public,0,6,161,reconstructed_from_individuals
+2022,Edmund Burke,2021.0,1.0,-0.0126127484743536,0.7494134443029126,0.7620261927772662,300,static schools.csv fallback,private,0,8,255,reconstructed_from_individuals
+2022,Washington Latin,2021.0,1.0,-0.6770834875592493,0.8093365684471556,1.486420056006405,580,static schools.csv fallback,charter,0,10,309,reconstructed_from_individuals
+2023,Gonzaga College,2022.0,1.0,-1.5543713044674985,-0.8408467181444927,0.7135245863230057,960,static schools.csv fallback,private,1,1,34,posted_team_table
+2023,St. Albans,2022.0,1.0,-1.9583469160274896,-1.0410595871425905,0.9172873288848992,375,static schools.csv fallback,private,0,2,43,posted_team_table
+2023,St. John's College,2022.0,1.0,-1.4421952998515437,-0.3900127755423945,1.0521825243091492,1100,static schools.csv fallback,private,1,3,46,posted_team_table
+2023,Georgetown Day,2022.0,1.0,-1.2938105848848682,-0.6605131411036544,0.6332974437812138,490,static schools.csv fallback,private,0,4,115,posted_team_table
+2023,Sidwell Friends,2022.0,1.0,-1.075138373355032,-0.2948761640326614,0.7802622093223706,470,static schools.csv fallback,private,0,5,177,posted_team_table
+2023,Jackson-Reed,2022.0,1.0,-0.9800017618452987,-0.0506448628434926,0.9293568990018062,1978,DCPS audit SY2023-24 sheet=SY 2023-24,public,0,6,191,posted_team_table
+2023,DC International,2022.0,1.0,-0.0144361524927736,0.5826525809377228,0.5970887334304964,1450,static schools.csv fallback,charter,0,7,197,posted_team_table
+2023,Maret,2022.0,1.0,-0.2927462398943825,0.2496744406536527,0.5424206805480353,320,static schools.csv fallback,private,0,8,277,posted_team_table
+2023,Washington Latin,2022.0,1.0,0.0686308889000542,1.3245761557710969,1.255945266871043,580,static schools.csv fallback,charter,0,9,288,posted_team_table
+2023,KIPP DC College Prep,2022.0,1.0,0.3753399648120332,1.7356515144586784,1.3603115496466451,700,static schools.csv fallback,charter,0,14,368,posted_team_table
+2024,St. Albans,2023.0,1.0,-1.3326403979252457,-0.8470903981303977,0.485549999794848,375,static schools.csv fallback,private,0,1,25,posted_team_table
+2024,Gonzaga College,2023.0,1.0,-1.302442083518779,-0.9715571537520412,0.3308849297667379,960,static schools.csv fallback,private,1,2,64,posted_team_table
+2024,St. John's College,2023.0,1.0,-1.162416983444431,-0.9405485089053296,0.2218684745391012,1100,static schools.csv fallback,private,1,3,67,posted_team_table
+2024,Georgetown Day,2023.0,1.0,-0.8115439028183142,-0.5329522974620586,0.2785916053562556,490,static schools.csv fallback,private,0,4,108,posted_team_table
+2024,Jackson-Reed,2023.0,1.0,-0.7358590396994245,0.4136217008028856,1.1494807405023102,1846,DCPS audit SY2024-25 sheet=SY 2024-25,public,0,5,133,posted_team_table
+2024,Sidwell Friends,2023.0,1.0,-0.66584648966225,-0.1419948710584853,0.5238516186037647,470,static schools.csv fallback,private,0,6,214,posted_team_table
+2024,Washington Latin,2023.0,1.0,-0.5608816866358391,0.4833641406933119,1.044245827329151,580,static schools.csv fallback,charter,0,7,234,posted_team_table
+2024,Maret,2023.0,1.0,-0.3855261793668053,0.6176088836272452,1.0031350629940503,320,static schools.csv fallback,private,0,8,245,posted_team_table
+2024,BASIS DC,2023.0,1.0,-0.3226445372037871,0.5079441640474123,0.8305887012511994,560,static schools.csv fallback,charter,0,9,249,posted_team_table
+2024,DC International,2023.0,1.0,-0.6864288828444758,-0.0450793504051755,0.6413495324393003,1450,static schools.csv fallback,charter,0,10,254,posted_team_table
+2024,McKinley Technology,2023.0,1.0,-0.2215152982612019,0.824189123860389,1.045704422121591,723,DCPS audit SY2024-25 sheet=SY 2024-25,public,0,11,266,posted_team_table
+2024,Field,2022.0,2.0,-0.2167789456291483,2.099158567391394,2.3159375130205424,340,static schools.csv fallback,private,0,12,302,posted_team_table

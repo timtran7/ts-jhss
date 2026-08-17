@@ -1,0 +1,233 @@
+school,season,enrollment_9_12,source
+Anacostia,2017,358,DCPS audit SY2017-18 sheet=Sheet1
+Anacostia,2018,272,DCPS audit SY2018-19 sheet=Sheet1
+Anacostia,2019,296,DCPS audit SY2019-20 sheet=Sheet1
+Anacostia,2021,303,DCPS audit SY2021-22 sheet=SY2021-22
+Anacostia,2022,258,DCPS audit SY2022-23 sheet=SY2022-23
+Anacostia,2023,213,DCPS audit SY2023-24 sheet=SY 2023-24
+Anacostia,2024,225,DCPS audit SY2024-25 sheet=SY 2024-25
+Anacostia,2025,222,DCPS audit SY2025-26 sheet=SY 2025-26
+Archbishop Carroll,2017,380,static schools.csv fallback
+Archbishop Carroll,2018,380,static schools.csv fallback
+Archbishop Carroll,2019,380,static schools.csv fallback
+Archbishop Carroll,2021,380,static schools.csv fallback
+Archbishop Carroll,2022,380,static schools.csv fallback
+Archbishop Carroll,2023,380,static schools.csv fallback
+Archbishop Carroll,2024,380,static schools.csv fallback
+Archbishop Carroll,2025,380,static schools.csv fallback
+BASIS DC,2017,560,static schools.csv fallback
+BASIS DC,2018,560,static schools.csv fallback
+BASIS DC,2019,560,static schools.csv fallback
+BASIS DC,2021,560,static schools.csv fallback
+BASIS DC,2022,560,static schools.csv fallback
+BASIS DC,2023,560,static schools.csv fallback
+BASIS DC,2024,560,static schools.csv fallback
+BASIS DC,2025,560,static schools.csv fallback
+Banneker,2017,482,DCPS audit SY2017-18 sheet=Sheet1
+Banneker,2018,482,DCPS audit SY2018-19 sheet=Sheet1
+Banneker,2019,523,DCPS audit SY2019-20 sheet=Sheet1
+Banneker,2021,537,DCPS audit SY2021-22 sheet=SY2021-22
+Banneker,2022,579,DCPS audit SY2022-23 sheet=SY2022-23
+Banneker,2023,671,DCPS audit SY2023-24 sheet=SY 2023-24
+Banneker,2024,703,DCPS audit SY2024-25 sheet=SY 2024-25
+Banneker,2025,763,DCPS audit SY2025-26 sheet=SY 2025-26
+Bell Multicultural,2017,952,DCPS audit SY2017-18 sheet=Sheet1
+Bell Multicultural,2018,948,DCPS audit SY2018-19 sheet=Sheet1
+Bell Multicultural,2019,928,DCPS audit SY2019-20 sheet=Sheet1
+Bell Multicultural,2021,1040,DCPS audit SY2021-22 sheet=SY2021-22
+Bell Multicultural,2022,1035,DCPS audit SY2022-23 sheet=SY2022-23
+Bell Multicultural,2023,950,DCPS audit SY2023-24 sheet=SY 2023-24
+Bell Multicultural,2024,1028,DCPS audit SY2024-25 sheet=SY 2024-25
+Bell Multicultural,2025,1002,DCPS audit SY2025-26 sheet=SY 2025-26
+Coolidge,2017,301,DCPS audit SY2017-18 sheet=Sheet1
+Coolidge,2018,313,DCPS audit SY2018-19 sheet=Sheet1
+Coolidge,2019,444,DCPS audit SY2019-20 sheet=Sheet1
+Coolidge,2021,725,DCPS audit SY2021-22 sheet=SY2021-22
+Coolidge,2022,998,DCPS audit SY2022-23 sheet=SY2022-23
+Coolidge,2023,1070,DCPS audit SY2023-24 sheet=SY 2023-24
+Coolidge,2024,1005,DCPS audit SY2024-25 sheet=SY 2024-25
+Coolidge,2025,1048,DCPS audit SY2025-26 sheet=SY 2025-26
+DC International,2017,1450,static schools.csv fallback
+DC International,2018,1450,static schools.csv fallback
+DC International,2019,1450,static schools.csv fallback
+DC International,2021,1450,static schools.csv fallback
+DC International,2022,1450,static schools.csv fallback
+DC International,2023,1450,static schools.csv fallback
+DC International,2024,1450,static schools.csv fallback
+DC International,2025,1450,static schools.csv fallback
+E.L. Haynes,2017,420,static schools.csv fallback
+E.L. Haynes,2018,420,static schools.csv fallback
+E.L. Haynes,2019,420,static schools.csv fallback
+E.L. Haynes,2021,420,static schools.csv fallback
+E.L. Haynes,2022,420,static schools.csv fallback
+E.L. Haynes,2023,420,static schools.csv fallback
+E.L. Haynes,2024,420,static schools.csv fallback
+E.L. Haynes,2025,420,static schools.csv fallback
+Eastern,2017,747,DCPS audit SY2017-18 sheet=Sheet1
+Eastern,2018,722,DCPS audit SY2018-19 sheet=Sheet1
+Eastern,2019,757,DCPS audit SY2019-20 sheet=Sheet1
+Eastern,2021,727,DCPS audit SY2021-22 sheet=SY2021-22
+Eastern,2022,828,DCPS audit SY2022-23 sheet=SY2022-23
+Eastern,2023,845,DCPS audit SY2023-24 sheet=SY 2023-24
+Eastern,2024,881,DCPS audit SY2024-25 sheet=SY 2024-25
+Eastern,2025,952,DCPS audit SY2025-26 sheet=SY 2025-26
+Edmund Burke,2017,300,static schools.csv fallback
+Edmund Burke,2018,300,static schools.csv fallback
+Edmund Burke,2019,300,static schools.csv fallback
+Edmund Burke,2021,300,static schools.csv fallback
+Edmund Burke,2022,300,static schools.csv fallback
+Edmund Burke,2023,300,static schools.csv fallback
+Edmund Burke,2024,300,static schools.csv fallback
+Edmund Burke,2025,300,static schools.csv fallback
+Field,2017,340,static schools.csv fallback
+Field,2018,340,static schools.csv fallback
+Field,2019,340,static schools.csv fallback
+Field,2021,340,static schools.csv fallback
+Field,2022,340,static schools.csv fallback
+Field,2023,340,static schools.csv fallback
+Field,2024,340,static schools.csv fallback
+Field,2025,340,static schools.csv fallback
+Georgetown Day,2017,490,static schools.csv fallback
+Georgetown Day,2018,490,static schools.csv fallback
+Georgetown Day,2019,490,static schools.csv fallback
+Georgetown Day,2021,490,static schools.csv fallback
+Georgetown Day,2022,490,static schools.csv fallback
+Georgetown Day,2023,490,static schools.csv fallback
+Georgetown Day,2024,490,static schools.csv fallback
+Georgetown Day,2025,490,static schools.csv fallback
+Georgetown Visitation,2017,490,static schools.csv fallback
+Georgetown Visitation,2018,490,static schools.csv fallback
+Georgetown Visitation,2019,490,static schools.csv fallback
+Georgetown Visitation,2021,490,static schools.csv fallback
+Georgetown Visitation,2022,490,static schools.csv fallback
+Georgetown Visitation,2023,490,static schools.csv fallback
+Georgetown Visitation,2024,490,static schools.csv fallback
+Georgetown Visitation,2025,490,static schools.csv fallback
+Gonzaga College,2017,960,static schools.csv fallback
+Gonzaga College,2018,960,static schools.csv fallback
+Gonzaga College,2019,960,static schools.csv fallback
+Gonzaga College,2021,960,static schools.csv fallback
+Gonzaga College,2022,960,static schools.csv fallback
+Gonzaga College,2023,960,static schools.csv fallback
+Gonzaga College,2024,960,static schools.csv fallback
+Gonzaga College,2025,960,static schools.csv fallback
+Jackson-Reed,2017,1825,DCPS audit SY2017-18 sheet=Sheet1
+Jackson-Reed,2018,1789,DCPS audit SY2018-19 sheet=Sheet1
+Jackson-Reed,2019,1867,DCPS audit SY2019-20 sheet=Sheet1
+Jackson-Reed,2021,2050,DCPS audit SY2021-22 sheet=SY2021-22
+Jackson-Reed,2022,2139,DCPS audit SY2022-23 sheet=SY2022-23
+Jackson-Reed,2023,1978,DCPS audit SY2023-24 sheet=SY 2023-24
+Jackson-Reed,2024,1846,DCPS audit SY2024-25 sheet=SY 2024-25
+Jackson-Reed,2025,1708,DCPS audit SY2025-26 sheet=SY 2025-26
+KIPP DC College Prep,2017,700,static schools.csv fallback
+KIPP DC College Prep,2018,700,static schools.csv fallback
+KIPP DC College Prep,2019,700,static schools.csv fallback
+KIPP DC College Prep,2021,700,static schools.csv fallback
+KIPP DC College Prep,2022,700,static schools.csv fallback
+KIPP DC College Prep,2023,700,static schools.csv fallback
+KIPP DC College Prep,2024,700,static schools.csv fallback
+KIPP DC College Prep,2025,700,static schools.csv fallback
+MacArthur,2017,400,static schools.csv fallback
+MacArthur,2018,400,static schools.csv fallback
+MacArthur,2019,400,static schools.csv fallback
+MacArthur,2021,400,static schools.csv fallback
+MacArthur,2022,400,static schools.csv fallback
+MacArthur,2023,232,DCPS audit SY2023-24 sheet=SY 2023-24
+MacArthur,2024,383,DCPS audit SY2024-25 sheet=SY 2024-25
+MacArthur,2025,566,DCPS audit SY2025-26 sheet=SY 2025-26
+Maret,2017,320,static schools.csv fallback
+Maret,2018,320,static schools.csv fallback
+Maret,2019,320,static schools.csv fallback
+Maret,2021,320,static schools.csv fallback
+Maret,2022,320,static schools.csv fallback
+Maret,2023,320,static schools.csv fallback
+Maret,2024,320,static schools.csv fallback
+Maret,2025,320,static schools.csv fallback
+McKinley Technology,2017,620,DCPS audit SY2017-18 sheet=Sheet1
+McKinley Technology,2018,633,DCPS audit SY2018-19 sheet=Sheet1
+McKinley Technology,2019,653,DCPS audit SY2019-20 sheet=Sheet1
+McKinley Technology,2021,691,DCPS audit SY2021-22 sheet=SY2021-22
+McKinley Technology,2022,696,DCPS audit SY2022-23 sheet=SY2022-23
+McKinley Technology,2023,704,DCPS audit SY2023-24 sheet=SY 2023-24
+McKinley Technology,2024,723,DCPS audit SY2024-25 sheet=SY 2024-25
+McKinley Technology,2025,715,DCPS audit SY2025-26 sheet=SY 2025-26
+National Cathedral,2017,490,static schools.csv fallback
+National Cathedral,2018,490,static schools.csv fallback
+National Cathedral,2019,490,static schools.csv fallback
+National Cathedral,2021,490,static schools.csv fallback
+National Cathedral,2022,490,static schools.csv fallback
+National Cathedral,2023,490,static schools.csv fallback
+National Cathedral,2024,490,static schools.csv fallback
+National Cathedral,2025,490,static schools.csv fallback
+Phelps Career,2017,260,DCPS audit SY2017-18 sheet=Sheet1
+Phelps Career,2018,265,DCPS audit SY2018-19 sheet=Sheet1
+Phelps Career,2019,257,DCPS audit SY2019-20 sheet=Sheet1
+Phelps Career,2021,320,DCPS audit SY2021-22 sheet=SY2021-22
+Phelps Career,2022,317,DCPS audit SY2022-23 sheet=SY2022-23
+Phelps Career,2023,310,DCPS audit SY2023-24 sheet=SY 2023-24
+Phelps Career,2024,350,DCPS audit SY2024-25 sheet=SY 2024-25
+Phelps Career,2025,379,DCPS audit SY2025-26 sheet=SY 2025-26
+Roosevelt,2017,681,DCPS audit SY2017-18 sheet=Sheet1
+Roosevelt,2018,632,DCPS audit SY2018-19 sheet=Sheet1
+Roosevelt,2019,756,DCPS audit SY2019-20 sheet=Sheet1
+Roosevelt,2021,789,DCPS audit SY2021-22 sheet=SY2021-22
+Roosevelt,2022,900,DCPS audit SY2022-23 sheet=SY2022-23
+Roosevelt,2023,895,DCPS audit SY2023-24 sheet=SY 2023-24
+Roosevelt,2024,923,DCPS audit SY2024-25 sheet=SY 2024-25
+Roosevelt,2025,766,DCPS audit SY2025-26 sheet=SY 2025-26
+School Without Walls,2017,592,DCPS audit SY2017-18 sheet=Sheet1
+School Without Walls,2018,592,DCPS audit SY2018-19 sheet=Sheet1
+School Without Walls,2019,591,DCPS audit SY2019-20 sheet=Sheet1
+School Without Walls,2021,597,DCPS audit SY2021-22 sheet=SY2021-22
+School Without Walls,2022,602,DCPS audit SY2022-23 sheet=SY2022-23
+School Without Walls,2023,599,DCPS audit SY2023-24 sheet=SY 2023-24
+School Without Walls,2024,606,DCPS audit SY2024-25 sheet=SY 2024-25
+School Without Walls,2025,602,DCPS audit SY2025-26 sheet=SY 2025-26
+Sidwell Friends,2017,470,static schools.csv fallback
+Sidwell Friends,2018,470,static schools.csv fallback
+Sidwell Friends,2019,470,static schools.csv fallback
+Sidwell Friends,2021,470,static schools.csv fallback
+Sidwell Friends,2022,470,static schools.csv fallback
+Sidwell Friends,2023,470,static schools.csv fallback
+Sidwell Friends,2024,470,static schools.csv fallback
+Sidwell Friends,2025,470,static schools.csv fallback
+St. Albans,2017,375,static schools.csv fallback
+St. Albans,2018,375,static schools.csv fallback
+St. Albans,2019,375,static schools.csv fallback
+St. Albans,2021,375,static schools.csv fallback
+St. Albans,2022,375,static schools.csv fallback
+St. Albans,2023,375,static schools.csv fallback
+St. Albans,2024,375,static schools.csv fallback
+St. Albans,2025,375,static schools.csv fallback
+St. Anselm's Abbey,2017,250,static schools.csv fallback
+St. Anselm's Abbey,2018,250,static schools.csv fallback
+St. Anselm's Abbey,2019,250,static schools.csv fallback
+St. Anselm's Abbey,2021,250,static schools.csv fallback
+St. Anselm's Abbey,2022,250,static schools.csv fallback
+St. Anselm's Abbey,2023,250,static schools.csv fallback
+St. Anselm's Abbey,2024,250,static schools.csv fallback
+St. Anselm's Abbey,2025,250,static schools.csv fallback
+St. John's College,2017,1100,static schools.csv fallback
+St. John's College,2018,1100,static schools.csv fallback
+St. John's College,2019,1100,static schools.csv fallback
+St. John's College,2021,1100,static schools.csv fallback
+St. John's College,2022,1100,static schools.csv fallback
+St. John's College,2023,1100,static schools.csv fallback
+St. John's College,2024,1100,static schools.csv fallback
+St. John's College,2025,1100,static schools.csv fallback
+Washington International,2017,450,static schools.csv fallback
+Washington International,2018,450,static schools.csv fallback
+Washington International,2019,450,static schools.csv fallback
+Washington International,2021,450,static schools.csv fallback
+Washington International,2022,450,static schools.csv fallback
+Washington International,2023,450,static schools.csv fallback
+Washington International,2024,450,static schools.csv fallback
+Washington International,2025,450,static schools.csv fallback
+Washington Latin,2017,580,static schools.csv fallback
+Washington Latin,2018,580,static schools.csv fallback
+Washington Latin,2019,580,static schools.csv fallback
+Washington Latin,2021,580,static schools.csv fallback
+Washington Latin,2022,580,static schools.csv fallback
+Washington Latin,2023,580,static schools.csv fallback
+Washington Latin,2024,580,static schools.csv fallback
+Washington Latin,2025,580,static schools.csv fallback

@@ -57,6 +57,8 @@ def _norm(name: str) -> str:
         "school without walls (dc)": "school without walls",
         "school without walls high": "school without walls",
         "st albans": "st albans",
+        "georgetown visitation pre": "georgetown visitation",
+        "bell high": "bell multicultural",
     }
     return replacements.get(s, s)
 
